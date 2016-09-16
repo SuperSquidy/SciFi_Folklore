@@ -12,7 +12,7 @@ allWalkthroughs = []
 
 #actually getting all the files
 filenames = os.listdir(direct)
-print filenames
+#print filenames
 
 #opening, reading, and adding the files to 'walkthroughs' the files
 for f in filenames:
@@ -34,11 +34,11 @@ for l in walkthroughs:
 
 #shuffling the list together
 random.shuffle(allWalkthroughs) 
-#print allWalkthroughs
+print 'Shuffled Walkthroughs'
 
 #writing the file
 already_there = os.listdir(rando)
-print already_there
+#print already_there
 
 newName = raw_input(("Enter the new file name: "))
 
