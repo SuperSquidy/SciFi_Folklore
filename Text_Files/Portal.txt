@@ -1,0 +1,343 @@
+Chamber 00
+You start in a small box called the "relaxation vault", unable to get out. After a few seconds, GLaDOS will introduce you to the game:
+Hello and again welcome to the Aperture Science Computer-Aided Enrichment Centre. We hope your brief detention in the relaxation vault has been a pleasant one. Your specimen has been processed and we are now ready to begin the test proper. Before we start, however, keep in mind that although fun and learning are the primary goals of the enrichment centre activities, serious injuries may occur. For your own safety, and the safety of others, please refrain from…
+—GLaDOS
+At this point, the voice is subsumed by static, and nothing can be made out, until GLaDOS counts down to the vault opening. Such outbursts of static will happen frequently when you are about to be given potentially useful information, just to make things harder.
+The vault opens with a portal; a hole in space from one place to another — in this case, from inside the vault to a wall facing it. Looking through this portal, you can see yourself in the vault. You'd better get used to such paradoxes, as Portal is full of them, and indeed, they are the basis for the game.
+Exit the vault, and proceed to the next room, which contains the first puzzle. This puzzle is designed to get you acquainted with the basics of the game, and all that is required is for you to pick up the cube and put it on the button to open the door. With the default keybindings, pick up the cube by pointing at it and pressing E, then move it to the button and press E again to release it. The door will open, and you can proceed to the chamberlock to get to the next level.
+
+Chamber 01
+This chamber is also designed to get you acquainted to the game, and is a simple matter of timing.
+As you approach the main area, you will see that there are three sections connected to the main area that have a boundary preventing you from walking directly to them. Fall into the main area, and look through the portal. It will regularly change from the section with a cube in it, to the section with a button, to the section with the exit door. When the section with the cube is visible, go through the portal, pick up the cube, and return to the main area.
+You must now wait until the section with the button is visible. When it is, enter it with the cube, place the cube on the button, and return again to the main area.
+Finally, you can now wait until the exit door is visible, go through the portal, and exit to the next chamber.
+Please move quickly to the chamberlock, as the effects of prolonged exposure to the button are not part of this test.
+—GLaDOS
+Chamber 02
+This chamber introduces you to the portal gun, and gives you the ability to create the blue end of portals — but not yet the ability to create both ends.
+You start off with an overview of the chamber through a window. In the middle of the chamber is a portal gun, rotating and creating portals. Your first objective is to get the portal gun, and doing that requires waiting for the portal to be in the right place.
+Go down the stairs to the right, and wait until a portal appears, then go through it. This will take you to the ledge opposite where you first were, but you can't proceed to the chamberlock, as the door to it is closed. Walk off the ledge into the main area of the chamber, and pick up the portal gun.
+You'll notice that the orange end of the portal is permanently in place on the ledge you were just on, and you can use this to your advantage. Now that you have picked up the portal gun, the door to the chamberlock has opened, so fire the portal gun at any wall you can reach to create a portal between this level of the chamber and the ledge, then walk through the portal to get back onto the ledge. You can now proceed to the chamberlock.
+
+Chamber 03
+
+This chamber contains no doors, buttons or cubes, but is simply to test that you grasp the basics of how to use portals. The orange end of a portal is permanently in place on the middle pier of three; you're on the first, and the chamberlock is on the third.
+To get to the middle pier, create a portal in a wall next to you, and walk through it; it will take you straight to the middle pier.
+To get to the third pier, fire the portal gun at a wall on the third pier, and walk back through the permanent orange end of the portal. Although you just came through this portal from the first pier, since you've changed the location of the blue end of the portal, you now arrive on the third pier, and can exit the level. An important fact to remember is that when you fire the portal gun to create a portal end of a specific colour, the previously-existing portal end of that colour will disappear; you can only have one blue and one orange portal end at a time.
+Well done. Remember the Aperture Science "bring your daughter to work" day is the perfect time to have her tested.
+—GLaDOS
+
+
+Chamber 04
+This chamber is another simple one to get you used to the concepts in Portal. Like the previous chamber, it has a single fixed orange end to a portal, but this time you must press a button to open the exit door.
+If you look at the cube dispenser, it drops a cube into a pit. While getting into the pit is as easy as falling into it, getting back out at first seems impossible. However, if you fire the portal gun at a wall at the bottom of the pit, then walk into it, you will come back out of the orange portal. Pick up a cube and return to the main area of the chamber, then put the cube on the button and exit.
+Alternately, it is sometimes possible (based on how the cube lands) to shoot a blue portal below the cube and have it fall through to the floor next to the button, without you even having to enter the pit.
+Once again, excellent work. As part of a required test protocol, we will not monitor the next test chamber. You will be entirely on your own. Good luck.
+—GLaDOS
+Though difficult, it is possible to get the cube through the exit doorway, thus no longer being able to exit yourself. GLaDOS will acknowledge this, and open a "complimentary escape hatch" (the exit door) for you. Similar events can occur in numerous chambers, with varying amusing lines from GLaDOS.
+One way to get the cube through the door is to knock down the two cameras and then bring them to the door. Set them side by side and place the cube on top. If you get them placed at the right angle, the cube will be leaning against the door. When you press the button, it will gently roll through the doorway. When you go to the door it will be closed; wait for GLaDOS to begin speaking. Another way is to place a portal as close to the exit door as possible and rub the cube against the edge near the exit.
+
+Chamber 05
+
+This chamber is the first real puzzle of the game. It consists of a single door to the chamberlock, but for the door to open, two buttons need to be pressed. One cube is down in a pit as with the last chamber, while another is on top of one of two platforms. On the other platform is a fixed orange end of a portal.
+Fire the portal gun down into the pit, then walk into the pit (Portal does not have falling damage, for good reason, and this is also why Chell is wearing "long fall boots") and pick up the first cube. Return through the portal to the platform, walk down to the main area, and place the cube on a button.
+To retrieve the second cube from the second platform, re-create a blue portal anywhere reachable to get back onto the platform with the orange portal. Then fire the portal gun at the wall behind the second cube. Go through the orange portal, and walk back down to the main area with the second cube. Placing it on the second button results in the door opening.
+However, before you can proceed to the next level, you must hear one of the many amusing lines GLaDOS utters throughout the game, contradicting the statement made at the end of the previous chamber:
+As part of a required test protocol our previous statement suggesting that we would not monitor this chamber was an outright fabrication. Good job. As part of a required test protocol, we will stop enhancing the truth in 3…2…
+—GLaDOS
+Static once more subsumes the announcement.
+To reach the chamberlock – which is on a floor above you – you need to notice that there's a fixed orange portal end in the ceiling above the chamberlock. Simply create a portal in the wall next to you, and walk through it to fall down next to the chamberlock. Whenever you go through a re-orienting portal in this manner, you will always land feet-first.
+
+
+
+Chamber 06
+This chamber introduces the concept of pellets, pellet launchers, and pellet receivers.
+You must be careful around pellets though; as GLaDOS says, they're dangerous, and will instantly kill you if you touch them:
+While safety is one of many Enrichment Center goals, the Aperture Science High-Energy Pellet, seen to the left of the chamber, can and has caused permanent disabilities, such as vaporization. Please be careful.
+—GLaDOS
+The objective here is to direct a pellet into the pellet receiver, which will then power the lift, enabling access to the chamberlock. Since there is a fixed orange portal end beneath the pellet launcher, it makes sense to put a portal above the pellet receiver, so that when pellets are launched, they go through the portal, and fly into the receiver. Notice that a red light is radiating out of the receiver, and this shows up on the ceiling directly above it. This can be used to accurately place a portal across from the pellet receiver. The pellet will fly through and be captured by the pellet receiver, which will then power the lift, allowing you to proceed to the next chamber.
+
+Chamber 07
+
+Chamber 07 uses pellets for the second time, with the pellet receiver powering a platform to take you to the chamberlock this time.
+The first portal simply needs to be placed where the pellet is making a burn mark in the wall opposite the pellet launcher; the pellet will go through the portal and come out the fixed orange end of the portal on the floor, heading into the pellet receiver. This will start the platform moving.
+At first it might seem impossible to get onto the platform, but if you notice, there's a space on the ceiling above the platform at one end where a portal can be made. Fire the portal gun at the ceiling above the left side of the platform's movement range, then walk over to the fixed orange end of the portal on the floor.
+Wait until the platform is directly beneath the blue end of the portal, and then fall through the orange end to land on the platform. Looking through the orange portal before falling through will help you adjust your portal placement or your fall so that you are more likely to land on the platform. Do not jump early, because the edge of the portal will limit your horizontal movement. Once safely on the platform, wait until you can jump over and proceed to the chamberlock.
+
+
+Chamber 08
+Chamber 8 is where you first start facing a little bit of danger; as GLaDOS puts it:
+Please note that we have added a consequence for failure. Any contact with the chamber floor will result in an unsatisfactory mark on your official testing record, followed by death. Good luck.
+—GLaDOS
+The first thing to do is to reorient the pellet on the left so that it's flying out of the orange portal. To do this, place a portal on the burn mark on the far wall where the pellet bounces. The pellet will fly through and come out of the fixed orange end of the portal. Now, before it bounces back through the portal towards the pellet launcher, re-place the blue end of the portal on top of the red area lit by the pellet receiver; thus when the pellet does bounce back into the orange end of the portal, it will come out the blue end heading straight towards the pellet receiver.
+To get to the exit, you must get onto the platform, but this has to be a two-stage process, as the orange end of the portal is fixed. First, create a portal anywhere accessible from your current location, and go through it, bringing you to the ledge. Now, create a portal on the wall beside the near end of the platform's track, and wait until the platform is beside it before going through and riding to the chamberlock.
+Very impressive. Please note that any appearance of danger is merely a device to enhance your testing experience.
+—GLaDOS
+Chamber 09
+This chamber is more an exercise in ignoring extreme pessimism from GLaDOS, rather than a difficult challenge. The level begins with GLaDOS saying:
+The Enrichment Centre regrets to inform you that this next test is impossible. Make no attempt to solve it.
+—GLaDOS
+Despite the pessimism, this chamber is easily solvable. Do not worry if you destroy a cube in the emancipation grid, as another one will simply be deployed for you.
+To begin, create a portal at ground level so that you can take a cube up to the platform, using the fixed orange end of the portal there.
+Once a cube is placed right in front of the orange portal, you have two options. You can either shoot a portal through the small opening (above the emancipation grid; with the radio on your second playthrough) so that you can simply walk through the orange portal with the cube to the button, or you can walk without the cube through the grid, and then create another portal somewhere on the other side of the room which will then lead to the cube; collect it and put it on the button to open the door and allow you to reach the chamberlock. Remember that if you pass through the grid, the blue portal will disappear.
+Fantastic. You remained resolute and resourceful in an atmosphere of extreme pessimism.
+—GLaDOS
+Chamber 10
+
+Chamber 10 is where Portal starts to become increasingly more challenging, as you move from the learning to the testing stages of the game. This chamber is where you get to apply the laws of physics to the game, and use your momentum (usually downward) going into a portal to cross horizontal gaps.
+First room
+Hello again. To reiterate... previous... momentum.
+—GLaDOS
+The first room is pretty simple. First notice that you cannot jump high enough to reach the first step. From there, look up and back to see the fixed orange portal. What you can do then is create a portal in a wall, then walk into the wall from a little distance away. Your forward momentum will carry you out of the fixed orange end of the portal on the panel onto the steps, and then you can go into the next room.
+Using the camera to boost yourself
+While not the intended method, it is not hard to use the camera to give enough height to just jump onto the step. Shoot a portal at it so it falls. It is possible that it rolls close enough to grab, but if not, you can usually shoot a portal under where it landed, and then grab it once it falls through. Another way is to crawl under the steps and shift it by grabbing it between the steps. In any case, just place it on the ground and hop on it, then simply jump onto the first step.
+
+Second room
+Seeing the diagrams on the ground in front of you lets you know that this second room is not converting horizontal momentum to horizontal momentum; it is converting downward momentum to horizontal momentum.
+Like the last room, look above you for a fixed orange portal on a suspended panel. Walk to the edge of the pit and look down to see the only reachable floor to put portals on. Place a portal on the floor at the bottom of the drop, then fall into it. Your downwards momentum will carry you far when you exit the orange end of the portal, and you can go into the next room.
+Spectacular. You appear to understand how a portal affects forward momentum. Or to be more precise, how it does not.
+—GLaDOS
+
+Third room
+The third room takes it a step further, and has you climb up to a higher level using a two-step process converting downwards to horizontal momentum.
+This time there is a fixed orange end of a portal in the floor at the bottom of the drop. Once you look up, some of the wall panels will extend out. Place a portal on the extended panels (it doesn't really matter where, but as a general rule, the higher the exit portal is, the further you'll go), and fall into the orange portal end. You'll exit on the second level.
+Once again, when you look at them, some of the panels will move forwards so that the next jump is possible. Once they've finished moving (portals can't exist on moving surfaces), place a portal on the panels again, and then fall from either level back into the orange portal end. You'll land on the third level, and be able to exit to the chamberlock.
+Momentum – a function of mass and velocity – is conserved between portals. In layman's terms: speedy thing goes in, speedy thing comes out.
+—GLaDOS
+
+
+Chamber 11
+Chamber 11 is where you acquire the ability to create orange portals as well as blue portals, and thus complete more difficult challenges; from the point at which you get this ability onwards, you have to create both ends of the portal, as no static orange portals will exist.
+The enrichment center promises to always provide a safe testing environment. In dangerous testing environments, the enrichment center promises to always provide useful advice. For instance, the floor here will kill you. Try to avoid it.
+—GLaDOS
+First side-room
+Notice that that the orange portal gun shoots in three different locations. Two of these are above the mysterious-looking “floor” that will, as GLaDOS points out, kill you, and the third shoots somewhere you cannot see. So make an accessible portal in the room you enter, and watch the area just inside the portal. Wait for the orange portal gun in the middle of the next room to make a portal in an area with a solid floor and a red button on a podium, so that the view through the blue portal looks the same as in the image on the left. Walk through the blue portal, so that you're in that area safely.
+Main room: reach the side room
+Now, press the button (the game will let you know that the same key, E, you use to hold onto things presses this button) which should be situated right in front of you.
+Across the room a door will open temporarily, through which a portal can be made. Do that (the portal will not disappear when the door closes; you simply cannot see it from here). Wait for an orange portal to be shot in the area where you are, and walk through it so that you come out in the second side-room, where the energy pellet required to activate the platform in the main room is situated.
+
+
+Side room with pellet launcher
+Briefly walk down the stairs to look at the main room from this angle. Notice that one of the locations that the orange portal is placed is directly across from the pellet receiver. So make a portal on the scorch mark where the pellet hits the wall.
+Wait for the pellet to go into the pellet receiver (this may take some time, as the orange portal in the main room has to be in the right place when the pellet moves through the blue portal). When it has done so, make an accessible blue portal, and wait for the orange portal to be created in front of the moving platform. You can then walk onto the platform.
+Main room: grab the orange portal gun
+Take the moving platform to the middle of the room, where you will receive the orange portal gun. Press the button that appears in front of you and make a blue portal in the room behind the door. Now make an orange portal where you entered the room to get on the platform the last time, walk onto the moving platform, and enter the portal. From the room you enter you have direct access to the chamberlock.
+The device has been modified, so that it can now manufacture two linked portals at once. As part of an optional test protocol we are pleased to present an amusing fact: the device is now more valuable than the organs and combined incomes of everyone in <subject hometown here>.
+—GLaDOS
+Note that from now on you have the option of placing blue or orange portals, so the colors listed in this guide do not have to be the color you shoot. In this final section of Chamber 11, for example, you could have fired an orange portal through the final room and a blue portal on the wall that can be reached by the moving platform. Either configuration will achieve the same result. Simply make sure that the right portal connections are made; for example, do not shoot a blue portal in the final room, and then another blue portal next to the moving platform, as you will have gotten rid of the portal in the final room.
+Notice that whatever color the last portal you shot was, a small oval appears next to your aim on the appropriate color’s side. This appears based on the shot, and not on the success of the shot, so that if you try to shoot a blue portal onto a non-portalable wall, there will still be a blue oval next to your aim. This can be very useful if you ever forget what color you just shot.
+
+Chamber 12
+This chamber is about using both portals to climb up to the top of a tall room consisting of several different levels on alternating sides of the room. It is also a reminder of how momentum can be applied to portals. Throughout this chamber, the number level referred to is reflected by a small white square in the game containing that many dots.
+…f…fling yourself…need to fling into spa…
+—GLaDOS
+As with previous climbing puzzles, the trick is to get the momentum. In this case, a pit at the bottom of the chamber allows for that, so place an orange portal in the middle of it. You'll need somewhere to come out, and the panel opposite the level above you allows for that; place a blue portal in the middle of it. Now, simply fall into the orange portal, and you'll end up on the second level.
+The same can be done to get you onto the third level, re-using the orange portal in the pit, and placing a new blue portal on the next higher set of panels.
+You'll notice there's a button on the third level. You can see that this activates a door on the fourth level, and thus a cube will need to be placed on it in order to exit into the chamberlock.
+When you look at the cube dispenser, it will drop a cube, and when you look at the panel just above the button, it will angle upwards. Place a blue portal on this angled platform and once again fall into the orange portal to get onto the fourth level. It is ok to fall onto the second level before jumping in the orange portal, as this still gives you enough momentum. Now, pick up a cube and jump back onto the third level. If you miss this jump, simply go all the way to the bottom of the chamber and walk into the orange portal, as the lack of momentum will put you on the third level.
+The cube needs to be placed onto the button, and then you need to repeat the journey through the portal to get back onto the fourth level and enter the chamberlock.
+Weeeeeeeeeee.
+—GLaDOS
+
+
+
+Chamber 13
+First room
+
+Now that you are in control of both portals, this next test could take a very, very long time. If you become light headed with thirst, feel free to pass out. An intubation associate will be dispatched to revive you with peptic salve and adrenaline.
+—GLaDOS
+This first room has only a small puzzle, requiring you to fetch a cube to put on a button. Place one end of a portal on the wall above the walkway, and the other end on a wall accessible to you. Go through the portal and pick up the cube, then fall back down to the button, and leave the cube there. Now that the door's open, you can go back through the portal, through the door and into the main room.
+Main room
+Solving the main room requires the use of several different portals, so that two cubes can press the two buttons, opening the exit door so you can walk through.
+To begin with, the energy pellet needs directing into the receiver so that the platform holding this room's cube can start moving. Place one end of a portal on the energy pellet's scorch mark on the wall, and the other where the receiver is projecting a red spot onto the ceiling. The energy pellet will go into the receiver, and the platform will start moving.
+Next, you need to get the cube off the platform, and onto the first button. Place one end of a portal on the ceiling above the middle of the platform's track, and the other end of the portal on an accessible wall. When the platform's below the exit portal, fall through onto the platform, pick up the cube and walk back down onto the floor with it.
+To get the cube onto the button, you need to move one end of the portal you just used to above the platform holding the button — aim for the one-dot symbol on the roof. Now, go through the portal with the cube and deposit it on the button. Alternately, simply place the other portal under the cube. If placed correctly, the cube will quite possibly fall onto the button without you needing to adjust it.
+Where can you find another cube? Well there is another cube currently holding the first door open, however if you have portals connecting the two rooms, you do not need that door anymore. So shoot a portal into the initial room, and walk through into it. Shoot another portal (the same color as the one already in the room) that you can reach from ground level, and bring the cube off of the button and into the main room.
+Now place a portal on the two-dot symbol and bring the cube through to this button (or drop the cube onto the button like before). Both buttons are now pressed, and the door will open. You can jump from the button to the ledge, place portals to get yourself onto the ledge, or place a portal onto the wall of the exit room, and exit.
+Alternatively you can skip using the second cube by standing on the second button and firing a portal through the exit door. Even though the door closes you will be able to get to the other side using the other portal.
+As part of a previously-mentioned required test protocol we can no longer lie to you. When the testing is over, you will be "missed".
+—GLaDOS
+Chamber 14
+Chamber 14 involves more momentum puzzles, as well as the puzzle of how to bring an energy pellet a long distance, around several corners.
+The first challenge is to get hold of a cube to put on a button so that a door can be opened. This may sound straightforward, but the cube is on top of an unclimbable raised platform.
+Getting the cube
+Turn to the left and walk forward. As you do so, stairs will rise up, allowing you to simply walk to the pellet receiver. The cube is on your left. This is a momentum puzzle, as indicated by the fact that the stairs to the pellet receiver area retract once you're up there. Place the first portal high on the wall to the right of the raised area. Place another portal at the bottom of the pit formed when the stairs retracted, and fall into it. You should fly onto the raised platform.
+Once you're on top of the raised area, you can pick up the cube and take it down to the button. As soon as the cube is off the raised platform, the stairs will permanently rise up again. Put the cube on the button and open the door.
+If you do happen to at some point take the cube off of the button and move it any distance, the door will "malfunction" and become permanently open. This only happens after the cube is placed on the button, and is to prevent trapping yourself on the other side of the door.
+Getting the pellet
+The door leads around a corridor to a room filled with sludge and some platforms which periodically go up and down into the sludge. On the other side of the room is a small antechamber with a pellet launcher; either use the platforms or a portal to get to the room.
+Once in the room, place a blue portal over the scorch mark on the wall, letting the pellet through. Now jump across the platforms and continue to the pellet receiver.
+At the pellet receiver, simply place an orange portal on the red spot above it – letting a pellet into it – and ride the lift below to the chamberlock.
+Alternatively, before leaving the first room, fire a portal to the spot above the pellet receiver. Then walk across the platforms with the sludge and fire the alternate portal at the scorch mark.
+Very, very good. A complimentary victory lift has been activated in the main chamber.
+—GLaDOS
+Chamber 15
+First room
+The first room introduces you to the double fling.
+Place an orange portal on the extended panel above the entrance, and create a blue portal on the floor. When you fall through, notice you tend to land on the checkered part of the floor. This time, create a blue portal on the floor on the checkered part, and when you fall through, aim to fall through the blue portal a second time, which will then give enough momentum to pass through the force field.
+Second room
+The second room has a pellet that needs to cross two forcefields. You can place a portal on the burn mark, however you cannot place a portal above the receiver without the one on the burn mark disappearing. Since to place the portal above the receiver, the other portal would have to be in that small area, you must get the pellet into that area first. Thus, place portals on the burn mark and another part of the wall, as shown in the picture, so that it flies into the other side of the room. Then, run to the receiver, and shoot a portal in front of both the pellet and the red light above the receiver. You must be sure to do this before the pellet disappears, or else you will have to start the process over.
+Third room
+As with the first room, you have to perform a double fling; however, you can't start the fling within the same room because of the flooring (technically you can (see ways to reduce portals below 14), but it's extremely difficult). Instead, after placing one portal on the high extended platform, you need to head to a side room to the left which has a staircase where you can create a portal and jump. When you go through, quickly fire the second portal (same color as the one on the other floor) on the checkerboard and you will be thrown through the force field.
+Next, you have to perform a double fling to cross the second force field. Perform similarly to the first room.
+You are now in a room where a pellet is bouncing against an angled wall, and scorching the side wall. If you try to place portals on the angled platforms, you will realize that not only is momentum conserved, but the angle of entry as well. Instead, shoot a portal at the scorch mark on the flat wall, as well as the same location on the opposite wall so that the pellet hits the other angled platform and continues to the receiver. Then double-fling yourself back to the other side.
+You now need to cross a conveyor belt that's moving backwards, and a misstep will drop you into the water. The easiest way is to put one portal that you will constantly use just outside this corridor, and shoot the other color against the walls. When you can advance onto the platform, do so, and shoot another portal further down the hall. When the platform brings you all the way back, simply go through the portal again and advance a little further each time until you can get all the way into the final room.
+Fourth room
+A pellet launcher is firing a pellet downward, and the receiver is blocked by a double door.
+The doors are opened by the buttons in the side rooms. You need to get a portal in both rooms to press the two buttons fast enough. Then, shoot the wall opposite of the receiver (the extended panel) followed by the scorch mark on the ground to get the pellet into the receiver. This has to happen very quickly, so it may take a few tries. The lift for the chamberlock will lower, and you can proceed to Chamber 16.
+Alternatively, you can try a high jump to the exit. With your back to the platform that takes you to the exit, place an orange portal at your feet. Go to either of the other two moving platforms in the room. Stand on one until it reaches the top and place a blue portal at its base while looking down. While jumping through the blue portal hold the forward button to land on the exit platform.
+
+Chamber 16
+This chamber introduces you toturrets, which will open fire on you if you enter their line of sight. You can take some damage from their bullets before you die and this damage will heal in a few seconds once you escape their fire. Getting shot at by multiple turrets at the same time is something to avoid.
+Due to mandatory scheduled maintenance, the appropriate chamber for this testing sequence is currently unavailable. It has been replaced with a live-fire course designed for military androids.
+—GLaDOS
+Three turrets may try to shoot you through the glass as you enter, but luckily the glass appears to be bullet-proof. The first turret is facing away from you, and as such it can be disarmed easily. You can pick it up and toss it onto the ground, or place a portal under it and let it fall through to wherever you place the other portal. As long as it is no longer on its feet, it will shut down.
+The next turret will be noticeable with a red laser beam pointing against the wall. Quickly fire a portal behind it, and pass through a new portal of your own. You could also disarm it by shooting a portal underneath it.
+You may notice at some point that you have less time from when a turret sees you to when it shoots you if the turret just recently saw you as well. If you wait for the turret’s laser to stop moving around, you will have more time in its line of vision to act before it starts shooting.
+An alcove containing a turret is next. Since you can't shoot a portal under it, you can instead create one on the red X painted above, and drop another turret or camera on top. Alternately, place a portal behind the turret, as with the last one, and knock it over yourself.
+You may wonder at this point why there was such an obvious X hastily painted just in the right location. As you walk to the next area, you will notice two cubes behind a panel, and the word “help” drawn on the floor. Removing the cubes, notice that there is actually an additional area that you can crouch and crawl into. This is by no means a required area, but the scribblings add some important questions to the storyline. It also gives indications that all of this testing may not be as innocent as it initially seemed to be.
+Two turrets are now covering the corridor. To get rid of them, you need to open a portal on the red X above each turret, and drop a weighted storage cube (or other object) onto the turrets.
+Two turrets cover the next room, but you can sneak a portal behind them without too much difficulty. Then enter the side room, where you will find a malfunctioning cube dispenser, which gives you a lot of objects to toss at your next set of obstacles.
+The button room contains three turrets, with a red X marked over each one. You can disarm one of them with your portals, and use the set of storage cubes to drop them on the turrets. Place a cube on the red button to open the door.
+The exit is blocked by some fencing and a couple turrets, however you can still shoot portals through the fences (being sure to avoid turret fire), shut down the turrets, and proceed to the chamberlock.
+
+Chamber 17
+The vital apparatus vent will deliver a weighted companion cube in 3...2...1.
+—GlaDOS
+This is your introduction to the weighted companion cube. It will stay with you for the entire chamber, providing any assistance you require. Throughout the test, GLaDOS will make odd remarks about the companion cube, indicating how it is not alive, as if you are very attached to it and insisting that it is going to talk or do things.
+After picking up the cube...
+This weighted companion cube will accompany you through the test chamber. Please take care of it.
+—GlaDOS
+Abusing the weighted companion cube
+The first area is about using the weighted companion cube to help get you through to the platform area by standing on it and using it as a shield. When the cube drops from the transport tube, pick it up. You will notice the steps are too high to jump on, so you will have to set the cube down, climb on it, continue to the step, and then grab the cube and do the same thing for the next step.
+Once at the top, you should now see a corridor with energy pellets bouncing back and forth - hold the cube in front of you to deflect the pellets harmlessly. After going through both corridors, you should reach the main test area where you need to raise three platforms, by bringing pellets to the three receivers. These can be done in any order, but the way described here is probably from easiest to hardest.
+Receiver 1
+There are some things to note about the order of these three tasks. First off, the platforms are not connected to specific receivers, and thus whichever receiver captures a pellet first, platform 1 will rise up, then 2, then 3. Also, receiver 2’s pellet will always shut off the launcher located in that room, no matter which pellet actually made it in there. Lastly, whichever is first out of receivers 1 and 3 will shut off the second corridor’s launcher, and then the remaining receiver will shut off the first corridor’s launcher. This can be very useful information for the bonus challenges.
+One of the platforms is easily raised without assistance from the cube. Place a portal within the second pellet corridor (the one easiest to get to from here, where the pellet hits the wall), and the other on the angled platform across from the angled platform with the pellet receiver. The pellet will bounce off the ceiling and hit the receiver.
+Receiver 2
+The doorway under the camera contains a pellet launcher firing a pellet perpendicular to the receiver, but there is no method to place a portal. However, you can bounce the pellet using the cube into the receiver.
+Before you travel back up to the ledge, notice that there is an area behind the ground-level extended panel. While you cannot crawl into this, you can create a portal inside the area and explore. Some interesting pictures and writings may make you wonder what all has gone on in these test chambers in the past.
+Receiver 3
+In the final side room, there is a pellet receiver blocked by 2 doors, each powered by a button. Go ahead and portal back up to the ledge, and shoot a portal on the wall where the remaining pellet is bouncing. Come back down and shoot the other color portal on the extended panel. You can place the cube on the raised button, however if you simply stand on the second button, the pellet will run into you. Either stand on the very side edge of the button, or wait until the pellet just passes, then quickly stand on the button to open the door before the pellet hits it.
+Exit
+Once all three platforms are raised, shoot a portal onto the ceiling or high wall, and bring the cube with you. Jump across all three platforms and onto the next level, and then place the cube on the next button.
+GlaDOS will explain that you must euthanize the cube by placing it in the incinerator. Proceed into the open room and press the button to open the incinerator, then quickly grab the cube and drop it in. The chamberlock will then open.
+
+Chamber 18
+Chamber 18 is the hardest test chamber yet in Portal. I hope you have your fingers (and your in-screen portal gun) ready! Chamber 18 is cold, a bit inhuman, and a bit scary, but it's quite fun. Chamber 18 has a lot of tough challenges, but look on the bright side: you might get cake after you complete the next chamber!
+The Enrichment Center is required to remind you that you will be baked, and then there will be cake.
+—GLaDOS
+Well... maybe...
+Part 1 - Drops and Flings
+Lethal water to take note of here! To get past the lethal gap, put a portal across the gap on the ceiling, and put another one near you. Go ahead and crouch into the side room once you get over there. You’ll find a lot of miscellaneous objects, including a radio after the first play through, although not a whole lot to read this time.
+Continuing on, there is again a nice portalable ceiling, but no way to simply walk into a portal. You can, however create one on the next platform’s wall, and get a running jump into it (put the portal a little low, as even if you jump too high, you can still get into a portal below you... unless you’re carrying the radio). The platform you’re aiming to land on does not cover as large of an area, so be sure to adjust your fall accordingly. Also take note that you might fly throughat an angle, making it tougher to accurately land where you expected. This can be prevented by actually landing on the bottom of the wall portal before coming the whole way through.
+Another ceiling portal, and you’re off to platform 3, followed by wall placement to get you onto platform 4. Unfortunately, the door is closed, and tracing the wire leads to yet another platform. Some familiar sights are here, letting you know how you should get to it; there’s the extended panel showing your top portal placement, and a checkered floor on a level below you showing your bottom portal placement. Fling away!
+Now you’ve got a big button... but nothing to put on it. And so we have to make our way into the next area we can go into. You get a lovely preview of what you’re about to run into through the glass.
+Part 2 - Turrets and Energy Pellets
+If you can manage to look through the glass and not get your view obstructed by turret fire, you’ll notice two laser beams indicating turrets facing away from the entrance, and two turrets facing to your right. Because of that, when you press the small button and open the entrance, go through on the left side by crouching under the support bar first to avoid any bullets.
+Now that you’re safely in the room, let’s get rid of the real troublemakers in this situation. Unfortunately, you can’t reach most of them yourself, but there is something you can redirect at the turrets: the pellets! Very conveniently, the laser beam shows you exactly where the turret is looking straight ahead at, so simply take some time to place portals on a burn mark and a laser beam end (be careful, they can fire through portals if they see you!), and watch them fall into the watery abyss.
+Now there’s still an active pellet launcher, and the receiver (inside the container on the left) will power a moving platform. You can redirect a pellet, placing your portals using a burn mark and the extended panel off to the left (the far one, not next to the small button). As soon as the pellet passes through the portal, recreate portals so that you can reach the small button to open the door to the receiver. You must press the button in this short span, as the door opens only very briefly.
+You can now take the moving platform over. You cannot jump to the cube, but you can jump to the lower area. Pressing this button, you will notice the entrance panel once again opens up, staying at an angle for a period of time before closing. Assessing the situation, the angle will be excellent for a long fling, and the checkered low floor on the water level creates the necessary momentum. Unfortunately, you have to get over there first, and so you must create portals to get back, press the button, go through, place a portal on the angled platform as soon as it stops moving, and fall, placing a portal below you. This will easily throw you to the cube. Finally!
+But wait... now we have to get out of here with this cube. Go ahead and take the cube over to the entrance, but then go yourself back down to the small button. Portal placement, a push of the button, through the portals, grab the cube, and crawl back out of this terrible room. Cube on the button, portal back to platform 4, and through the door!
+Part 3 - Linked Flings
+Yes, that’s right, you’re not done yet. This part is all about redirecting one single fling with many portals.
+Now on your left, you see the floor on the bottom. Put a portal there and another on the platform you see straight ahead. Now once you jump, you may see the floor of the higher platform. What you want to do is shoot the color portal necessary so that you will now fly up through the next platform. It’s all back and forth as far as what color portals you will be placing. If you do mess up (but are still living), place a portal on the wall at the entrance so you can start over. If you happen to be on (or have a portal on) the platform with 3 dots, you can simply shoot one portal on the angled platform, another on the platform with 1 dot, and you can jump into that portal to get to the end. The last platform is slanted, which will fling you to the exit. Proceed to the elevator as GlaDoS talks to you.
+
+
+
+Chamber 19
+Chamber 19 is the final test, after which you have been promised cake.
+Welcome to the final test. When you are done, you will drop the device in the equipment recovery annex. Enrichment Center Regulations require both hands to be empty, before any cake...
+—GLaDOS
+First room
+The first thing you see in the room is a pellet launcher, a pellet receiver, and two platforms in a 45o angle to the floor (as seen in the overview image). The first thing that should be done is placing a portal below the pellet launcher. Remember not to create another portal, as the pellet would go through it. After this has been done, make ready to shoot at the other platform (timing is all important here). When the pellet is between the platform and the wall (as in the image on the right), make a portal below the pellet receiver. The pellet receiver then starts the moving platforms.
+Now, create a portal behind the stationary platform you can see, while looking down the hallway, and create another accessible portal.
+Hallway
+On the platform, you can see an appendix area farther down the hallway; create a portal here, and go through the one you just exited, so you are now in the appendix area. In this area there is a button, which opens the door next to you for a few seconds. Push this button, and create a portal on the other side of the door at approximately the same height as your current position. When a platform passes the portal, walk onto it (you do not have enough time to go through the door on a platform). In front of you there is a permanent pellet ricocheting between the window to the first room and the wall of the hallway. In order to deal with this, you have to create a portal on the wall, and when the pellet has gone through it, quickly create the other portal another place so the pellet does not ricochet back through the portal.
+Now you are facing a wall, which you have to cross by creating a portal on that wall, and another on a higher ground on the other side, as shown in the picture to the left. When the platform reaches the wall, go into the portal, and jump back onto it when it has passed the wall. Remember that you are able to stand in the portal itself, without having the platform below you, so don't jump sooner than you should.
+Oven
+Congratulations, the test is now over. All Aperture technologies remain safely operational up to 4000 degrees kelvin. Rest assured that there is absolutely no chance of a dangerous equipment malfunction prior to your victory candescence. Thank you for participating in this Aperture Science computer aided enrichment activity. Goodbye.
+—GLaDOS
+At this point you find out that the cake is, as prior wall-writings have indicated, a lie (or at least going through the fire is not the way to get it). Common sense should kick in (as well as some suspenseful music) and tell you that you should no longer listen to everything GLaDOS tells you. Therefore, you have to get to the platform above the oven. This is done by creating a portal on the wall behind the platform, and a portal on the wall to your side (slightly below your level, as seen in the image on the left). When this has been done, jump through the portal.
+Do not worry about being chased by anything; you do not have to hurry to get out. On the platform, create a portal positioned as high as possible on the wall, and then one accessible to you. Go through the portal, and as you are falling to the ground, create a portal on the spot you will land on. Continue the only way you can into the next room.
+Fourth room
+As you try to go up the stairs, these will fall down. Create, instead, a portal on the second level and one on your level, and go through them. Or just jump onto the stairs. Go through the slightly open door by pressing your use button.
+Fifth room
+The next room appears to be something for turret building or repair. You have to get past a locked grid-door. Do this by creating a portal on the other side of it, and one on the wall, accessible to you.
+Sixth room
+Following the hallway, you come to a room with two fans blocking your advance. Create a portal on the other side of one of the fans and one on the floor in front of you. Go through the portal.
+The room itself has a floor of acid, which you have to cross by creating a portal on the opposite walkway, and one on your side, as shown on the image.
+After this, create a portal in one of the upper corners of the opposite wall (as shown in the image), and one on a nearby wall, in order to jump to the walkway in the middle. You can explore the side office rooms if you wish, as they let you see some of the test chambers from the other side of those mysterious windows, but they do not help with the actual game. After this, go the other direction and into the next room.
+Seventh room
+Simply coming into this room, the next step is not obvious, however there’s a little picture in red indicating the portal placement necessary. Maybe the turret X drawer has been here too?
+Get to one of the higher platforms (either will do, not much momentum is needed), by either walking or creating a portal there, and another one accessible to you. Then, create a portal in the upper far right corner of the wall. Let yourself fall, and create a portal on the spot you will land on. This way you will build up enough momentum to cross to the platform opposite to the wall.
+What are you doing? You haven't escaped, you know. You're not even going the right way... Hello? Is anyone there?
+—GLaDOS
+Follow the hallway to the tube transporting cubes, and enter it.
+Test area
+At the end of the tube, you are put into a cube dispenser, from which you enter a very familiar test area. No cube this time, but on the other hand, you have both halves of the portal gun.
+In the test area, stand on the button in the middle of the room, and create a portal behind the door that opens. Then create an accessible portal, and walk through it. When walking farther, you get to the chamber lock, however this is malfunctional, and you have to jump down.
+Chamber lock area
+Now, create a portal on the underside of the platform on the other side of the grid-wall (as seen in the image), and then one under yourself. Then duck, in order to get into the room.
+Uh oh! Somebody cut the cake. I told them to wait for you, but they cut it anyway. There is still some left though, if you hurry back.
+—GLaDOS
+When you are in the room, go to the two pistons, which raise to two different levels. Go onto the one that raises the highest, and create a portal on the top of the platform you just entered through. Go back under the platform, create a portal there and use it to get on top of the platform.
+Walk onto the cylinder next to the platform, and let it push you to the platform to continue. Walk along the hallway, until you get to a grating. Create a portal on the other side of it, then go back to the platform to create a portal there, and walk through it.
+Vent shaft
+Create a portal as high as possible, opposite to the walkway leading away from the shaft. Then create one accessible to you. On the other side of the portal you have to jump in order to make it to the other side (the timing here can be rather hard).
+Escape 00
+Your escape continues, as you maneuver around tons of pistons and portal your way around. The mysterious writings continue as well, helping point your way, while making you wonder about the sanity of this unknown helper.
+Five-piston room
+Shortly after climbing out of the vent, you will see a set of pistons smashing themselves against the ceiling, and the exit, as indicated by the red arrow, to the far top available through a crumbling ladder.
+There are a number of methods to get there. One way is to portal your way up to the top side room, from which you can shoot a portal at the exit. The center piston, however, doesn't touch the ceiling. As such, you can climb on it and ride it to the top. Shoot a portal into the corridor, then go through another portal you set at ground level.
+Ceiling portal
+Didn't we have some fun, though? Remember when the platform was sliding into the fire pit, and I said, 'goodbye', and you were like, 'NO WAY', and then I was all 'we pretended we were going to murder you.' That was great... is anyone there?
+—GLaDOS
+Follow the corridor, and you should see two pistons touching the close ceiling, with almost no visible exit. However, there is a usable section to the left on a slightly higher ceiling. Put a portal there, and a portal above one of the nearby pistons and go through. Aim to land on top of one of the horizontal pistons so you don't get crushed.
+
+When you climb up onto the platform, you should see a marker showing the exit upward, along with a usable wall up high. Fire a portal up there, and shoot a portal on the ground, and jump through. When you fall, fire a second portal to complete a double fling. Alternately, use the side room that you can portal into to create a wall portal that you can simply walk through to start the fling.
+The next corridors are obstructed with wall-to-wall pistons. To get past these obstructions, simply fire a portal on the other side, create a local portal and go through.
+Cross-pistons
+You should be in a tall room filled with pistons, and you need to climb it. Looking to the left of the portal you just entered from, the helper has pointed the way to the exit once again. The fastest route up is firing a portal at the location in the screenshot, but if you can't get a clear shot, you will have to work your way up slowly.
+Once you have the portal in that position, go slightly into it, and fire a portal on the opposite floor. Go through to reach a place with glass piping.
+Cube tubes
+There are no nice floors here, so you must walk across a few glass tubes, and you will need to jump down. Quite quickly, you will come upon a piston that's mysteriously smashing against a wall. Fire a portal above the point against which it's smashing to create the exit.
+Next, you need to find a place to create your entrance. The safest location is on the lower wall where the glass tube bends, on the same side of the piston. Time your jump so that you pass through the portal as the piston is extended.
+Cross the piston, and drop down the hole.
+Escape 01
+With nothing of interest in the side room, you must advance forward. As you are about to cross the pistons, if you turn around, you’ll see that a few pistons have silently come down, blocking you from returning that direction. Ominous... You must continue on, only to have the floor opened beneath you.
+
+Turret ambush
+The pistons separate, causing you to fall down into an area with limited cover. The door on the right will open first, revealing a turret, followed by the middle door, and the left door, both with turrets as well.
+You will have to take out each turret quickly — knock it over or throw it through a portal. It may help to portal yourself beside or behind each turret.
+The third door will have an exit. Shoot through the opening and proceed to the next room containing a glass pipe. There are a few turrets, but they seem to be malfunctioning, as they may mysteriously talk, but will not shoot. Shoot a portal above the pipe to walk on it, and jump from the pipe to the catwalk.
+Fling
+Shortly after jumping down with the following live turret, a door should open in front where there is a broken catwalk. Walk forward to the "over here" text, turn around and shoot a portal on the opened door. Enter a ground portal, and fling yourself to the catwalk.
+Rocket turret
+You are back in the observation area, with an emancipation field to your left. Walk through it and press the button — this deploys a rocket turret which will seek you and fire a rocket, shattering the glass window.
+Walk behind the turret to the next glass window. The turret will fire a rocket, but quickly dodge after it makes the locked on sound, and it will hit the window. Go through the corridor to reach yet another glass window; here you will need to place a portal on the opposite wall, and a portal within the turret's room. Trick the turret into firing a rocket at the wall.
+Unassisted climb
+A "ninja" solution is possible by jumping through portals, but this method may take many attempts.
+In the next room, you should see a glass tube for moving storage crates. Redirect a final rocket to this tube and grab a storage cube that falls out. Place the cube in front of the vent and climb into it. Alternatively, a chair from the previous room works.
+At the end of the vent is a fan; while you can't climb down, you can shoot a portal, and then backtrack to go in another you can reach, to bring you into a small sewage area. Shoot a portal on the wall above the metal platform and walk across it.
+Note: Although you can redirect a rocket to itself, it is immune to its own attacks.
+Escape 02
+This is the last part of Portal. Once you complete this, you may get the heartbreaker achievement.
+Getting to the top
+Get past the sewers and at the end you see a wall with a drawn arrow, pointing to a drain you can portal through. Place one that looks close to the drain. Now just try to portal out of the gooey – but not lethal – water. Once you get to the surface, you hear an alarm and turrets will shoot you to death as some sudden intense music plays. If you need more time, drop back down into the drain area, and it will be easier to avoid most of the turrets.
+Quickly put a portal behind them and put another near you (wall or floor, your choice). Then take them out one by one, portaling into each’s room. Some you may be able to place a portal underneath and save yourself the trouble of getting there yourself.
+Once you take out all of the turrets, look up and notice that above the second-highest room, there appears to be another platform. That is your goal. Find the turret that's on the highest floor. You will not be able to put a portal on the cover of that room from ground level, so put a portal in that alcove, and another nearby to get yourself there. Once in that location, scan the room for a slanted wall (across from your position). Once you find it, put a portal on top of it.
+Now it’s time for some fun flinging. Fall down and place the other portal so you whiz through it. You will not be able to land on the highest slanted door in one fling, but you can easily put a portal on it in the first pass. If that was the opposite color of the ground portal, your ground portal was right against the wall, and you look into it, it is possible that you’ll continue your fling all the way to the high platform. If not, simply place a portal below you. You’ll come out of the high portal and fall to the ground, so place one on the ground before you hit, and that will be enough momentum.
+To the boss
+Now quickly go behind the turrets as they will be delivered to kill you, then take out the two turrets. Placing a portal under them works if you didn't manage to get behind them. Now you have to jump your way up a hole. Put a portal somewhere on your ground level of the hole, and put another on the floor of the main room. Now jump on the portal and you may find that it is enough to build your way up the hole.
+Now just aim yourself to the next platform and then follow a catwalk followed by some doors you just need to open.
+Note that it is also possible to, from the initial high platform right before the two turrets, jump way down into a ground portal to fling up out of another placed on the high platform and maneuver onto the catwalk, thus skipping the two turrets and a couple other steps.
+GLaDOS
+Now you get to battle the boss: GLaDOS.
+After her talking, put the spherical core that she drops near the incinerator. Put a portal near this point, and another near the room with the button. Press the button, and quickly put the core in the incinerator.
+GLaDOS explains that the core you just destroyed was a recent morality core that stops her from filling Aperture laboratories with neurotoxin and other deadly gasses. Within the six minutes GLaDOS contaminates the facility, you need to finish her off and dodge the rockets. The computer has the advantage, since you can't shoot her cores out with the portal gun.
+If you want a quick kill, you can use a live turret within the combat arena to knock out all four cores. Put yourself between the turret and GLaDOS, and let the turret shoot at you briefly, hitting GLaDOS in the process.
+However, you can redirect rockets back at the core. Shoot a portal to a wall, and a second portal that gives a direct line of fire between the turret and GLaDOS (the floor under GLaDOS is a good place for this portal). When you stand in front of the first portal, the turret should obtain a lock. Dodge the rocket, and it will hit GLaDOS.
+The next core is on a pipe. Portal to the core and incinerate it with the same method as the previous core. The following two cores are on the glass platform above, and in mid-air, respectively. The one in mid-air you must either run into or grab as you're falling. Torch them and win the game.
+
+
