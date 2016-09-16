@@ -1,0 +1,504 @@
+Apartment
+After a short and certainly weird cutscene, you will wake up in the apartment, in the skin of the main character. Look around the area and locate the smartphone lying on the bedside cabinet - interact with it in order to learn about your next objective. You have to find and collect a bottle containing the Tracer Fluid. Before you do so, however, look around the area - there are plenty of things to find here.
+
+While being in the apartment (as well as during the rest of the game), you can interact with a lot of different items - most of them can be grabbed and thrown (which will become handy later on in the game), but for now we will focus on newspaper clippings, books, comic books and all items that can be looked through and / or read. Those can be found quite easily, as they tend (from time to time) to glow slightly, becoming visible from a distance. Those items are not required to collect / read, but they contain massive amounts of information about the world the game is set in, the characters you will stumble upon during your journey and they build a spectacular feeling - you should definitely spend a few extra minutes to collect all of them.
+After getting out of the bed and answering the phone, check the lower drawer of the nightstand - inside you will find a book, which can be read. Put the item down and go along the wall on your left until you reach the cabinet, on which a wired telephone can be found - activate it and listen to the recorded message. There is nothing else in the cabined, so just continue on until you get to the bookshelf - on the second from the top shelf, on the left side, you will find a number of photos which can be looked at.
+
+Head towards the desk now - there's a leaflet, as well as a notepad here, and on the pin board located above the desk there are five photos too look at. In the upper drawer of the desk there's a newspaper clipping, and in the middle one two additional newspapers.
+
+Afterwards, interact with the computer so that you can check the available message list. You should focus on the one titled "Saturday off", which can be found in the "Drafts" tab. Select it and then press the "SEND EMAIL" button located in the upper section of the screen. After sending the message, leave the computer - ignore the nearby bathroom as there's nothing to do there.
+
+Head towards the couch in the middle of the room - there's a book there. Put the collectible back on the sofa and then check the dvd box located on the ledge below the TV. The TV itself can be interacted with as well, but you won't be able to watch a movie on it, so just ignore it.
+
+It's time to head to the kitchen area of the apartment. The cupboard located above the microwave hold the story item - a bottle containing Tracer Fluid. Collect it and drink the fluid, by pressing the interaction button again. Afterwards, check the envelope lying on the rack by the door, and then collect the keys located right next to it - all that's left to do is to leave the apartment, by interacting with the door, which will bring you to a new location.
+
+Metro/David Munshi’s Laboratory
+You will be moved to a new location, to the subway. There's nothing to do here - you can only look around the insides of the wagon, because you won't be able to move from your spot. When the phone starts ringing, pick it up, and after the conversation is over the main character will be moved yet again, this time to the target location.
+
+You will end up in almost pitch-black room, so it would be wise to hit the light switch on - it can be found on the wall, to the right of your current position. As soon as the room is lit, head towards the desk located in the corner of the room. Here you will find a computer, from which you will have access to a number of emails - there's nothing to send here this time though. In the upper drawer of the desk there's a note - check it out to find a access code (2501), which will be used very soon. Put down the note, open the middle drawer and read the article - afterwards head towards the nearby door.
+
+Interact with them and then wait for a short while, until the main character tries calling David Munshi. After regaining control over Simon, interact with the control panel next to the door - enter the access code (2501) you've collected recently, open the door by pulling on the handle and enter the hallway. Most of the nearby doors are locked - you can only enter the small room on the right side of the hallway, when you will find a couple of photographs hanging on the board, at the other side of the room.
+
+Leave the server-like room and go through the door at the end of the hallway, where David Munshi will be waiting for you. After a short conversation you will regain control over your character - there's nothing to collect or activate here, you can only speak with the doctor a few times to learn more about the experiment and your treatment. After you've done it, sit on the armchair, and after a short while you will wake up at yet another location, and the proper part of the game will start.
+
+Awakening
+The level starts while the character is sitting on the armchair from the previous mission. The room is pitch-black, but you can (and definitely should) solve the problem quite easily - on the opposite side of the room, practically straight ahead from your position there's a box with a red glowing light inside. Approach the box, open the hatch and pull the lever - after a few seconds the room will be lit and you will be able to look around the area carefully.
+
+There are two terminals located in the room, the first one (Omnitool Chip Installer) situated on the opposite wall from the fuse box, and the second one next to the armchair on which the character was sitting a moment ago. Both are inaccessible to you at the moment, but remember the location of the first one, because it will come in handy in a moment. The exit from this room is blocked, so you will have to make your own - pick up a fire extinguisher lying by the terminal and use it to smash the window located to the left of the blocked door.
+
+After smashing the glass, drop the fire extinguisher and jump through the newly created passage. Approach the previously blocked doors and take the pneumatic lock off them, by pulling on the lever. Now you can get back to room by simply pressing the yellow button. Go along the corridor, until you reach the crossroads - you can either go left, straight ahead, or right. The passageway to the right is blocked, so just go to the left. On the wall, right next to the entrance to the room with the "Break Room" sign there's a terminal, which allows you to perform a Data Buffer. Activate it, listen to the "recordings" and get back to the crossroads, as there's nothing else to do in both this room and the nearby toilet.
+
+From here go straight head, and then take a turn to the right - take the pneumatic lock off the doors, open them by pressing the orange button and then get inside. Go to the further section of the room, where a robot on whom you can perform a Data Buffer awaits - it can be easily distinguished by sparks coming from the hanging husk of the machine. You will hear a noise coming from the corridor - prepare yourself, as from here on you will be faced with real threat (enemies).
+
+Leave the room and read the description on the screen - the game will inform you about the ability to lean right or left, which will be used numerous times during the playthrough, as enemies have are less likely to spot you when you are leaning out the corner, instead of running straight at them. Go along the corridor, to the right, through the newly unlocked passageway, and then again straight - there's nothing to collect or do here, and the corridor goes in one direction.
+
+As soon as the lights will be turned off, you will be informed about another game "mechanic" - crouching and moving while crouching. As you might imagine, by moving in such a manner you are hidden, you move a lot quieter and enemies have to be in your immediate vicinity in order to hear your footsteps - by sprinting everywhere enemies will be able to hear you from several meters (or even different rooms!), which will constantly attract their (hostile) attention. Approach the nearby door (you will locate them by the red light next to them), take off the pneumatic lock and open them.
+
+When the character regains consciousness, enter the room and wait for a while so that Simon can pull himself together, as your vision is probably extremely blurry at the moment. The whole "healing" element is known to those who are familiar with the Call of Duty series, as well as the previous games from the developers of SOMA - with each contact with an enemy (or in some cases environment - such as electricity), Simon will receive a certain amount of damage, which can be signaled by pulsating image and blurry vision. You can get hit a few times only and then the character will die - you can regain health by connecting yourself to a growth (you will learn about it later on in this guide).
+
+When everything (at least most) goes back to normal, head towards the table located in the corner of the room. There you will find a new toy, Omnitool. You will learn about the functionality of the item later on in the game, but it can be described as a universal key - with the help of Omnitool you will be able to unlock normally inaccessible passageways. Right next to the tool there's also a note, which explains how the Omnitool works - activate it and then put it down.
+Get back to the room in which your journey on this station started - to the terminal called "Omnitool Chip Installer" After arrival, place your Omnitool in the special slot on the left side of the terminal - it resembles a credit card reader. Wait for the system to boot and then activate the terminal. Select the "Omnitool" option and then press the "Unlock Tool Box" button. Now leave the terminal.
+
+To the left from the slot in which you've put the Omnitool there will be a stash which should now be open. The stash is full of Tool Chips, which are sort of expansion cards to the Omnitool - pick up one of them (only one can be acquired) by interacting with it and then place it in the Omnitool (by interacting with it again). Get back to the terminal, select "Manage Tool Chip" option and then press the "Update" button. After a few seconds the Omnitool will be enhanced and you will have to get it out of the terminal.
+
+The Omnitool was updated, which will be used very soon. In the room, right next to the armchair, there's another terminal - you can read a couple of messages there. Leave the room and head towards the one in which the Omnitool was hidden. Head straight ahead from the door in which you've been hit by the enemy, avoid the cables so that the electricity won't hurt you, turn left and head downstairs (ignore the passageway on the right side - it's a shortcut to the room with the armchair), until you reach locked doors.
+
+To open the door, you will need the Omnitool (a control panel which requires the tool has a "Swipe Omnitool" sign on it) with the expansion (Tool Chip) you've collected recently. Activate the control panel, head through the tunnel and enjoy the view. There are four photos on the table on the right side, and on the opposite side of the tunnel there's a Data Buffer terminal. There's nothing else to do or find here, so get to the other side of the tunnel until you reach a small, dark room.
+
+To proceed, you have to activate the button next to the door, which will electrocute the character and turn of the lights. Afterwards, approach a weird growth to which a wire leads from the button you've just pressed and interact with it. You now have to press the button to the left of the growth and then climb up and enter the ventilation shaft. Crawl through the tunnel until you reach a crossroads - turn left, right and then go straight ahead, until you reach an exit. There are other tunnels here as well (4), but all of them are closed.
+
+You will end up in Station Control room. Go straight ahead, until you reach a robot lying on the floor, which can be interacted with - right next to it there's a button, which, for now, is inactive (it gives off a red flashing light). In order to unlock it, you must tear off two cables, which are coming from the robot lying on the ground and are connected to the computer - press and hold the interaction button on them, and then just move your cursor away. After getting rid of both of them, press the now yellow button, and then approach the monitor right next to it. There are three buttons located directly beneath it - press the left one first, wait for a moment until the upper bar fills a little, then press the middle one, wait for the second bar to fill, and finish off by pressing the last button.
+
+After a short while the reactor should be restarted, after which the radio will start working, and a mysterious person will try to contact you. During the conversation you will learn that you have to get to the Comm Center room, which is located on the upper floor. When the conversation ends, approach the door leading to the reactor, open it and go straight ahead, until you reach a ladder, so that you can get to the lower area.
+
+After the character pulls himself together and you regain control, quickly take cover behind something, as there's an enemy (resembling a Big Daddy from the Bioshock series), the first direct threat in the game, coming from the opposite side of the room. Avoid contact with the robot, as it is hostile and will quickly get rid of you. Fortunately, the enemy has no idea where you are currently standing, so it will just passively patrol the area. Wait for the enemy to move away a little and then run through the stairs to the left of the passageway it came from (point 1 on the map above). Turn the valve, and when it breaks quickly run into the mentioned passageway (point 2 on the map above), and wait for the enemy to stop looking for you.
+
+When you hear that the robot moved away, leave the hideout carefully, and after making sure that the enemy is far enough, run through the stairs located to the left of your current position. At the top of the staircase there's a level, which, after flipping it, will open a passageway to the upper floor. Be warned, as the enemy will be alarmed yet again - as soon as the passage opens, run to the upper floor and flip the switch found there to close the "door" behind you.
+
+Comm Station
+After running to the upper floor, look around the area - there's a couple of things to do here, and your main goal is to get to the upper floor. But before you do that, go left from the staircase, in the direction of a group of computers. All of them are blocked at the moment, as they require an ID so that you can log in on them. Ignore the doors on the right (Storage sign), as they are locked. Near the desks on which the computers can be found, slightly to the l left, there's a map of the station - unfortunately, it's only a drawing, as it has no real function in the game. Directly between your legs there are two photos to examine, and on the cupboard by the window another photo, as well as a notepad.
+
+Directly in front of the stairway there's a room resembling a production hall (Assembly B sign) - there you will find a robot lying on the floor, with which you can interact to learn about a couple of things that happened here. To the left of the robot, at the end of the hall, there's a lever used to switch the power - you will not be able to use it at the moment, but remember its location.
+
+After you've spoken with the robot, leave the room and go straight ahead, into another one - there's a "Workshop" sign above the door. Inside you will find a robot lying on the ground, which can be interacted with in order to perform a data buffer. Listen to the last seconds of the robot's life, and then leave the room - there's nothing else to do here.
+
+Head right, to the last passage, this time without a sign above the door. Open it up and approach the corpse lying in the corridor - after interacting with it, you will be able to read the access code from the worker's ID (0722), which must be used in order to unlock the previously mentioned terminals. Get back to them and input the code (by pressing the "change" button).
+
+There's a couple of options available at the terminal - you can try sending a message, by going into the "Mail" section, but it will fail. Afterwards, enter the "Power Manager" and reactive the power in two nearby rooms (by pressing the buttons near their names) -Storage and Flow Control. Get inside one of the unlocked rooms, "Storage", where you will find a note to read (it's lying directly in front of the entrance).
+
+Get back to the terminal, to the Power card. The room you are mainly interested in is the "Comm. Center", but you won't be able to turn the power there (as well as in other rooms) because the generator doesn't have enough power. If you want to unlock them, you will have to turn off the power in one of the two nearby rooms - you can get into the Comm. Station by following either path, but the final result differs greatly.
+The first place is the previously visited production hall. You have to get there and switch the lever on the other side of the room, which will disable power in the room, as well as inflict pain to the robot lying on the ground. However, it has an advantage - if you turn the power off in this room, you won't have to deal with the enemy, so getting to the upper floor should be a lot easier.
+
+The second solution to this problem can be found in the tunnel, where the corpse from which you took the ID is lying. Get back to the said tunnel, run past the corpse and turn to the left, until you reach a room called "Flow Center". Directly in front of the entrance there's a switch, and right next to it a note warning you that using the switch may turn out bad. Flip the switch and prepare yourself, because as soon as the power is shut down, the enemy from the lower floor will enter the area (through the same staircase as you). Maneuvering through the area will be a lot more difficult now, as there will be a hostile robot on patrol - you should wait for it to get to the room called "Workshop", in which there was a robot with a Data Buffer. It will give you a few extra seconds to move around the area freely.
+
+Regardless of your choice (and its outcome), after the power is shut down you must go to one of the terminals and turn back the power in the "Comm. Center". All you have to do now is to get to the staircase leading upwards, use the lever to open them, run to the upper floor and close the passageway.
+
+When you reach the upper floor, approach the growth located on the wall on the right side and interact with it. Right next to it there will be a terminal - click on it in order to retrieve data and be able to listen to a number of recordings. As it was mentioned earlier In the guide, they are not mandatory, but are sure worth the effort, as recordings (and not only them) such as those tell their own story. Afterwards, approach the cork board, with a map of continents, which is located on the opposite side of the room - there will be four notes to read there.
+
+Afterwards, activate the terminal in the middle of the room. Wait for a couple of seconds and click on the small panel, to the right from the switch. From here, you can establish connections with various stations, all by typing the appropriate code. Typing in "2201" won't do much, as the main character is currently on the Upsilon station, so you should input the next one - "2202". A little puzzle awaits you now, in which you must position the cursor in the appropriate place, so that the screen stops "snowing", and the whole image becomes visible. The proper placement of the cursor can be checked on the screen above this paragraph. After a few seconds the transmission will be cut off again.
+
+You won't be able to establish connection with the Theta station again, so just input the next code - "2203". You will have to position the cursor in the appropriate place again - the screen above shows the exact location. You will establish connection with the Lambda station, and will be able to hold a short conversation with a mysterious woman. After a few seconds the whole room will start fall apart and you will be moved to another location.
+
+Ocean Depths
+After regaining consciousness in the water, you will be able to freely move in the new environment - the main character can now breathe under water. Additionally, you will now have access to the flashlight, which can be used from now on - despite the fact that the game won't inform you of it in any way. It won't really be useful during this chapter, but later on it becomes almost mandatory tool in your arsenal. After you've become familiar with the new method of movement, climb up through the hole in the dome, by pressing the interaction button.
+
+Despite the fact that you are currently on the bottom of the ocean, this location is one of the most linear in the whole game - all you basically have to do now is to just go straight ahead. And you should start doing so - head towards the red lights in the distance. The fact that you are travelling in the right direction is signaled from time to time by lamp posts turning on. Ignore the nearby door, as you won't be able to open them. Continue your journey until you reach an arch-like structure - as soon as you get there, the game will be saved.
+
+By continuing your march, you should soon arrive at a place at which a Data Buffer is possible. After you've done it, move a little further, go past the lantern, which will light up as soon as you get near it, and soon you will be at a more open space.
+
+You should now start moving a little more careful, as a new type of enemies will be present in the area. Those emit a faint, reddish light, in a small radius before them, and as soon as you are seen by them you have several seconds during which they will verbally "taunt you", after which they will initiate an attack. Their biggest flaw is a severely limited vision - they are able to notice the main character only from an extremely short distance, so it's fairly easy to just avoid them. However, you should watch out for their hearing - moving around them in any position other than by crouching, even while they are several meters away from you, will certainly get their attention.
+
+Wait for the enemy to move away a little, and then hide behind cover, which will protect you from its eyes. Wait until the enemy swims in the other direction and then get out from the cover and continue your journey.
+
+You should be able to see a building with the "Upsilon B" sing on it. To the right from the sign you will notice a faint, flashing light - it's a small robot, crushed under rocks. Get them off of it, dragging them away with the interaction button to set the poor little thing free - rest assured, the robot is friendly towards the player. It will light up the area ahead of you, so moving around the area should now be a lot easier.
+
+Continuing on, you should arrive at a crossroads - one way will be leading to the left, while the other to the right. Ignore the right one, as it will lead you to the same place, but you will have to sneak past an enemy there. Go left, and then continue straight ahead.
+
+You should soon stumble upon another enemy patrolling the area. Hide behind a fragment of a sunken ship (you will be able to recognize it by a ladder hanging on one of its sides), wait for the enemy to swim to the other side and then quickly leave the cover and move on.
+
+Your underwater journey slowly comes to an end - there should be an entrance with the "Shuttle station Upsilon B" sing on it. Approach the entrance and wait for a few seconds until your robotic friend opens the passageway. All that's left to do is to get to the door, open them by pressing and holding the interaction button and swimming inside.
+
+After entering the room, swim towards the panel with the "Swipe Omnitool" inscription on it and press the interaction button to use the mentioned tool in order to get rid of the water. Afterwards, your underwater escapades will come to an end and a new passage will open.
+
+Shuttle Station
+After opening the hatch, head towards the tunnel - at the bottom of it, on the left side, there's a terminal where you can perform a Data Buffer. After listening to the dramatic recording, look around the area. Straight from your current position there's a power switch, and from there, a little to the left, a train - both of those are inactive at the moment, because of the lack of power on the station. Right next to the power switch there's a familiar growth, which can be interacted with.
+
+To the right of the tunnel (or to the left, looking from the position of the power switch) there's a passageway, that you must now go through. At the end of the tunnel turn into a small breach on the left side, and then squeeze through a passage leading to another tunnel. Here you have travel to the end of the tunnel, so that you can enter a small room on the left side.
+
+Inside you will find Amy, whose name should sound familiar to you - unless you didn't care to listen and read through various collectibles on your way here. You can have a little conversation with her. Amy is connected to a life-support-like machine, which in turn takes the power from a small box. As you've probably guessed, in order to restore the power to the station, you have to detach both cables connecting the machine supporting Amy and the box. The whole process will end up badly for the girl, but you will be able to continue your journey.
+
+Get back to the power switch and then flip it - the lights should be back now. Afterwards, don't go into the yellow train just yet - on the other side there's a blue one. Open up the side of the wagon by using the interaction button, and inside you will find a photograph, as well as a tablet, which will reveal some facts about the world, as well as will tell you something about Amy.
+
+Get inside the blue train now, check the notepad lying on one of the seats, and then head towards the driver seat. Insert your Omnitool to the slot, and then wait a few seconds so that the system can boot. You have to start the train systems now - to do so, pull on the little levers, located in the lower right corner of the panel (screenshot above) down, and then press the square red button to initiate.
+
+Afterwards, take a seat and on the screen that should appear soon enough select the "Lambda" station, after which a relatively long ride awaits you and the chapter will be completed.
+
+On the way to Lambda
+After regaining control over your character, activate a switch located directly below the driver's seat, on which the main character was not a long ago - it will open an emergency exit. The screen will be shaking and tearing for a couple of seconds, but rest assured - there's no threat here.
+
+Go straight ahead, until you reach a terminal with an intercom, positioned on the wall on the right side of the tunnel. Answer the call from Catherine, from the Lambda station, with whom the main character spoke a couple of times. After the conversation ends, go straight again, until you reach a growth, with which you can interact.
+
+As you can see, you can't go any further, which means that you have to turn back. Go along the right wall of the tunnel and try to locate a hatch near the ground - in case you are unable to do so, look at the above screenshot. Open up the hatch, climb up the ladder, where an unpleasant surprise awaits you - you have to go back to the train to retrieve the Omnitool, which was left there.
+
+Get back to the train, pick up the tool, crawl through the hatch and climb up the ladder again. Use the Omnitool to activate the mechanism - after a couple of seconds the room will be filled with water. Climb up the ladder - another underwater level awaits you.
+
+Just like the previous one, this level is extremely linear - there's no way to get lost, and there's hardly anything to do here. Go straight ahead until you reach a yellow "Lambda" sign.
+
+A swimming enemy, known from the previous underwater level awaits you in this area. There's only one problem here - the enemy is extremely hard to locate from here, as the visibility isn't the best. You should move around the area slowly, taking a short, few seconds long breaks from time to time to try to pinpoint the location of the foe. The enemy is patrolling the area along a straight, linear pattern, but changes its position frequently, giving you very little time to get past it. Use the rocks on the left side to hide from its view, and as soon as the enemy starts swimming in the direction you've come from get out of the cover and quickly (but still crouching) slip past it, continuing to go straight ahead.
+
+After a short while you should be able to see a group of buildings, being the Lambda station itself. On the right side there's a window through which you can check the insides of the building, but you won't be able to enter from there. The proper entrance can't be missed - it's illuminated by a strong, greenish light. To the left of this entrance there's a small submarine, but you won't be able to activate it, as your Omnitool lacks the appropriate chip.
+
+Open up the hatch to the Lambda station, get inside, and then use your Omnitool to pump out the water, what will open the other floodgate.
+
+Lambda Station
+As soon as you set your first steps on the Lambda Station, look around the area. There's a small room to the left of your current position, to which you could look through the window while being in the water - there's nothing to do there however, so just go straight ahead. After a few steps a new enemy will appear in the corridor, and the screen will go crazy for a short while.
+
+When everything goes back to normal, move a few steps forward, to a place from which you can see doors to the left and right. After a short conversation, Catherine will inform you to not make a ruckus and to avoid eye contact with the new enemy, which will appear in the area while she's talking. Just curl your head to the side and don't move for a short while, and the enemy will be gone. This foe is quite unique, as it does not react to your presence at all - you have to keep eye so that it can locate your position. If you refrain from doing so, it won't be able to harm you, even if u are extremely close to the enemy.
+
+As soon as everything calms dawn, ignore the door on the left and right sides, as they are closed and go straight ahead, and then take a turn to the left, where you will finally meet Catherine, with whom the main character tried to communicate during the last several minutes. The woman, or at least her consciousness, is locked inside a damaged robot, which is lying on the floor after the contact with the recently met enemy. Approach her and start the conversation.
+
+After the conversation ends, place your Omnitool to the slot, located to the right of Catherine - a yellow wire leads there. Wait a few seconds and approach the robot to take out its Cortex Chip, which should now be placed into the Omnitool. It will (again) increase the functionality of the tool, and will transfer the consciousness of Catherine into the tool itself, allowing her to communicate with you.
+
+After learning about the ARK project, Catherine will send you to one of the previously blocked doors, right next to the entrance to the Lambda Station. Before you go there, however, it's worth to take a short detour. Leave the room and go straight ahead, where another room awaits you. Inside one of the closets, located to the right from the entrance, you will find a note which can be read. After a short while an enemy will start bumping in the window, so just ignore it and move through the other door.
+
+Another encounter with the enemy awaits you here, so just keep your head low, look at the floor, while turning yourself back at the door through which you've just travelled, and the enemy should be gone after a couple of seconds. Afterwards, go straight ahead, take a turn to the left (ignore the darkness on the right side - it's a dead end), and then turn to the left again. On your left side there's an entrance to a toilet, where a growth can be found to interact with.
+
+Leave the toilet, turn left and go straight ahead, until you reach the pair of previously locked doors. Enter the room on the right side and then activate the computer inside. You have access to a few tabs here. The first four are used only as an additional source of knowledge about the game (which should be looked through and listened to!), but the most important tab is the last one, called ARK Tracker.
+
+You will have to scan a little now - if you don't want to find the solution with the "trial and error" method, you should do the following:
+? On the first screen select the box second from the left, in the fifth row.
+? On the second screen select the box fourth from the left, in the third row.
+? On the third screen select the box first from the right, in the third row.
+? In the fourth screen select the box third from the left, in the first row.
+The puzzle will be over and you will learn about the next goal of your journey - Station Theta. Before you go there, however, you have to pick up your Omnitool. Leave the room and ignore the one on the opposite side of the corridor, as there's nothing to do there. Go left, enter the room in which the Omnitool is located, pick it up and then leave Station Lambda, by using the mentioned tool.
+
+Now you must travel to the small emergency shuttle (which was mentioned in the previous chapter), which is located directly in front of the entrance to the Lambda Station. When you are inside, place the Omnitool in the socket and wait for Catherine to turn on the vessel. As you have probably guessed, it will end in a failure, and you will have to look for another emergency shuttle, inside the CURIE shipwreck.
+
+Pick up the Omnitool, leave the shuttle and go left. Go straight ahead (the robot above you is neutral, so rest assured), until you reach a line of signal lights, leading ahead. Go along them, but prepare yourself, as the enemy will make its appearance again. Look at the floor and wait for the enemy to disappear and then continue your journey.
+
+You should soon arrive at the entrance to the CURIE shipwreck. Open it up by using the Omnitool and then get inside.
+
+CURIE Shipwreck
+After entering the room, head left. Open the door, pulling them to the right side by using the interaction button, enter the room and climb up the ladder. Go through narrow tunnels along pipes, until you reach a crossroads - turn right, as the left one is blocked. You should soon arrive at an open space.
+
+Turn right and continue up, and the screen should start acting weird again. You cannot see the threat, so just continue upwards, looking at the floor, or by simply hiding behind obstacles on the left side. After a short while the enemy will "attack" and then quickly disappear. All you can do for now is to simply go straight ahead.
+
+You should soon arrive at the proper part of the ship. There's nothing to do here, so just go straight ahead and swim around the wreckage. While on the other side, you should be able to see an entrance, a small breach in the ship's hull. Enter it and climb up the ladder. Ignore the doors on the right, as it's a dead end, and just walk up the stairs.
+
+After getting to the upper floor, open the door by pulling them with the interaction button and continue along the stairs leading upwards, until you reach a hatch. Open it up, again by pressing and pulling it with interaction button and enter the room, where the game will be saved.
+
+There's nothing to collect here, so just travel further into the ship. Open the door, go through it, and then through another, where the proper part of the chapter begins. If you go further along the corridor, you will reach a place with two pairs of doors - one leading left, and the other right. There's an old enemy, the one who doesn't like when you look at it hidden in the room on the right side. This time, however, this foe will not disappear after a short while, and will accompany you during the whole event. Sweet.
+
+The best solution is to just hide behind a wall, when the enemy approaches you and wait for it to just go away, so that you can safely move forward. The three principles to follow here: do not run, because the enemy will charge at you once you do that, do not look andpoint your flashlight at the enemy's "face" and do not stand in immediate vicinity of the foe, whether you are visible or not. If the enemy manages to catch you and hit you, move away so that the character can recover from the assault and regain his vision.
+
+Ignore the room on the left side and especially on the right side and go straight ahead, to the end of the hallway. Before you turn to the right, make sure that the enemy is not there by leaning out from behind corner. When it leaves, turn right (ignore the passageway in the opposite direction, as there's nothing there), and then take a shelter in the small room on the left side.
+
+Wait for a short while, and when the enemy disappears in the tunnel on the right side, leave the room and go to the one located directly in front of you (a whole bunch of junk is swimming around the area). Wait for the enemy to move away, and then run into the tunnel in front of you (marked as F-1.3 - the other one, F-1.4 is a dead end), and then to a small room on the left side.
+
+Inside you will find the familiar growth, with which you must interact. Afterwards, wait for the enemy to move away again, and then leave the room and go left - at the end of the tunnel there's a "F-1.2" writing. Turn right, and then left, and look for a valve located on the left side - you should have no problems locating it, as the area is well lit. Turn the valve, so that the ladder is lowered and then quickly hide in the room on the right from the valve. As soon as the enemy moves away, climb up the ladder.
+
+As soon as you arrive on the upper floor, the game will be saved. There's nothing to collect here as well, so just go through the only available doors, until you reach a corridor marked as "F-2.3". Go right, into the "F-2.2" corridor (there's a toilet on the left side - you can't do anything there) and then take a turn to the well-lit passage on the right side. Place the Omnitool in the socket to invoke a short conversation between the main character and Catherine, from which you will learn that you must overload the ship's security systems in order to launch the emergency shuttle.
+
+You now have to go to the upper floor. Remember the route described in this, and the below paragraph, as it will soon be your escape route (it will be, of course, reversed). Leave the emergency shuttle, turn right, and then again into corridor "F-2.2". Get to the end of the corridor, enter the door above which there's a red light, and then go to the other side of the control-like room. Go through the door, to the "F-2.1" corridor, and then take a turn to the right and use the staircase to get to the upper floor.
+
+You will be in the "F-3.1" corridor. Ignore the entrance in the front, turn right, and then go through the doors on the right side. You will end up in a room resembling a cargo room - go to the stairs located on the other side of the room and run upstairs. Go along the footbridge and then turn left and enter a small room.
+
+You will end up in a room resembling a cooling plant of the ship. Your task is to overload the cooling systems of the ship, which will allow you and Catherine to use the emergency shuttle. In order to do so, you must tear off 3 out of 4 cables located on the sides of the room. Start off by pulling out those located in the further part of the room, and after you've done it, tear off one of the remaining two and prepare for a confrontation.
+
+An enemy will appear on the other side of the room, but this time it's perfectly aware of your presence and will charge at you the moment the main character gets up from the ground. Run out of the room, turn left and then down the stairs. Turn left, go through the doors located straight ahead (the left one, not the right one). Run into the "F-3.1" corridor, ignoring the passage on the right side and then run downstairs.
+
+After getting to the lower floor, quickly turn to the left, run through the control-like room and enter another door. Run straight ahead, into the "F-2.2" corridor, and from there take a turn to the left and get inside the emergency shuttle. It will automatically close, and after a short conversation the chapter will end.
+
+Delta Station
+After regaining control over the character, try to get out of the vessel by the hatch you've entered it in the previous mission. You won't be able to, but after a few seconds you will be rescued by the little robot you saved a couple of chapters ago. Climb up through the breach to get on an open space again.
+
+Your task is to get to the station Theta. From the place you've climbed out of the ship you can only go straight ahead, in the direction of a small greenish building with a light on top of it - there's an abyss everywhere else. Go there as soon as possible, climb up the ladder and get to the upper part of the building.
+
+Inside there will be a corpse, on which you can perform a Data Buffer, and right behind those there's a growth, with which you can interact. After completing both of those activities, pick up the tablet lying on the ground, from which you will be able to learn a few interesting things. Put it back down, turn around and flip the level located near the small red light. A screen will appear, from which you will be able to check the map of the surrounding area, with all the important buildings marked on it. Remember it, or look at the screenshot above - this map will make moving around the area a lot easier.
+
+Jump down from the ladder, turn around by 180 degrees and go straight ahead, in the direction of lights. You should soon arrive at a quite large building, with railroad tracks around it - go to the right, along the rails, until you reach a room with a "Control Room" sign on it (point 2 on the map at the beginning of this chapter). There's a crazy, yet neutral robot traveling around the area - ignore it for the time being. Approach the entrance to the mentioned building, click on the doors and wait until your friend gets rid of the problem.
+
+Inside you will find a corpse on which you can perform a Data Buffer, as well as a red switch - press it and listen to the last moments of the unlucky one. Leave the building, turn left from the entrance and go straight ahead, until you reach a Communication Antenna(point 3 on the map at the beginning of this chapter). If you can't find it, check the map from the beginning of this chapter - with it you should have no problems.
+
+Before activating the panel in front of the building with the antenna, you should first investigate the building itself - approach the doors and open them by activating the control panel (this time your ally won't have to cut through it). Inside, on both walls (to the left and right from the entrance) there are messages written in blood, which can be checked, and a note which can be found on the desk. After checking the listed items, leave the building and approach the control panel of the antenna, located to the right of the entrance.
+
+Activate the panel with the button in the upper right corner. You now have to calibrate the antenna properly, so that it can be used to call in the Zeppelin. By pressing the arrows on the panel set the signal in such a way, so that the signal overlaps the yellow line, and set the channel on 5. Thanks to that, you will be able to contact station Theta.
+
+Leave the panel, turn around 180 degrees and go straight ahead, until you reach another group of buildings. There's another control panel here (point 4 on the map at the beginning of this chapter) - approach and activate it, by pressing the appropriate button on the screen. Select the "Zeppelins" option, and then press "Echo" and "Request Transport" next to "Zeppelin - 049". After a short while the requested transport will arrive near your position.
+
+Before you enter it, however, you can listen to the recordings in the panel at which you currently are ("Radio" tab). Leave the panel, turn left and approach the building with the "Delta" (point 5 on the map at the beginning of this chapter) sign on it. The doors are locked, but your friend will solve the problem immediately. Get inside, interact with the growth in front of the entrance, and then press the button right next to it.
+
+It will activate a monitor, on which you will be able to check a few things associated with the world of the game. After reading through everything, you should check the map located directly behind the computer, as well as the subway lines scheme to the right of your current position. The other door inside this room lead to the toilet, where there's nothing to do, so just leave the area and get outside.
+
+The Zeppelin should land in the area by now - go there and place the Omnitool in the socket to activate the tool. You will learn that you lack a Tool Chip, which was damaged during the last crash. After the conversation with Catherine ends, turn to the left and pick up the weapon from the box that had just opened.
+
+Your task is to kill a robot, from which you can extract the Tool Chip. Go back to the place in which the crazy, neutral robot patrols the area and shoot him a couple of times with your newly acquired weapon - the weapon becomes active when you aim it at the robot from a small distance. After three shots the robot will drop on the ground.
+
+Run towards the robot, take out its Tool Chip and go back to the Zeppelin, to place it inside the Omnitool. After a short conversation Catherine will ask you to press the control buttons. Flip the lever located on the right side of the picture of Catherine, and then press the yellow button below. After a short while the Zeppelin will take off, and you will change your environment.
+On the way to Theta
+When the Zeppelin lands, take the Omnitool from the control panel, and then activate the nearby Data Buffer. After it ends, run down the footbridge, in the direction of cranes and lights and activate another Data Buffer there.
+
+Run straight ahead, until you reach a lantern, with the third and last Data Buffer in the area. Directly in front of your current position, there's a robot lying on the ground, and you can have a little conversation with it. When it ends, approach the huge gate in the distance.
+
+Theta Station
+When the gate opens, get inside and look around the area. The doors on the left side of the room can be ignored for now, as those are blocked, so just go to the right, until you reach another pair of doors, or to be more specific, a cracked window. As you've probably guessed, you must smash the window to get inside - grab a nearby fire extinguisher and hit the window a couple of times to do so.
+
+Jump through the new passage and approach the computer on the other side of the room, where there's a socket for the Omnitool. Insert the tool, and after a short while Catherine will turn the power in the area back, opening the doors on the left side of the lobby. Look inside the computer nearby, where you will find a map of the buildings.
+
+Jump back through the window and get back near the gate, and from there go through the left door. Ignore the "first one" and go to the one located further (a "Server Access" sign is hanging above them). Run across platforms and get to the lowest level, where a three pairs of doors await you. Those located straight ahead of you don't hold any secrets, while the right one are just a dead end, so just pick the left one and enter the room.
+
+On the other side of the pitch-black room there's a router, which must be restarted. There's a catch - an enemy patrolling the area. Fortunately for you, the enemy is blind as a mole, especially because it's so dark in here, but you can't do two things while moving around the area - don't use flashlight and don't sprint. Move while crouched, hiding in the darkness, or behind a cover when the enemy is nearby. Remember to not stand on the monster's path - it will immediately notice you and attack.
+
+When you reach the console responsible for restarting the equipment, press the yellow button and flip the lever located near it. Afterwards, immediately hide in the shadows, as the enemy will be drawn to your position. Don't move away too far, as you now have about half a minute to flip the lever again. Wait for the enemy to move away, do the activity and hide in the shadows again, as the monster will return to check what is making a noise.
+
+Now you must go back to the very beginning, to the lobby with the enormous gate - and as you've probably guessed it, enter the "first" doors on the left. Go straight ahead until you reach a crossroads - from here take a turn to the right, take off the pneumatic lock of the doors at the end of the tunnel and then enter the room.
+
+Afterwards, go to the right. There's a computer in this room, located on the right side, from which you will learn a couple of things about this place. Ignore the computer on the other side of the room, and the small storeroom connected to it.
+
+Get back to the entrance to the laboratory and head towards the room on opposite side - Catherine will tell you about the place, and how human brains where scanned here. There's a Data Buffer terminal on the wall on the left side of the room. After it ends, ignore the nearby terminal for now (but remember its location) and enter the small room on the opposite side. From the terminal there you will learn about a few things, mainly associated with the main character.
+
+Get back to the previous room of the laboratory and enter the small storeroom. You will find 5 banks filled with memory cards (Memory Chip) - you can spin every single one of them, and your task is to find a working, undamaged one. The proper one differs greatly from the others, so it shouldn't take too long.
+When you collect it, get back to the previous room and approach the desk near the entrance - on the right side of the desk there's a small box, called "Stimulation Assets". Open it up and collect another chip from inside.
+
+Afterwards, go with both chips to the other room, with the armchair in the middle of it. Approach the desk located in the corner of the room and place the chip inside the socket lying on the said desk. After you've done it, activate the computer, press OK and wait for the data to be loaded. Select the option "Scan Room" from the list, and then press the "Copy to Chip" button. The rest of the data is either on the chip already, or is damaged, so ignore it. Leave the computer, take the chip off the socket and get back to the previous room.
+
+Approach the second computer in the room and place both chips in the sockets present there. Afterwards, start up the program on the computer and "click through" the alerts on the screen. You now must find a person who knew the security cipher. From the author: I found the code with the help of "Wan, Brandon" character - this guide will focus on choosing this person.
+
+Select the option "WAN, Brandon" and then press the UPLOAD button. After a few seconds a screen to perform the simulation will appear - during it Catherine will try to get the security cipher from the selected person. Pick a couple of sceneries (Environment), and then run the test a few times by pressing the "Run".
+
+You won't be able to get the data from the person, so just leave the laboratory and go back to the crossroads. Afterwards, turn right, to the doors hidden in the dark. Those are living quarters of the people who were living on the station, and where a huge amount of information can be found. Get to the toilet on the left side to see how the main character looks like.
+
+Leave the toilet (and ignore the next one) and go to the passage in front of you. There are over a dozen of doors in the tunnel, all leading to different rooms of various people who lived here. You won't be able to access all of them, but those which are unlocked are certainly worth visiting, as they hold an immense amount of data.
+
+In the "Guy Conrad" room you will find a note lying on the desk, on the left side of the room, and on the opposite side, in the locker on the right, there's a couple of photographs. Additionally, right above the bed there are two additional photos.
+
+Get back to the corridor and enter the room of "Catherine Chun". There's a tablet lying on the desk in front of the entrance, which holds some valuable information, and in the locker, right next to the entrance, there's a plushie - after you pick it up, a conversation between Catherine and Simon will start.
+
+Leave the room and enter the one marked as "Mark Sarang", on the left side of the corridor. There's a note lying on the desk, and in the upper drawer, on the right side, there's an audio recorder. In the upper drawer, this time on the left side of the desk, there's a notepad. A nightstand, located near the bed holds a book, and in the first and second drawer a document and a notepad can be found. Now move around and check the 6 photographs hanging on the map.
+
+Another stop is the room of "Martin Fisher". Here, just straight ahead from the entrance, you will find a familiar growth, which can be interacted in order to restore any lost health (which will this time be commented by Catherine).
+
+Get back to the corridor and enter the room vis-a-vis, with the "Robin Bass" sign on it. Directly in front of the door there's a bed, with two photographs hanging above it, and four more above the desk on the left side of the room. Additionally, there's another photograph, as well as a notepad lying on the desk itself. After you've collected all of that, leave the room and head towards the one marked as "Brandon Wan".
+
+Turn the light on by pressing the switch near the doors, and then start up the Data Buffer, from the terminal located on the right side of the room. Both lockers around the terminal hold a photograph as well. When you're done, turn around by 180 degrees and approach the desk. The drawer on the left side holds a note, in the right one there's an ID card, and on the desk itself, as well as on a shelf hanging above it you will find a photograph. When you're finished, interact with the computer.
+Get back to the laboratory and the computer through which you can run the simulation. There will be a new option there - besides selecting the scenery (Environment), you will be able to place the friend of Brandon, Alice, in it. Select her and then run the simulation on the "Beach", "Ski Lodge" and finally in the "Scan Room", to get the security cipher. You now have a choice - you can either delete the data and scans of brains of all of those patients, or just shut down the computer (or do both of them).
+
+Get back to the very beginning, to the room to the right of the gate, where your Omnitool is still connected. Take the tool, leave the room and run down - in the right corner of the room there's another terminal that can be activated with your tool. Approach it, activate it and get inside.
+
+There's no additional content here, so just go straight ahead to the terminal on the right side. It lacks the power, so you must attach the cable lying on the ground to the side of the terminal. When you're done, approach the terminal and turn a few of those taps (doesn't matter which one) to overload the system.
+
+After a short cutscene you will regain control over your character. Go straight ahead from the terminal to the mobile staircase - stand behind them and push them towards the little hatch located above ground. As soon as you do that, run upstairs, open the hatch and enter it. After a few steps you will end up in a ventilation shaft.
+
+A little to the right from the gate there's a box titled "Authorized Personnel" - open it up, by using the interaction button. A little puzzle awaits you here. To open the gate, you must grab the round switch and:
+? Turn it clockwise, until it "clicks"
+? Pull it towards yourself
+? Turn it counter-clockwise, again, until it "clicks"
+? Push it inside
+Afterwards, all there's left to do is to pull the lever down, and after a short while the gate will open. Get inside and use your Omnitool to activate the switch. The water will be pulled away and the further part of the passageway will be available.
+
+Theta Laboratory
+After landing in the ventilation shaft, turn around by 180 degrees and go straight ahead - you should soon reach a hatch through which you will enter the laboratory. Jump down and then turn around - there should be growth there in case you need to regenerate your health.
+
+After regaining health, turn around and approach the table in front of you - there's a photograph here. On the blackboard, located nearly in the middle of the room, there's another photograph as well as a number of notes. From here turn to the left and go straight ahead - approach the desk, place the Omnitool in the socket and summon Catherine. When the conversation ends, pick up the cable on your left and stick it into the computer case standing nearby.
+
+It will turn on the mentioned computer. Approach it and activate it - you will have to complete a little puzzle here. You must run (so that they are highlighted) a list of specific modules, so that the memory of the computer is not overloaded. You must run (highlight) the following modules (you can look at the above screenshot as well):
+? sys_physics_rigid
+? sys_physics_fluid
+? sys_phys_buoy
+? sys_wmod_atmo
+? sys_interface_scan
+? sys_wmod_dynlight
+? sys_gen_veg_adv
+? scn_forest
+? pkg_soma_hum
+? env_mod_river
+? ext_moon_full
+After you've done it, press the "NEXT" button. On the following screen select the "Dummy" option, and then press the "Start Simulation". Your task is to stop the simulation (by pressing the "Pause Simulation") right when the "Dummy" word appears below the"Loaded Module". Right now it's practically impossible to do so, as the modules switch way too quick. To make the whole process a lot easier, decrease the "Resource Alloc." to 5% - thanks to that, you will be able to pick up the moment in which the right module is loaded and stop the simulation.
+
+When you stop the simulation, press the "Run Diagnostics" button. Your task by this terminal has come to an end, but before you leave the room, head towards the orange construction, with the biohazard logo on its doors. Open up the dome and get inside, so that Catherine can scan your body.
+
+Pull the Omnitool out of the socket and go through the doors that require you to use the said tool. When the process of cleansing is finished and the doors are open, go straight ahead. At the end of the tunnel, right next to the entrance to the elevator there's a terminal to perform a Data Buffer, as well as a map of the area. A part of this chapter refers to the said map - its existence will make moving around the area a lot easier.
+
+Your main task is to start up the elevator, which can be located near the data buffer terminal and the map (point 1 on the map above) - it lacks a certain chip, which you naturally must collect now. It can be found in the "Omega Management" room (point 2 on the map above). The doors are locked, and the only way (for now) leads through the window, which must first be smashed. There's only one problem - there are no viable items to do so, and you will have to look around the area to find a suitable one (a chair, for instance).
+
+While looking for the item, you must also watch out for the enemy that wanders the area. It has a nasty habit of entering the rooms that you are currently inside, and which have a single entrance only, which almost always results in getting hit by the enemy. Listen and look out for the enemy to avoid situations such as those - corridors are somewhat lit, so hiding in plain sight will get you nowhere, as it will be able to notice you from quite a distance.
+
+If you are in need of a healing, there are places marked on the map (points H) where you can regain health. It's the Storage (point H1 on the map), not far away from the elevator, and the passageway on the left side of the map (point H2 on the map). The chair, which can be used to smash the window can be found in the Payload Design room (point O1 on the map), in the Conference Room (point O2 on the map), in the Examination Room (point O4 on the map), as well as in the Office (point O4 on the map).
+
+Additional items, which can be found, read or simply examined here are:
+? Two boards in Payload Design (point O1 on the map)
+? Audio recording in Examination Room (point O3 on the map)
+? Computerin the Office (point O4 on the map)
+? Data Buffer, 3 notes, computerin Security Checkpoint (point O3 on the map)
+? Data buffer, board in Casing (point O5 on the map)
+? Data Bufferon a corpse in Omega Management (point 2 on the map)
+When you're finished with searching the area, it's time to get the chip. There are two solutions to the problem of getting inside the Omega Management - you can either smash the window with a chair, or simply open the doors from the computer in theSecurity Checkpoint. The first method does not require you to get inside a room located on the other side of the map, but will make a lot of noise which will attract the enemy. So it's generally a better idea to follow the second route.
+Get inside the Security Checkpoint room (point 3 on the map), pick up all the items in the area (check the list above for details) and activate the computer. Get into the Override Door Lock option, from which you will be able to unlock access to Omega Management. There's a catch though - you must first lock one of the other rooms in order to free the required power. Select one of the previously visited ones (such as Storage), lock it by clicking on the name, and then click on the Omega Management to open the door.
+When you're done, go to the mentioned room - watch out so that the enemy won't see you. Get inside and locate the corpse lying on the chair - in its hand there's the chip. You must snatch it by force, by pressing and holding the interaction button and then pulling it away from its grasp. Go back to the Security Checkpoint, place the freshly acquired chip into the socket on the desk and start up the computer again. Select the "Key Control" option, and then press the "Update Connector Chip" button. Take the chip and leave the room.
+
+The lights will turn off and the area will now be pitch-black, so watch out not to run into the enemy - if it manages to corner you, throw an item somewhere to lure it away. Get to the elevator now (point 1 on the map), place the Connector Chip into the panel and secure it by flipping two small levers. Afterwards close the box and press the button on it, and quickly get inside the elevator. Press the "Maintenance" button to start it up.
+
+The elevator will soon crash. When you regain control over your character, open up the hatch in the floor and climb down the ladder.
+
+Theta
+When the character is conscious again, climb up the ladder to get to the new location. There's nothing to look around for here, because all the passages are locked, so approach the doors on the left side of the elevator, open them and get inside. A monster from the previous chapter will attack you - don't worry, it's staged and you won't be able to do much against it.
+
+When the cutscene ends, set Simon free by moving around and go to the other side of the room, straight ahead - the train on the right side has no value to you. Remember to move around quietly, as the enemy is still present in the area. Keep your head low, turn off your flashlight and everything should be fine. GO through the doors on the left side, at the end of the room, to get to the next one.
+
+You will end up in a room with several doors, and a monster patrolling the area - it's pitch-black here, and given the fact that a monster is travelling around the area using the flashlight is a no-no. In order to get further, you must get to the doors on the opposite side of the room - open them, go through and then get past the other one.
+
+You will end up near a growth on a wall, which should be used to heal the character. Quickly restore your health and then go to the other side of the room, as the enemy is more than certainly following you. Press the button on the wall, which will open up a small passage on the wall, through which you must squeeze yourself.
+
+When you reach the new location, turn left and open the door directly in front of you. A little further and you will stumble upon another growth on the wall, in case you needed additional healing. In case the enemy won't let you move further, pick up one of the junk items lying on the ground and throw it somewhere to lure the monster away. Heal yourself and go through the next door to continue.
+Hide in the darkness, because the enemy is surely following you. When it's gone, approach another switch on the right side, press it and get into the ventilation shaft. You now have to crawl a little bit, until you reach a new room.
+
+Leave the room, and then continue straight ahead, until you reach the next pair of doors, through which, obviously, you need to go - watch out for the enemy lurking nearby. In the next room, on the left side, there are doors which are now locked - they need power to operate. Head towards the room straight ahead, where you can switch the power back on.
+
+In the opposite corner of the room (looking from the entrance) you will see a small metal box. Take off the lid to uncover the mechanism inside - remember to put down the lid slowly and quietly, instead of throwing it in a random direction, or you will alert the enemy of your presence! Pull and push the lever a couple of times, until the bar on the right side is full, which will restore the power in the previous room. Go there, open the previously locked doors, enter the room and lock them behind you.
+
+And you will end up in room that is not in total darkness. Jump down into the water, turn around by 180 degrees and climb up the ladder. Go along the ledges, ignoring the nearby ladders, as you won't be able to climb them. Jump on the next platform, until you reach a dead end.
+
+Jump down, onto the metal bars (while you have a small waterfall on your right), and from here jump down one more time, to land near metal "doors". Move them aside, get into the tunnel and then turn left, into a small room. Here you will find a growth, which can be used to regenerate health lost from fall damage.
+
+Outside Omicron
+You will again be on the ocean's floor. When you regain control over your character, perform a Data Buffer on the corpse lying right next to you. Afterwards, just like with any previous oceanic level, go straight ahead, along the route.
+
+You will soon arrive at the Omicron station entrance - which, as you've probably guessed by now, is locked, because it has no power. Right next to the gate you will find corpse, on which you can perform another Data Buffer. Look up and locate the power lines - follow them, until you reach another building.
+
+Climb up the ladder, where a socket for the Omnitool awaits, which... doesn't work. You will have to restore the power manually. Locate a small lid, to the right from the ladder - just above it there's a sign "Manual Override". Tear it off, and then do the following:
+? Press the red button in the "Manual Override" box
+? Turn the two valves located to the right of the box
+? Flip the level located to the right of the valves
+? Flip the level located in the "Manual Override" box
+Wait for a short while and then climb up the ladder. Place your Omnitool in the socket by the computer, to summon Catherine. Use the time she is speaking to look around the area. First things first, perform a Data Buffer on the corpse next to the computer. Right next to it there's a growth to regenerate health. Climb up the ladder, where you will find another collectible, a note.
+Get back to the level on which you've left the Omnitool and approach the fuse box, to the left of the computer. You must lead the power from the upper left corner of the box to the lower right corner. To do so, you will have to use the appropriate number of switches - when you use too many of them, the system will reboot.
+
+To make things simpler, the above screenshot shows the switches with number ranging from 1 to 16. To solve the puzzle, you have to switch: 1, 2, 5, 6, 9, 13, 14, 15 and 16 switch. When you do so, the power will be restored.
+
+When the power is restored, a number of things will be unlocked as well. The first one is the terminal located to the right of the Omnitool socket. You can listen to a series of audio files here, as well as check photographs of station Omicron. When you're done, turn around and approach the second terminal.
+
+When you interact with it, look at the last option - "UbVZrmsP". Click on it, and then note the code that appeared on the screen numerous times - 1050. You will use it in just a second - leave the terminal and go back to the one with audio files.
+
+Select the "Omicron" option, and then click on the "Quarantined" writing. Put in the 1050 code you've just recovered and then accept it by pressing OK. The quarantine will be lifted, which means that the huge door to Omicron will be unlocked.
+
+Take the Omnitool, climb down the ladder to the lower level and use the tool to open up the hatch. Get down on the ground, activate Data Buffer on the corpse, located near the ladder and then head towards the gate to station Omicron. Press the button located to the right of the entrance, and then get inside. There you will find a map, lying on the furniture.
+
+Use the Omnitool to activate the terminal. Machines, as always, will malfunction. Open the gate again and leave the room - now go along the left side, until you get to the lower level and you reach a metal footbridge. Approach it, turn left, and then continue straight ahead. On the left side there will be a ladder, through which you will be able to get to the rear entrance of the Omicron station. Open the door and use the Omnitool to drain the water.
+
+When you are healed, pull the lever located in front of the entrance, which will flood the tunnel and the whole chapter will end.
+
+Omicron Station
+When you enter the station, perform Data Buffer on corpses lying on the ground. There's nothing to do here, so just go through the door on the left side, and then climb up the stairs to the upper floor. Enter the first doors on the right.
+
+When the screen stops shaking, head straight ahead, to the passage marked as "North HallF1". From here take a turn to the right, and then into the "Medical Bay". Now you have to go to the further section of the room, on the right side, and then through a tunnel. At the end of the tunnel there's an entrance to the "Dive Room".
+
+Don't worry about the fact that the doors behind you have been shut. Place the Omnitool into the socket, and wait for Catherine to "boot". When she is done talking, turn around and look through the items on the table near the wall - there will be a photo, note, as well as a tablet there.
+
+When the light is back, go to the further section of the room. Open the locker marked as "D", and then interact with the "body" present there. When Simon is done talking, turn around and approach the terminal standing in front of the lockers. Press the "Activate Terminal" button, and then from the right monitor select the "HPS Activation".
+
+From the new screen select the "POD D", and then wait for the system to load. From the diagnosis carried out by the computer you will learn, that you need three items: Cortex Chip, Battery Pack and Structure Gel. Leave the room and go to the Containment Room, where the weird creature appeared and the screen was tearing.
+Approach the terminal standing in the middle of the room, which should now be active. Press the "Override" button, and afterwards you will have to solve a small puzzle. You must connect the squares in such a manner, that each of them is connected only once. The above screenshot presents you the ready scheme, with the starting location marked as 1. All you have to do is to drag the line in the same manner. When you're done with the riddle, doors on this floor will be unlocked.
+
+In the Laboratory, the room straight ahead from your current position, there's an audio recording (lying on the desk, to the right of the entrance), a tablet (in the drawer of the desk to the left of the entrance), and on the opposite side you will find a growth, to heal yourself. Get back to the terminal in which you've done the puzzle - right next to it there will be another terminal with a couple of messages.
+
+First things first, you should focus on collecting the Structure Gel. Turn around (while still standing in front of the terminal with the puzzle), and enter the room called "Cleanroom". When you finally get inside, head towards the board located on the left side - there are several photographs hanging on it. To the right there's a computer.
+
+When you are done with reading and looking at pictures, head towards the cabinet, to the right from the computer. Activate the panel, wait for the smoke to come out, and then pick up the chip from the small slot, below the panel. Head behind the glass doors, to the right, and then continue to the other side of the room.
+
+There are 3 cabinets here, from which the middle on is empty. On the bottom of the said cabinet there's a light, and a button right next to it - press it, and then pull the drawer out of the cabinet. Place the chip on the drawer, push it inside and go to the control panel in front of them.
+
+Grab the joystick lying on the desk and with it move the laser to the right, right above the chip that was put in the drawer. When the laser is directly above it, let go of the joystick and press the "Dispense Gel" button. Wait for the operation to end, pick up the chip and insert it back into the cabinet from which you've taken it. Press the button again, and when the cabinet is open, pick up the Structure Gel bottle. Get back to the "Containment Room" (where you solved the puzzle).
+
+While standing by the terminal, take a turn to the right, through the passage called "SouthHall F1". Get inside the room in front (Hydrophonics), and pull out the drawer of the desk standing on the left side. Inside you will find a recording. Leave the room and get back to the corridor, turn to the left and get inside the "South Stairwell". Climb up the stairs, and get inside the "Containment F2".
+
+Approach the terminal, press the "Upper" button, and then the "Override", to open all the rooms on this floor. Go through the doors on the right side of the room, and enter the "Power Room". From here take a turn to the room on the left side, where a new type of enemy will await you. Continue forward until you reach the place at which the new foe is standing still.
+
+When you get closer to the enemy, it will change its appearance. If you don't want to be attacked immediately, sneak by hiding behind bookstands on the left side. Move slowly, and when you are close enough, stand on your feet, open up the locker near the enemy and pick up the Battery Pack. You now have a few seconds before you are attacked - turn around and run as fast as you can back to the stairs.
+
+You now have to get back to the "Containment F2". If the enemy was able to hit you, go to the "West Hall" and then to "Dining Hall", where you will find a growth which can be used to heal your wounds. There's a recording here as well. When you're done, get to the lower floor and locate the passage called "East Stairwell" (it's in the same corridor as the stairs you took to get to the upper floor).
+
+When you reach the lower floor, go through the "Sec. Entrance" and then enter the "Containment FB". Approach the terminal, press the "Lower" button, and then the "Override" one to unlock all the doors on this level. When you're done, head towards the passage on the left side, and then into the next room - "Robot Repair Bay".
+
+Approach the terminal in the middle of the room, where another puzzle awaits you. In order to solve it, you must lead the lasers from the left side to the receivers on the bottom. The top left laser must go to the rightmost receiver, the middle laser must go to the middle receiver, and the bottom laser must go to the leftmost receiver - just like on the screenshot above. When you're done, a Cortex Chip will be ejected from the robot on the right side.
+
+Take the chip, leave the room and head left, where another growth can be found, as well as a computer with a couple of recordings, a few notes and photographs. Get back to the upper floor, to the "Containment F1" room, where a weird phantom appears from time to time. Enter the "North Hall B" room, and then turn off your flashlight, as there's an enemy in the area.
+
+This situation is different from before - the enemy will kill you in one strike, if it manages to get to you. Sneak by the enemy and go to the corridor heading right, ignoring the "MedicalBay" room where the monster is lurking, and then go through the other door (near a small Storage). When you reach the tunnel leading to the Dive Room, stand up on your feet and start running - the enemy is already aware of your position, so sneaking won't help at all. When you reach the room, Catherine will close the door behind you.
+
+When the conversation between Catherine and Simon comes to an end, approach the power suit located in the "D" drawer and install all the items you've managed to collect. When you're done, approach the terminal and restart the whole procedure by pressing the "Retry" button. This time everything will go well. Leave the terminal and go to the small room with an armchair in the middle of it.
+
+The last puzzle in this chapter awaits you here - approach the terminal on the right side. Your task is to overlay two sound waves. To do so, you have to set:
+? Frequency to 1
+? Offset to 5
+? Amplitude to 7
+When you've done it, press the "Lock Parameters" button and sit in the armchair, so that the Simon's consciousness can be moved into a new body.
+
+When you regain control, get back to the armchair. It seems, that the consciousness of Simon wasn't transferred, but copied. You now have a choice - you can, literally, sentence the Simon's clone for a life in solitude, or kill him by emptying his battery from the terminal where you just solved the puzzle.
+
+Regardless of your choice, get back to the room, take the Omnitool, and then open the hatch located near the lockers where you've found the Power Suit. Get inside and open the second hatch by using your Omnitool to end this long chapter.
+
+The Descent
+When the outside hatch is open, leave the station. Ignore the passageway in front of you, as it's a dead end, and instead of it take a turn to the right and continue your march until you reach a ladder. Climb it down, and then put the Omnitool in the socket, to summon Catherine.
+
+A small puzzle awaits you here - you have to use sliders to set the values correctly. Set them in such a way, so that the values are as follows:
+? ACR: Descend
+? Passengers: 1
+When you're done, pull the lever on the left side, and then sit on the seat. A quite long ride awaits you now, during which the main character and Catherine will have a little conversation.
+
+On the way to Tau
+Run down the stairs - a board with a picture of the area is hanging there. Get away from the board and enter the small building directly in front of you - inside you will find a terminal. When you're done reading, leave the room and head straight ahead, turning a little to the left after a while - you will end up in a building with a Data Buffer.
+
+Leave the building and take a turn to the right, and then go straight ahead, until you reach another construction. Pull the lever, but don't run inside, as there's nothing there. Instead, head straight ahead (while standing with your back towards the lever), where a terminal can be found.
+
+Leave the building, take a turn to the left and run towards the lights in the distance - about midway you should be able to see a corpse on the ground, on which you can perform a Data Buffer. Continue forward, and when you reach a box with a lever, pull it to turn on the lights. You now have to follow the blue / green lights.
+
+Go straight ahead, until you reach a building. In front of the entrance there's a terminal, which shows some interesting information. To the left of your current position there's a lever - approach it and pull it down. Remember, that there's a growth (WAU) here, which can be used to regain lost health. When you're done, leave the room through the gate, located to the right of the entrance.
+
+Move forward a little and you should be able to see dim lights in the distance. Continue straight ahead, hiding from time to time inside containers and behind terrain to protect yourself from the storm - additionally, remember to stick to the lights, because there are some huge sea monsters lurking around and they will attack you once you go into the dark.
+
+After a few minutes of journey, you should reach another building. Go to the further section of the room and pull the lever located on the right side. Afterwards, turn around - directly in front of you should be a growth (WAU) and a terminal with a Data Buffer. When you're done, leave the room and take a turn to the left.
+There's another terminal here, with the help of which you will be able to start up a nearby robot. To do so, interact with the terminal, select the "Control" and then "Tau". When the robot gets up, follow it and keep extremely close to it, because the lights that the robot emit will protect you from the dangers of the deep sea. After a short while the robot will be eaten by a sea monster.
+
+When the robot is no more, quickly run towards the nearby lights, and then follow the subsequent ones until you reach a cave. You must now get to the other side of the cave - there are different routes inside, but each one of them will lead to the exit.
+
+When you reach the exit of the cave, look for a small, dim, white light in the distance - don't get close to it, however, as it's a hostile fish called Anglerfish. Unfortunately, the enemy is not scared by lights, so you have two choices - you can lure it inside the cave and then back away further into the cave and wait for the monster to vanish, or simply start running in the direction of the lights in the distance.
+
+Regardless of your choice, follow the green lights and you should soon be at the entrance to the Tau station. Press the small button on the left side, enter the room and activate the panel with your Omnitool to drain the water and end the chapter.
+
+When the power goes down, climb up the ladder, pull up the cover of the box that should be right at your feet, and then press the fuse back in the box. When the power is restored, get back to the lower floor and take a seat again.
+
+When the conversation between Catherine and Simon comes to an end, and you regain control over your character, take the Omnitool out of the socket and use it open the doors of the elevator. Leave the elevator to end this short chapter.
+
+Tau Station
+When the entrance to the station opens, go through it, move a little further forward and then take a turn to the left. Inside you will find a terminal for Data Buffer. There's nothing else to do here, so just go back to the corridor, take a turn to the right and go straight ahead. Ignore the doors on the right (with the "Maintenance" sign) on the first crossroads, because they are blocked. Get to the second crossroads and go through the doors on the left.
+Directly in front of the entrance there's a computer, from which you will have access to the map of the location. When you're done looking at it, go through the next doors (located to the right, if you're still in front of the map), and then through the next one, and next one, until you reach another crossroads.
+
+When you arrive at the crossroads, go straight ahead and press the button to open the hatch. Prepare yourself - there's an enemy lurking on the other side of the doors, the one who reacts to light, movement and is extremely aggressive when looked at. You should remember about those - don't flash it into the eyes, don't stand in a well-lit room, and when the enemy is extremely close, or in your immediate vicinity remain still, so it won't be able to hear you.
+
+To get past the enemy, who was lured by the sound of opening doors, take a turn to the tunnel on the right side (while standing in front of the hatch), and then go repeat all the steps to get to the hatch (like walking near the computer with the map) - you should also remember that most of the rooms have a light switch, which can be turned off to be less visible to the enemy. Each time you open any doors in this area, the enemy will come check what is making all the ruckus. If you have to open the doors, do so, get inside and turn off the lights.
+
+Go through the hatch, through which the enemy came at you, and then go straight ahead until you reach doors. Open them, get inside, close the doors behind you and continue on to the room on the left side. Inside there's a growth (WAU), and a terminal with some information.
+
+Leave the room using the other doors, and then take a turn to the left, to the right, and yet again to the right - from there go straight ahead to the end of the corridor. Get inside the room, close the doors behind you, turn off the lights and read the note located on the desk, on the left side of the room. It's almost certain that the enemy will enter the room as well, so just wait for it to go away, leave the room and take a turn to the right.
+
+The hatch will take some time before it's opened, and there's a high chance that the enemy will come at you - if that happens, use the corridors to lose the pursuit and then go through the newly opened passageway. Go through the next doors straight ahead, climb up the ladder, go through the corridor and climb the next ladder down.
+
+After getting through a couple of additional doors, you will end up in a large room, connected with several doors. To the right from the entrance you will find the growth(WAU), in case the enemy managed to hurt you. There's a couple of things to examine here. Looking from the entrance, go to the room directly in front (the first door on the left), where a body for a Data Buffer can be found.
+
+Leave the room, take a turn to the left and enter the first doors on the left side. There's a tablet lying on the cupboard on the right side of the room, a corpse for a Data Buffer, and a photograph lying on the bed.
+
+Go to the room with the Dispatch sign above the doors and go to the subsequent room. On the right side there will be a note. Approach the computer, select the "Door Locks" option, and click on the locked rooms to unlock them. One of the rooms will not be unlocked immediately and it will require you to input the password. Get away from the computer, leave the room, and then get back to it. Click on the locked doors again, and the password should appear automatically. Afterwards, a number of additional rooms should be opened, together with the room of "Johan Ross", where a tablet and a note can be found.
+
+Go to the Infirmary, climb up the ladder and go through the door, to get into the last living human being on the planet. Start a conversation, after which you will be given the ARK. When the conversation ends, you will be able to make a choice - you can either let her live in solitude, or disconnect her from the life support systems. In the room there's also a computer, and a photograph hidden below her chair.
+
+Pick up the ARK and jump down, to get to the "lobby". Go to the room called "Dive Room", jump from the next ladder, open the doors and go through the next one. Place the ark on the platform, in the middle of the room and then activate the panel with your Omnitool. The equipment (as always!) will malfunction.
+
+You now have to find and open 3 pipes, which are used to pump water into the room. Two of them can be found to the left of the Omnitool panel, while the last one is located on the other side of the room. When you open all of them, a short cutscene will initiate. When you regain control, go through the open passageway, and then go straight ahead, pushing the junk aside. Some of the obstacles must be passed through by crouching.
+
+When you reach a mound of junk, pull a few of them away to uncover a corpse, on which you can perform a Data Buffer.
+
+When you're done, turn around, and when the monster disappears from the screen, take a turn to the right, into the passage - it's located in the same place as the monster was standing in. Squeeze through the tunnel and continue your journey until you reach the entrance to the Alpha station.
+
+Alpha Station
+Enter the station and then continue straight ahead. Pull up the half-opened doors, climb down the stairs and open the next doors. Go straight ahead all the time, and after opening two additional doors you will end up in a little more open space.
+Take a turn to the left, enter the small corridor, and continue straight ahead. After a short march you will end up in a large room, with the Heart of WAU in the center of it. Put your hand inside it, just like you did dozens of time in the past, and a series of cutscenes will appear.
+
+When you regain control over your character, head towards the doors on the right side - make it quick, as the angered WAU will chase you. Run straight ahead, and when you leave the tunnel take a turn to the right. Continue by following the green lights. After a short while you should reach the doors to the Phi station - to get inside, you must press the little button on the left side. Get inside the floodgate, use the Omnitool, and when the further passage opens enter the station and end this chapter.
+
+Phi Station
+When the hatch opens, go straight ahead, until you reach a new room. Stick the Omnitool into the socked on the left side to restore the power to the station. When the power is back, go to the room with the "Loading Docks" sign above the doors, and climb down the ladder.
+
+When you enter the room, go straight ahead and then take a turn to the left, into a small room - in front of the entrance there's a Battery Pack. Pick it up, turn around, head left and travel by sticking to the left wall, until you reach a room with the growth (WAU), where you can heal if Simon was injured.
+
+To the right of WAU there's a panel - approach it and insert the freshly acquired battery in it. Get into the room, collect the ARK, and then head to the room located to the right of the ladder, by which you've entered this room.
+
+Place the ARK into something that resembles a bullet nest, and then turn around and perform a Data Buffer on the corpse lying on the ground. Get back to the panel with the Battery Pack, pick it up and go back to the ARK - right next to the corpse on which you've performed the Data Buffer there's a control panel, which requires the battery.
+
+Turn around, climb up the stairs and activate the panel to close the ARK chamber. Go back upstairs, pick up the Omnitool and go to the room marked as "Launch Dome", which can be found to the right of the Omnitool socket. Get inside, use the tool to close the hatch behind you and continue on.
+
+Go outside and take a turn to the "first right", after which you have climb up the ramp. Place the Omnitool in the socket and take a seat. You now have to complete the last puzzle in the game - you must transfer the ARK to the launcher. Wait for the system to start and back to work.
+You must maneuver the crane properly. Aim the orange "X" so that it is positioned directly above the bullet containing the ARK - the X will change the color to green. Press the interaction button, and when the crane picks up the ARK transport it back to the launcher, finalizing everything by pressing the interaction button again. The bullet will be loaded into the launcher. Wait until Catherine finishes talking and press the "Launch" button to fire the rocket.
+
+Wait for the ending credits (do not turn off the game!) to end, to see how exactly the ARK looks like. When Simon wakes up, get back from the armchair and leave the cave. Go straight ahead until you reach a terminal with a survey - complete it if you want, and then continue your journey. You should soon reach Catherine, this time in a human form, which will end the game.
+
+
