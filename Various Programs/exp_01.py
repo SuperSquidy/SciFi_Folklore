@@ -16,6 +16,17 @@
 
 
 
+#make a array of sentence with an array of word and in the word have an array of letters
+#then either:
+#Add up the array to use for predictions--con: order wouldn't matter
+#OR
+#use a hash funtion to keep the order of things--con: would get really big really fast--hash is one way
+#OR
+#use ascii ord()--to number, chr()--to letter
+#then use bin to convert to binary, trim off the Ob, then converto to list and append to an array
+
+
+
 import numpy as np
 np.random.seed(0)
 
