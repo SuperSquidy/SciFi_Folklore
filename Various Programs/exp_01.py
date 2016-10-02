@@ -87,8 +87,9 @@ def split_to_words(sent):
 #            print(words)
         n+=1
     return words
-
-def split_to_letters(words):
+    
+#if want to have all letters in same list
+def split_to_lettersA(words):
     letters = []
     n = 0
     for f in words:
@@ -96,7 +97,23 @@ def split_to_letters(words):
         n+=1
     return(letters)
     
-def make_words_binary(word):
+#if want to keep words separated in nested lists    
+def split_to_lettersB(words):
+    letters = []
+    n = 0
+    for f in words:
+        interim_lets = []
+        lets = []
+        interim_lets = words[n]
+        i = 0
+        for l in interim_lets:
+            lets.append(interim_lets[i])
+            i+=1
+        letters.append(lets)
+        n+=1
+    return(letters)
+    
+def make_letters_binary(word):
     binary = []    
     return(binary)
     
@@ -104,5 +121,7 @@ doingThings = split_to_sent(direct)
 print(doingThings)
 doingThings_2 = split_to_words(doingThings)
 print(doingThings_2)
-doingThings3 = split_to_letters(doingThings_2)
-print(doingThings3)
+doingThings3A = split_to_lettersA(doingThings_2)
+print(doingThings3A)
+doingThings3B = split_to_lettersB(doingThings_2)
+print(doingThings3B)
