@@ -76,12 +76,14 @@ def split_to_words(sent):
     words = []
     n = 0
     for f in sent:
-        sent[n].split()
-        print(sent[n])
+        interim_words = []
+        interim_words = sent[n].split()
+#        print(sent[n])
         i = 0
-#        for w in sent[n]:
-#            words.append(sent[n[i]])
-#            i+=1
+        for w in interim_words:
+            words.append(interim_words[i])
+#            print(interim_words[i])
+            i+=1
 #            print(words)
         n+=1
     return words
@@ -102,3 +104,5 @@ doingThings = split_to_sent(direct)
 print(doingThings)
 doingThings_2 = split_to_words(doingThings)
 print(doingThings_2)
+doingThings3 = split_to_letters(doingThings_2)
+print(doingThings3)
