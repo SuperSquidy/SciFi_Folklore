@@ -46,8 +46,6 @@ class Action:
 		self.verbText = v["text"]
 		self.verbTense = v["tense"]
 		
-		
-		
 class Location:		
 	def __init__(self):
 		self.text=""
@@ -59,6 +57,11 @@ class Location:
     
 
 sentence = json.loads(sentenceText1)
+
+
+
+
+
 
 subject = Subject()
 action = Action()
