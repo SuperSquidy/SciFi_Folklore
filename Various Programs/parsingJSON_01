@@ -1,0 +1,28 @@
+import json
+import os
+
+direct = 'Walkthrough_Alchemy'
+
+
+def parse_json(raw):
+    files = []
+    jsons = []
+
+    #actually getting all the files
+    filenames = os.listdir(raw)
+    
+    
+    #opening, reading, and adding the files to 'walkthroughs' the files
+    for f in filenames:
+        json_org = open(os.path.join(raw, f))
+        json_d = json.dumps(json_org)
+        jos = json.load(json_d)
+        n = 0
+===============================================================================
+         for index in text:
+             text[n] = text[n].replace('\n','')
+             n+=1
+         files.append(text)
+         text_org.close
+ 
+===============================================================================
