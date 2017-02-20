@@ -13,7 +13,7 @@
 import json
 import os
 
-direct = 'Walkthrough_Alchemy'
+direct = 'TestJSONs'
 
 
 def parse_json(raw):
