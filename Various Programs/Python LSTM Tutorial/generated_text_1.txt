@@ -1,0 +1,28 @@
+Using TensorFlow backend.
+Total Characters:  147778
+Total Vocab:  46
+Total Patterns:  147678
+Seed:
+" time there were three little sisters,' the dormouse began
+in a great hurry; 'and their names were e "
+lr asa the woids to teet '
+she madt the was oo toine in the wiid an in she was oo the sabdi.
+
+'io tou did tou woine ' said the gateer. 'i wont io ' 
+
+'io tou dod to the toint in a car a dintoune '  aliee the mons toine 
+to the karterf so tete the gad no the whid
+the was toe dare of the
+crurd oo the tail of the tabbit see whin the had no the was oo the tabd
+the had never oeter oo the oasee her haad an the was oo the taid tf the
+sooe, and the jad toie tf the taid tf the tabdi an in sas oo the tabd
+the had no the said to the taid to the taid, and the gad never wete toie
+then the was oo tore fir to the while sar of the was of the tabdit sfe
+tas to tere tith the was oo the taid, and the wait on the tine ti the
+bage  if a lat he d vaen to the thet the was on the sante and the was
+so the tooe. '
+and eere to the thete was toine in a lirtle oort an inr 
+soeee of the sabdi an in was a lettee of the tabdit sere oi the thid
+an  lo woet the was oo the thite tae oo the taide and
+toee
+Done.
