@@ -34,17 +34,17 @@ for l in walkthroughs:
 
 #shuffling the list together
 random.shuffle(allWalkthroughs) 
-print 'Shuffled Walkthroughs'
+print ('Shuffled Walkthroughs')
 
 #writing the file
 already_there = os.listdir(rando)
 #print already_there
 
-newName = raw_input(("Enter the new file name: "))
+newName = input(("Enter the new file name: "))
 
 while newName+'.txt' in already_there:
-    print '****File already exists****'
-    newName = str(raw_input(("Enter a different file name: ")))
+    print ('****File already exists****')
+    newName = str(input(("Enter a different file name: ")))
 
 newWalkthrough = open(os.path.join(rando,newName+'.txt'), 'w')
 s = 0
@@ -52,6 +52,7 @@ for g in allWalkthroughs:
     newWalkthrough.write(allWalkthroughs[s])
     s += 1    
 newWalkthrough.close()
-print 'File Saved.'
+print ('File Saved.')
+
 
 
