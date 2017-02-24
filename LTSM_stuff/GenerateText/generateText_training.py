@@ -7,9 +7,9 @@ from keras.layers import LSTM
 from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 # load ascii text and covert to lowercase
-filename = "wonderland.txt"
+filename = "TrainingBaby_03.txt"
 #we fixed it by having a variable actually read the file
-F = open(filename, encoding="utf8")
+F = open(filename)
 raw_text = F.read()
 print ("I loaded a file!")
 print ("I will try to print out the contents of it!")
