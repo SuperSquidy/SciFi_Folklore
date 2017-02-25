@@ -7,10 +7,19 @@ from keras.layers import Dropout
 from keras.layers import LSTM
 from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
+
+import os
+# loading file from directory
+direct = input('Enter Text Directory: ')
+file = input('Enter Text File: ')+'.txt'
+#the weight files accessed by relative files, named such because there are lots of variable i didnt make
+waits =  input('Enter Weight Directory: ')
+waits_used = input('Enter Weight File to Use: ')
 # load ascii text and covert to lowercase
-filename = "wonderland.txt"
-raw_text = open(filename).read()
-raw_text = raw_text.lower()
+filename = open(os.path.join(direct, file))
+#raw_text = open(filename)
+raw_text = filename.read()
+#raw_text = raw_text_read.lower()
 # create mapping of unique chars to integers, and a reverse mapping
 chars = sorted(list(set(raw_text)))
 char_to_int = dict((c, i) for i, c in enumerate(chars))
@@ -43,7 +52,7 @@ model.add(LSTM(256, input_shape=(X.shape[1], X.shape[2])))
 model.add(Dropout(0.2))
 model.add(Dense(y.shape[1], activation='softmax'))
 # load the network weights
-filename = "weights-improvement-19-1.9435.hdf5"
+filename = open(os.path.join(waits, waits_used))
 model.load_weights(filename)
 model.compile(loss='categorical_crossentropy', optimizer='adam')
 # pick a random seed
