@@ -55,3 +55,4 @@ callbacks_list = [checkpoint]
 
 model.fit(X, y, nb_epoch=20, batch_size=128, callbacks=callbacks_list)
 
+    
