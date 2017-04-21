@@ -1,0 +1,828 @@
+Simians, Cyborgs, and Women 
+
+
+The idea that nature is constructed, not discovered -that truth is made, not found -is the keynote of recent scholarship in the history of science. Tracing the gendered roots of science in culture, Donna Haraway's writings about scientific research on monkeys and apes is arguably the finest scholarship in this tradition. She has carefully studied the publications, the papers, the correspondence, and the history of the expeditions and institu­tions of primate studies, uncovering the historical construction of the pedigrees for existing social relations -the naturalization of race, sex, and class. Throughout this book she is analysing accounts, narratives, and stories of the creation of nature, living organisms, and cyborgs (cybernetic organ­isms: systems which embrace organic and technological components}. She also looks critically at the immune system as an information system, and shows how deeply our cultural assumptions penetrate into allegedly value­neutral medical research. In several of these essays she explores and develops the contested terms of reference of existing feminist scholarship; and by mapping the fate of two potent and ambiguous words -'nature' and 'experience' -she uncovers new visions and provides the possibility of a new politics of hope. 
+Her recent boQk,Primatc Visions, has been called 'outstanding', 'original', 'brilliant', 'important' by leading scholars in the field. Simians, Cyborgs, and Women contains ten essays written between 1978 and 1989. They establish her as one of the most thoughtful and challenging feminist writers today. 
+Donna Haraway is a historian of science and Professor at the History of Consciousness Board, University of California, Santa Cruz. She received her doctorate in biology at Yale and is the author of Crystals, Fabrics, and Fields: Mctapl,ors of Organicism in Twentieth-Century Developmental Biology and Primate Visions: Gender, Race, and Nature in the World of Modern Science. 
+
+Simians, Cyborgs, and Women 
+
+The Reinvention ofNature 
+
+
+DONNA J. HARAWAY 
+
+Routledge / New York 
+
+
+
+
+Contents 
+
+Acknowledgements Introduaion 
+Part One 
+Chapter One 
+Chapter Two 
+Chapter Three 
+Part Two 
+Chapter Four 
+Chapter Five 
+Chapter Six 
+Part Three 
+Chapter Seven 
+Chapter Eight 
+Chapter Nine 
+ix 1  
+Nature as a System ofProduction and Reproduction  
+Animal Sociology and a Natural Economy ofthe Body Politic: A Political Physiology ofDominance The Past Is the Contested Zone: Human Nature and Theories ofProduction and Reproduction in Primate Behaviour Studies  7 21  
+The Biological Enterprise: Sex, Mind, and Profit from Human Engineering to Sociobiology  43  
+Contested Readings: Narrative Natures  
+In the Beginning Was the Word: The Genesis of Biological Theory The Contest for Primate Nature: Daughters of Man-the-Hunter in the Field, 1960-80 Reading Buchi Emecheta: Contests for 'Women's Experience' in Women's Studies  71 8, 109  
+Differential Politics for Inappropriate/d Others  
+'Gender' for a Marxist Dictionary: The Sexual Politics ofa Word A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century Situated Knowledges: The Science Question in Feminism and the Privilege ofPartial Perspective  127 '49 183  
+
+Chapter Ten  The Biopolitics ofPostmodern Bodies: Constitutions of Self in Immune System Discourse  203  
+Notes Bibliography Iudex  23 1 255 277  
+
+
+Acknowledgements 
+
+any people and many publishing practices made this book 
+possible, beginning with the anonymous referee for Sig/ls for 
+my first published essays in feminist theory. This generous 
+and critical person turned out to be Rayna Rapp, who has been a personal, intellectual, and political support and inspiration for me ever since. Catherine Stimpson was the editor for those papers, and her theoretical work and editorial skill have enriched my writing and that of many other contributors to contemporary feminism. Constance Clark and Stephen Cross, then graduate students at Johns Hopkins, will see their pervasive influence. Robert Young's ground-breaking writing and commit­ted comradeship showed me that the history of science could be both political and scholarly without compromise. lowe much to his work and that of many others, especially Karl Figlio, Ludi Jordanova, and Les Levidow, associated with Radical ScienceJournal, Science as Culture, and Free Associa­tion Books. 
+Friendship, ongoing critical conversations, and published and unpub­lished intertextuaIities with Judith Butler, Elizabeth Fee, Sandra Harding, Susan Harding, Nancy Hartsock, Katie King, Diana Long, Aihwa Ong,Joan Scott, Marilyn Strathern, and Adrienne Zihlman everywhere infonn these chapters. I also thank Frigga Haug and Nora Riithzel from the feminist collective ofDas Argument and Elizabeth Weed of differences. Jeffrey Escofier was a persistent gadfly and gentle midwife for the Cyborg Manifesto (Chapter Eight). Scott Gilbert, Michael Hadfield, and G. Evelyn Hutch­inson taught me about embryology, ecology, the immune system and much else in the culture of biology. 
+Extraordinary people whom I first knew through the History of Con­sciousness Board and graduate seminars at the University of California at Santa Cruz contributed explicitly and implicitly to this book. I am especially grateful to Gloria Anzaldua, Bettina Aptheker, Sandra Azeredo, Faith Beckett, Elizabeth Bird, Nonnan O. Brown, Jim Clifford, Mary Crane, Teresa de Lauretis, Paul Edwards, Ron Eglash, Barbara Epstein, Peter Euben, Ramona Fernandez, Ruth Frankenberg, Margo Franz, Thyrza Goodeve, Deborah Gordon, Chris Gray, Val Hartouni, Mary John, Caren Kaplan, Katie King, Hilary Klein, Lisa Lowe, Carole McCann, Lata Mani, Alvina Quintana, Chela Sandoval, Zoe Sofoulis, Noel Sturgeon, Jenny Terry, Sharon Traweek, and Gloria Watkins (bell hooks). 
+x Simians, Cyborgs, and \Vomen 
+Financial support for writing portions of this book was provided by Academic Senate Research Grants of the University of California at Santa Cruz and the Alpha Fund of the Institute for Advanced Study. 
+Others have offered support and inspiration in countless ways over many years. These essays especially show the imprint of living and working with Gail Coleman, Layla Krieger, Richard and Rosemarie Stith, Carolyn Hadfield, Robert Filomeno, Jaye Miller, and Rusten Hogness. Finally, I dedicate this book to my parents, Frank Haraway, a sports reporter who showed me that writing can be simultaneously pleasure and work, and Dorothy Maguire Haraway, who died in 1960 before I could know her as an adult, but who had communicated to me the trouble and strength of belief and commitment. 
+The following chapters have been revised from previously published essays, and are printed here with permission. Chapter One originally appeared under the title 'Animal sociology and a natural economy of the body politic, part I, a political physiology of dominance', in Sig"s 4 (1978): 21-36. Chapter Two, under the title 'Animal sociology and a natural economy ofthe body politic, part II, the past is the contested zone: human nature and theories of production and reproduction in primate behavior studies', in Siglls 4 (1978): 37-60. Chapter Three, 'The biological enterprise: sex, mind, and profit from human engineering to sociobiology', in Radical History Review 20 (1979): 206--37. Chapter Four, 'In the beginning was the word: the genesis of biological theory', in Siglls 6 (1981): 46<)-81. Chapter Five, 'The contest for primate nature: daughters of man the hunter in the field, 1960-80', in Mark Kann, ed. The Future ofAmerica" Democracy: Views from tlte Lift (philadelphia: Temple University Press, 1983, pp. 175-207). 
+Chapter Six, 'Reading Buchi Emecheta: contests for 'women's experience' 
+in women's studies', in /lIScriptions 3/4 (1988): 107-24. Chapter Seven, as 'Geschlecht, Gender, Genre: Sexualpolitik eines Wortes', in KorncHa Hauser, ed. Viele Orte. liberal/? Femi"ismus in Hewegzll/g, Festscltrift for Frigga Haug. (Berlin: Argument-Verlag, 1987, pp. 22-41). Chapter Eight, as 'Manifesto for cyborgs: science, technology, and socialist feminism in the 1980s', Socialist Review 80 (1985): 65-108. Chapter Nine, as 'Situated knowledges: the science question in feminism as a site of discourse on the privilege of partial perspective', in Feminist Studies 14(3) (1988): 575-99. Chapter Ten, as 'The biopolitics of postmodern bodies: detemIinations of self in immune system discourse', in diJfermces: A Joun/al ofFeminist Cultural Studies 1(1) (1989): 3-43· 
+Introduction 
+
+T
+his book should be read as a cautionary tale about the evolution of bodies, politics, and stories. Above all, it is a book about the invention and reinvention of nature -perhaps the most central arena of hope, oppression, and contestation for inhabitants of the planet earth in our times. Once upon a time, in the 1 ~7?S' ~eau~orwas a proper, US socialist-feminist, white, female, honumd bIOlOgIst, who became a historian of science to write about modem Western accounts of monkeys, apes, and women. She belonged to those odd categories, invisible to themselves, which are called 'unmarked' and which are dependent upon unequal power for their maintenance. But by the last essays;she. ~as turned into a multiply marked cyborg feminist, who tried to keep her pohucs, as well as her other critical functions, alive in the unpromising times of the last quarter of the twentieth century. The book examines the breakup ofv~rsions of Euro-American feminist humanism in their devastating assumpuons of master narratives deeply indebted to racism and colonialism. Then, adopting an illegitimate and frightening sign, the book's tale tu~s to the possibili~es of a 'cyborg' feminism that is perhaps more able to remam attuned to speCIfic historical and political positionings and permanent partialities without abandoning the search for potent connections. 
+A cyborg is a hybrid creature, composed of organism and machine. But, cyborgs are compounded of special kinds of machines and special kinds of organisms appropriate to the late twentieth century. Cyborgs are post­Second World War hybrid entities made of, first, ourselves and other 
+organic creatures in our unchosen 'high-technological' guise as information 
+systems, texts, and ergonomically controlled labouring, desiring, and repr~­ducing systems. The second essential ingredient in cyborgs is machines 10 
+their guise, also, as communications systems, texts, and self-acting, ergono­
+mically designed apparatuses. The chapters comprising Part One ofthis book examine feminist struggles over the modes of producing knowledge about, and the meanings of, the behaviour and the social lives of monkeys and apes. Part Two explores contests for the power to determine stories about 'nature' and 'experience' ­two of the most potent and ambiguous words in English. Part Three focuses on cyborg embodiment, the fate of various feminist concepts of gender, reappropriations of metaphors of vision for feminist ethical and epistemol.o­gical purposes, and the immune system as a biopolitical map of the chIef 
+Simians, Cyborgs, and Women 
+systems of 'difference' in a postmodern world. Throughout these diverse contents, this book treats constructions ofnature as a crucial cultural process for people who need and hope to live in a world less riddled by the dominations of race, colonialism, class, gender, and sexuality. 
+Inhabiting these pages are odd boundary creatures -simians, cyborgs, and women -all of which have had a destabilizing place in the great Western evolutionary, technological, and biological narratives. These boundary crea­tures are, literally, monsters, a word that shares more than its root with the word, to demonstrate. Monsters signifY. Simians, Cyborgs, and Women interro­gates the multi-faceted biopolitical, biotechnological, and feminist theoret­ical stories of the situated knowledges by and about these promising and non-inoocent monsters. The power-differentiated and highly contested modes ofbeing of these monsters may be signs of possible worlds -and they are surely signs of worlds for which we are responsible. 
+Simians, Cyborgs, and Women collects essays written from 1978 through 1989, a period ofcomplicated political, cultural, and epistemological foment within the many feminisms which have appeared in the last decades. Focusing on the biopolitical narratives of the sciences of monkeys and apes, the earliest essays were written from within US Eurocentric socialist­feminism. They treat the deep constitution of nature in modern biology as a system of production and reproduction, that is, as a labouring system, with all the ambiguities and dominations inherent in that metaphor. How did 
+nature for a dominant cultural group with immense power to make its stories 
+into reality become a system of work, ruled by the hierarchical division of labour, where the inequities of race, sex, and class could be naturalized in functioning systems of exploitation? What were the consequences for views of the lives of animals and people? 
+The middle set of chapters examines contests for narrative forms and strategies among feminists, as the heteroglossia and power inequities within modern feminism and among contemporary women became inescapable. The section concludes with an examination of ways of reading a modern Nigerian-British author, Buchi Emecheta, as an example of contests among differendy situated African, Afro-American, and Euro-American critics over what will count as women's experience in the pedagogical context of a women's studies classroom. What kind of accountability, coalition, opposi­tion, constituencies, and publishing practices structure particular readings of such an author on such a topic? 
+Part Three, 'Differential Politics for Inappropriate/d Others', contains four essays. The phrase, 'inappropriate/ d others', is borrowed from the Vietnamese film-maker and feminist theorist, Trinh T. Minh-ha. She used the term to suggest the historical positioning of those who refuse to adopt the mask ofeither 'self' or 'other' offered by dominant narratives ofidentity and 
+Introduction 
+politics. Her metaphors suggest a geometry for considering the relations of 
+difference other than hierarchical domination, incorporation of 'parts' into 
+'wholes', or antagonistic opposition. But her metaphors also suggest the hard intellectual, cultural, and political work these new geometries will require, if not from simians, at least from cyborgs and women. 
+The essays show the contradictory matrices of their composition. The examination of the recent history of the term sex/gender, written for a German Marxist dictionary, exemplifies the textual politics embedded in producing standard reference-work accounts of complicated struggles. The Cyborg Manifesto was written to fmd political direction in the 1980s in the face of the hybrids 'we' seemed to have become world-wide. The examina­tion of the debates about 'scientific objectivity' in feminist theory argues for a transformation of the despised metaphors of organic and technological vision in order to foreground specific positioning, multiple mediation, partial perspective, and therefore a possible allegory for feminist scientific and 
+political knowledge. 
+Nature emerges from this exercise as 'coyote'. This potent trickster can 
+show us that historically specific human relations with 'nature' must somehow -linguistically, ethically, scientifically, politically, technologically, and epistemologically -be imagined as genuinely social and actively relational; and yet the partners remain utterly inhomogeneous. 'Our' relations with 'nature' might be imagined as a social engagement with a 
+being who is neither 'it', 'you', 'thou', 'he', 'she" nor 'they' in relation to 'us'. 
+The pronouns embedded in sentences about contestations for what may count as nature are themselves political tools, expressing hopes, fears, and 
+contradictory histories. Grammar is politics by other means. 'What narrative 
+possibilities might lie in monstrous linguistic figures for relations with 
+'nature' for ecofeminist work? Curiously, as for people before us in Western discourses, efforts to come to linguistic terms with the non-representability, 
+historical contingency, artefactuality, and yet spontaneity, necessity, fragility, 
+and stunning profusions of 'nature' can help us refigure the kind of persons 
+we might be. These persons can no longer be, if they ever were, master 
+subjects, nor alienated subjects, but -just possibly -multiply heterogeneous, 
+inhomogeneous, accountable, and connected human agents. But we must 
+never again connect as parts to wholes, as marked beings incorporated into 
+unmarked ones, as unitary and complementary subjects serving the one 
+Subject of monotheism and its secular heresies. We must have agency -or 
+agencies -without defended subjects. 
+Finally, the mapping of the biopolitical body considered from the 
+perspective ofcontemporary immune system discourse probes again for ways 
+to refigure multiplicities outside the geometry of part/whole constraints. 
+How can our 'natural' bodies be reimagined -and relived -in ways that 
+Simians, Cyborgs, and Women 
+transfonn the relations of same and different, self and other, inner and outer, recognition and misrecognition into guiding maps for inappropriate/d others? And inescapably, these refigurings must acknowledge the permanent condition of our fragility, mortality, and finitude. 
+Throughout these essays, I have tried to look again at some feminist discards from the Western deck of cards, to look for the trickster figures that might turn a stacked deck into a potent set of wild cards for refiguring possible worlds. Can cyborgs, or binary oppositions, or technological vision hint at ways that the things many feminists have feared most can and must be refigured and put back to work for life and not death? Located in the belly of the monster, the 'First World' in the 1980s and after, how can we develop reading and writing practices, as well as other kinds of political work, to continue to contest for the material shapes and meanings of nature and experience? How might an appreciation of the constructed, artefactual, historically contingent nature of simians, cyborgs, and women lead from an impossible but all too present reality to a possible but all too absent elsewhere? As monsters, can we demonstrate another order of signification? Cyborgs for earthly survival! 
+
+
+Part One 
+
+of 
+Nature as a System of Production and Reproduction 
+
+Chapter One 
+
+
+Animal Sociology and a Natural Economy of the Body Politic: A Political Physiology of Dominance 
+I want to do something very important. Like fly into the past and make it come out right. 
+Ma,;ge Piercy, Woman on the Edge of Time 
+he concept of the body politic is not new. Elaborate organic 
+T
+images for human society were richly developed by the Greeks. 
+
+They conceived the citizen, the city, and the cosmos to be built 
+according to the same principles. To perceive the body politic as an organism, as fundamentally alive and as part of a large cosmic organism, was central for them (Collingwood, 1945). To see the strucrure of human groups as a mirror of narural forms has remained imaginatively and intellecrually powerful. Throughout the early period of the industrial revolution, a particularly important development of the theory of the body politic linked the narural and political economy on multiple levels. Adam Smith's theory of the market and of the division of labour as keystones of future capitalist economic thought, with Thomas Malthus's supposed law of the relation of population and resources, together symbolize the junction of narural forces and economic progress in the formative years of capitalist industrialism. The permeation of Darwin's evolutionary theory with this form of political economy has been a subject of considerable analysis from the nineteenth cenrury to the present (Young, I 969). Without question, the modem evolutionary concept of a population, as the fundamental narural group, owes much to classical ideas of the body politic, which in rum are inextricably interwoven with the social relationships of production and reproduction. 
+
+The union of the political and physiological is the focus of this chapter. That union has been a major source of ancient and modem justifications of 
+Simians, Cyborgs, and Women 
+domination, especially of domination based on differences seen as natural, 
+given, inescapable, and therefore moral. It has also been transformed by the modern biobehavioural sciences in ways we must understand if we are to work effectively for societies free from domination. The degree to which the principle of domination is deeply embedded in our natural sciences, especially in those disciplines that seek to explain social groups and behaviour, must not be underestimated. In evading the importance of dominance as a part ofthe theory and practice ofcontemporary sciences, we bypass the crucial and difficult examination ofthe conlml as well as the social function of science. We leave this central, legitimating body of skill and knowledge to undermine our efforts, to render them utopian in the worst sense. Nor must we lightly accept the damaging distinction between pure 
+and applied science, between use and abuse of science, and even between 
+nature and culture. All are versions ofthe philosophy ofscience that exploits the rupture between subject and object to justifY the double ideology offirm scientific objectivity and mere personal subjectivity. This anti-liberation core of knowledge and practice in our sciences is an important buttress of social 
+control.' 
+Recognition of that fact has been a major contribution by feminist theorists. Women know very well that knowledge from the natural sciences has been used in the interests ofour domination and not our liberation, birth control propagandists notwithstanding. Moreover, general exclusion from 
+science has only made our exploitation more acute. We have learned that 
+both the exclusion and the exploitation are fruits ofour position in the social division of labour and not of natural incapacities.2 But if we have not often underestimated the principle of domination in the sciences, if we have bee!! less mesmerized than many by the claims to value-free truth by scientists as we most frequently encounter them -in the medical marketplace (Gordon, 1976; Reed, 1978) -we have allowed our distance from science and technology to lead us to misunderstand the status and function of natural knowledge. We have accepted at face value the traditional liberal ideology of social scientists in the twentieth century that maintains a deep and necessary split between nature and culture and between the forms of knowledge relating to these two putatively irreconcilable realms. We have allowed the theory of the body politic to be split in such a way that natural knowledge is reincorporated covertly into techniques of social control instead of being transformed into sciences of liberation. We have challenged our traditional assignment to the status of natural objects by becoming anti-natural in our ideology in a way which leaves the life sciences untouched by feminist needs.' We have granted science the role ofa fetish, an object human beings make only to forget their role in creating it, no longer responsive to the dialectical interplay of human beings with the surrounding world in the 
+A Political Physiology of Dominance 9 
+satisfaction of social and organic needs. We have perversely worshipped science as a reified fetish in two complementary ways: (I) by completely rejecting scientific and technical discipline and developing feminist social theory totally apart from the natural sciences, and (2) by agreeing that 
+lnature' is our enemy and that we must control our 'natural' bodies (by 
+techniques given to us by biomedical science) at all costs to enter the hallowed kingdom of the cultural body politic as defmed by liberal (and radical) theorists of political economy, instead of by ourselves. This cultural body politic was clearly identified by Marx: the marketplace that remakes all things and people into commodities. 
+A concrete example may help explain what I see as our dangerous misunderstanding, an example which takes us back to the point of union of the political and physiological. In Civilizalion a71d lis DiSC01llenIS, Freud (1962) developed a theory of the body politic that based human social development on progressive domination of nature, particularly of human sexual energies. Sex as danger and as nature are central to Freud's system, which repeats rather than initiates the traditional reduction of the body politic to physiological starting points. The body politic is in the first instance seen to be founded on natural individuals whose instincts must be con­quered to make possible the cultural group. Two recent neo-Freudian and neD-Marxist theorists have ironically reworked Freud's position in illuminat­ing ways for the thesis of this essay: one is Norman O. Brown, the other Shulamith Firestone. Freud, Brown, and Firestone are useful tools in a dissection of the theories ofthe political and physiological organs ofthe body politic because they all begin their explanations with sexuality, add a dynamic 
+of cultural repression, and then attempt to liberate again the personal and 
+collective body. 
+Brown (1966), in Luve's Body, developed an elaborate metaphorical play between individual and political bodies to show the extraordinary patriarchal and authoritarian structure ofour conceptions and experiences ofboth. The phallus, the head; the body, the state; the brothers, the rebellious overthrow of kingship only to establish the tyranny of the fraternal liberal market ­these are Brown's themes. If only the father was head, only the brothers could be citizens. The only escape from the domination that Brown explored was through fantasy and ecstasy, leaving the body politic unchallenged in its fundamental male supremacy and in its reduction to the dy­namic of repression of nature. Brown rejected civilization (the body politic) in order to save the body; the solution was necessitated by his root acceptance of Freudian sexual reductionism and the ensuing logic of domination. He turned nature into a fetish worshipped by a total return tD it (polymorphous perversity). He betrayed the socialist possibilities of a dialectical theory of the body politic that neither worships nor rejects 
+
+
+
+
+
+
+
+
+
+
+20 Simians, Cyborgs, and Women 
+make things come out right'; that lIt isn't bad to want to help, to want to work to seize history ... but to want to do it alone is less good. To hand history t~ someone like a cake you baked' (piercy, 1976, pp. 188-g). 
+Chapter Two 
+The Past Is the Contested Zone: Human Nature and Theories of Production and Reproduction in Primate Behaviour Studies 
+P
+eople like to look at animals, even to learn from them about human beings and human society. People in the twentieth century have been no exception. We fmd the themes of modem America reflected in detail in the bodies and lives of animals. We polish an animal mirror to look for ourselves. The biological sciences' focus on mookeys and apes has sought to make visible both the form and the history of our personal and social bodies. Biology has been pre-eminendy a science of visible form, the dissection of visible shape, and the acceptance and construction ofvisible order. The science of non-human primates, primato­logy, may be a source ofinsight or a source ofillusion. The issue rests on our skill in the construction of mirrors. 
+Primatology has focused on two major themes in interpreting the 
+significance of animals for understanding human life -sex and economics, 
+reproduction and production. The crucial transitions from a natural to a political economy and from biological social groups to the order of human kinship categories and systems ofexchange have been basic concerns. These are old questions with complex relations to technical and ideological dimensions of biosocial science. Our understandings of both reproduction and production have double-edged possibilities. On the one hand, we may reinforce our vision of the natural and cultural necessity of domination; on the other, we may learn to practise our sciences so as to show more clearly the now fragmentary possibilities of producing and reproducing our lives without overwhelming reliance on the theoretical categories and concrete practices of control and enmity. 
+Theories of animal and human society based on sex and reproduction have been powerful in legitimating beliefs in the natural necessity of aggression, competition, and hierarchy. In the 192os, primate studies began to claim that all primates differ from other mammals in the nature of their reproductive physiology: primates possess the menstrual cycle. That physiol­
+22 Simians, Cyborgs, and Women 
+ogy was asserted to be fraught with consequences, often expressed in the 
+fantasy-inspiring 'fact' of constant female 'receptivity'. Perhaps, many have thought and some have hoped, the key to the extraordinary sociability of the primate order rests on a sexual foundation of society, in a family rooted in the glands and the genes. Natural kinship was then seen to be transformed by the specifically human, language-mediated categories that gave rational order to nature in the birth of culture. Through classi1jing by naming, by creating kinds, culture would then be the logical domination of a necessary but dangerous instinctual nature. Perhaps human beings found the key to control of sex, the source of and threat to all other kinds of order, in the categories of kinship. We learned that in naming our kind, we could control our kin. Only recently and tentatively have primatologists seriously chal­lenged the indispensability of these sorts of explanations of nature and culture. 
+Biosocial theories focusing on production rest on a fundamental premise: humanltind is self-made in the most literal sense. Our bodies are the product of the tool-using adaptation which predates the genus Homo. We actively determined our design through tools that mediate the human exchange with nature. This condition of our existence may be visualized in two contradic­tory ways. Gazing at the tools themselves, we may choose to forget that they only mediate our labour. From that perspective, we see our brains and our other products impelling us on a historical course of escalating technological 
+domination; that is, we build an alienated relation to nature. We see our 
+specific historical edifice as both inevitable human nature and technical necessity. This logic leads to the superiority of the machine and its products and ensures the obsolescence of the body and the legitimacy of human engineering. Or, we may focus on the labour process itself and reconstruct 
+our sense of nature, origins, and the past so that the human future is in our 
+hands. We may return from the tool to the body, in its personal and social forms. This chapter is about efforts to know the body in the biosocial conditions of production and reproduction. Our bodies, ourselves. 
+More particularly, this chapter is about the debate since approximately '930 in primate studies and physical anthropology about human nature -in male bodies and female ones. The debate has been bounded by the rules of ordinary scientific discourse. This highly regulated space makes room for technical papers; grant applications; informal networks ofstudents, teachers, and laboratories; official symposia to promote methods and interpretations; and finally, textbooks to socialize new scientists. The space considered in this chapter does not provide room for outsiders and amateurs. One of the peculiar characteristics of science is thought to be that by knowing past regularities and processes we can predict events and thereby control them. That is, with our sciences -historical, disciplined forms of theorizing about 
+Theories of Production and Reproduction 23 
+our experience -we both understand and construct our place in the world and develop strategies for shaping the future. 
+How can feminism, a political position about love and power, have anything to do with science as I have described it? Feminism, I suggest, can draw from a basic insight of critical theory. The starting point of critical theory -as we have learned it from Marx, the Frankfurt school, and others­is that the social and economic means of human liberation are within our grasp. Nevertheless, we continue to live out relations of domination and scarcity. There is the possibility of overturning that order of things. The study of this contradiction may be applied to all our knowledge, including natural science. The critical tradition insists that we analyse relations of 
+dominance in consciousness as well as material interests, that we see 
+domination as a derivative of theory, not of nature. A feminist history of science, which must be a collective achievement, could exantine that part of biosocial science in which our alleged evolutionary biology is traced and supposedly inevitable patterns oforder based on domination are legitimated. The examination should play seriously with the rich ambiguity and metaphorical possibilities of both technical and ordinary words. Feminists reappropriate science in order to discover and to define what is 'natural' for ourselves.' A human past and future would be placed in our hands. This avowedly interested approach to science promises to take seriously the rules of scientific discourse without worshipping the fetish of scientific objectivity. 
+My focus will be four sets of theories that emphasize the categories of reproduction and production in the tangled web of the reconstruction of human nature and evolution. The first, centring on reproduction, was the work of Sir Solly Zuckerman. Born in '904 in South Africa, he studied anatomy at the University of Cape Town, then earned his MD and BS at University College Hospital, London. He combined in complex and iIlumi­nating ways research interests in human palaeontology and physical anthro­pology, reproductive physiology and the primate menstrual cycle, and broad zoological and taxonomic questions focused on primates. His social base included zoological gardens and research laboratories in British universities and medical schools; his training and career reflect intersections of the perspectives of anatomist, biochemist, anthropologist, clinician, administra­tor, and government science adviser? He has been the architect of an extremely influential theory that sexual physiology is the foundation of primate social order. He also offered a variation of the theory of the origin of human culture in the hunting adaption, which delineated crucial conse·· quences for the division oflabour by sex and the universal institution of the human family. In focusing on the sexual biology of monkeys, Zuckerman constructed a logic for setting the boundaries of human nature. In effect, Zuckerman claimed, the only universal.for all the primates is the menstrual 
+
+
+26 Simians, Cyborgs, and Women 
+FIGURE I: RELATIONS OF MAJOR FIGURES 
+focus on Reproduction iocus on Production Zuckerman ---> Rowell Washburn -----. Tanner and Zihlman 1 physiological 1 social 1 hunting 1 gathering functionalism functionalism adaptation adaptation 2 analysis of 2 analysis of 2 neo­2 sociobiological individual group Darwinian genetic tools synthesis genetic tools 
+common themes common themes 
+1 restrict analysis to animals 1 basic interest in hominid line 2 global expalantory concept 2 evolutionary functionalism Z -dominance + R -stress social functionalism 3 primary identification as 3 primary identification as biologists, primatologists anthropologists 4 study of menstrual cycle 4 study of fossil structures as clue to social behaviour (function) 
+The categories in this figure do not indicate rigid separations, but emphases found in the 
+writings ofeach worker. 
+-to= some direct debt. 
+
+imposition of male order through the consequences of reproductive physi­ology. The human innovation was the practice of control of the natural physiological economy. In brief, domination changed levels with culture. 
+Zuckerman's starting point for considering the causes of primate sociabil­ity was twofold: (I) debate in the anthropological community -represented by Malinowski's Sex and Repression ill Savage Society and Freud's Totem and Taboo and Civilization and Its Discontents -on the cultural domination of instinct in the formation of the human level of organization; and (2) a new biological discipline, relating hormones and behaviour, rooted in neural and reproductive physiology and comparative and behaviourist psychology. Zuckerman adopted a firm physiological and medical orientation in both areas. He criticized all existing theories of animal organi2ation for their anthropomorphic and teleological overtones. For the older evolutionary meaning of functional adaptation, Zuckerman substituted a physiological approach, which rested on studies of particular mechanisms in anatomical and biochemical terms. Function meant mechanism. Behaviour and society were to be related to mechanistic physiology, and taxonomy was to be 
+Theories of Production and Reproduction 27 
+reformed on that basis as well. The taxonomic project was undertaken in the book, Fzmaional Affinities of Mall, Monk<rys, and Apes (1933). Here, Zucker­man constructed his 'hunting hypothesis' to account for the transition from nature to culture. 
+But first we must look at his general theory of non-human primate society, found in The Social Life ofMonk<rys and Apes (1932). Zuckerman imposed an important limit on primatology. He did not recognize a ladder of perfection of living primates representing stages of mental function and corresponding degrees of social co-operation (which always meant hierarchical organiza­tion) through which human beings must have passed. Thus, 'Only the behavior common to all apes and monkeys can be regarded as representing a social level through which man once passed in the prehuman stages of his development' (1932, p. 26). Only one thing met this requirement: 'When all questions of its applications to human behavior are laid aside, and when teleological speculation is disregarded, the chief subject matter ofa scientific mammalian sociology is seen to be ecology, reproductive physiology, and those influences which can be classed together as due to the variations of the individual' (1932, p. 28). That nod to ecology is the last we hear of it until a precipitating cause was later required to fire the cultural answer (hunting) to primate sexuality. Individual variation explained details, 'But social behavior -the interrelation of individuals within a group -is determined primarily by the mechanisms of reproductive physiology' (p. 29). 
+Zuckerman had already told the reader that his excursion into mammalian sociology had begun in response to the urgings of anthropologists; he aimed to replace anecdotal accounts of animal societies with hard physiology. He simply assumed that the important bone of contention was the nature and origin of the human family, itself the origin of society. At this point, Zuckerman turned to the writings of the American mammologist, G. S. Miller, who had criticized Malinowski's contention that the human family was unique, that kinship represented the crucial human-animal break. Malinowski regarded the human physiology on which the institution of kinship (i.e., fatherhood) was imposed as unique. In contrast, Miller and Zuckerman agreed that one found all the biological essentials of the human family (namely, constant female receptivity) in mammalian reproductive association. Zuckerman simply developed that viewpoint into an analysis of consequent social forms among primates. Freud's story of the origin of civilization in repression was prefigured on the prehuman level. Zucker­man's ·story was based on the comparative physiological anatomy of the different primate groups informed by his recent discovery of the baboon menstrual cycle and on the behaviour of a colony of Hamadryas baboons on Moakey Hill in the London Zoo since 1925. The zoo behavioural observa­tions were supplemented by nine days of field study of a different species 
+
+
+
+
+
+
+34 Simians, Cyborgs, and Women 
+member-role actors. In general, animals have to like to do what they must do to survive in their evolutionary history. Evolutionary theory here joins a sociology ofsystems and a psychology of personality and emotion in modern versions ofa pleasure calculus connected to the organic, motivational base of learning theory. Rowell summarizes: 
+A zoologist, however, must always return to the question of selective advantages ... It is so very obvious that monkeys enjoy being together that we take it for granted. But pleasure like every other phenomenon of life is subject to, and the result of, evolutionary pressure -we enjoy a thing because our ancestors survived better and left more viable offspring than their relations who did not enjoy (and so seek) comparable stimuli ... This is speculation; but it is by research which examines the function of social systems of monkeys and other animals that we shall be able to understand fully their mechanisms. (1972, pp. 174, 180) 
+Washburn and Hamburg have shared the same analysis, but have applied it to another concept, again often perceived as a thing, in the vocabulary of meaning-laden scientific words: aggression, especially male aggression. Through this concept we must make a transition from explanations based on theories of reproduction to those based on production in human evolution and primate behaviour studies. Clearly, reproduction and production are complements, not opposites. But we must see how Washburn reached a 
+'man-the-hunter' theory from consideration of the economic functions of 
+the species, while Zuckerman traced primate order through reproductive physiology, and Rowell led us to understand the junction of sociological and 
+evolutionary notions of reproducing systems. 
+Washburn and Hamburg (1968) developed themes initiated in their collaboration in 1957, when Washburn spent a year as a fellow at the Stanford Center for Advanced Study in the Behavioral Sciences, and furthered in 1962-63 when Washburn and Hamburg organized at the centre a full year of conferences and collaboration among the new, exciting, world-wide community of primatologists. In 'Aggressive behavior in Old World monkeys and apes" the two collaborators introduced their work as part ofthe study ofthe forces that produced humankind. They wished to pay attention to unique human biology and unique conditions of human evolution. They saw aggression as a fundamental adaptation or functional 
+complex common to the entire primate order, including human beings. 
+'Order within most primate groups is maintained by a hierarchy, which depends ultimately primarily on the power of males ... Aggressive indi­viduals are essential actors in the social system and competition between groups is necessary for species dispersal and control of local populations' (1968, p. 282). The biology of aggression has been extensively studied and 
+Theories of Production and Reproduction 35 
+seems, they argue, to rest on similar hormonal and neural mechanisms, 
+modified in primates, and especially in humans, by new brain complexes and 
+extensive learning. In non-human primates, aggression is constantly re­
+warded, and, the authors maintain, aggressive individuals (males) leave more offspring. So they argue for selection of a system of co-adapted genes involving complex feedback among motor anatomy, gestural anatomy, hormones, brain elements, and behaviour. Presumably, all parts of the aggressive complex evolve. The functions requiring aggression did not abate for humankind, Hamburg and Washburn believe. Protection, policing, and finally hunting all required a continued selection for male organisms who easily learned and enjoyed regulated fighting, torturing, and killing: 
+Throughout most of human history societies have depended on young adult males to hunt, to fight, and to maintain the social order with violence. Even when the individual was cooperating, his social role could be executed only by extremely aggressive action that was learned in play, was socially approved, and was presumably gratifYing. (1968, p. 291) 
+But with the advance of civilization, this biology has become a problem. It is now often maladaptive because of our accelerating technological progress. Our bodies, with the old genetic transmission, have not kept pace with the new language-produced cultural transmission of technology. So now, when social control breaks down, we must expect to see pathological destruction. Hamburg and Washburn's examples here are Nazi Germany, the Congo, Algeria, and Vietnam! The lesson is that we must face our nature in order to control it. 'There is a fundamental difficulty in the fact that contemporary 
+human groups are led by primates whose evolutionary history dictates, 
+through both biological and social transmission, a strong dominance orienta­tion' (1968, p. 295). This logic has been developed to posit a need for scientifically informed, rational controls to replace pre-scientific customs: 'But an aggressive species living by prescientific customs in a scientifically advanced world will pay a tremendous price in interindividual conflict and international war' (p. 296). The lesson here, the liberal scientist argues, is not to favour a particular social order -those are political and value questions -but to establish the preconditions for all advanced society, namely, scientific management of now inefficient, maladaptive, obsolescent biology. We are only one product, and one subject to considerable break­down. On the personal level, psychiatric therapy is a species of repair work; on the social level, scientific policy dictates we use our skill to update our biology through social control. Our system of production has transcended us; we need quality control. 
+But before despairing that society is doomed to hierarchies and domin­ance relations regulated by scientific management, let us ask more closely 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+192 Simians, Cyborgs, and Women 
+knowledge and ways ofseeing. But not just any partial perspective will do; we must be hostile to easy relativisms and holisms built Out of summing and subsuming parts. 'Passionate detachment' (Kuhn, 1982) requires more than acknowledged and self-critical partiality. We are also bound to seek perspective from those points ofview, which can never be known in advance which promise something quite extraordinary, that is, knowledge potent fo; constructing worlds less organized by axes of domination. In such a viewpoint, the unmarked category would really disappear _ quite a difference from simply repeating a disappearing act. The imaginary and the rational­the visionary and objective vision -hover close together. I think Harding's plea for a succeSSor science and for postmodern sensibilities must be read to 
+argue that this close touch of the fantastic element ofhope for transfonnative kno~l:dge and the severe check and stimulus of sustained critical enquiry are Jomtly the ground of any believable claim to objectivity or rationality not riddled with breath-taking denials and repressions. It is even possible to read the record of scientific revolutions in terms of this feminist doctrine of rationality and objectivity. Science has been utopian and visionary from the 
+start; that is one reason 'we' need it. 
+A commitment to mobile positioning and to passionate detachment is dependent on the impossibility ofinnocent 'identity' politics and epistemolo­gies as strategies for seeing from the standpoints of the subjugated in order to see well. One cannot 'be' either a cell or molecule _ or a woman 
+colonized person, labourer, and so on -if one intends to see and see fro~ 
+these positions critically. 'Being' is much more problematic and contingent. 
+Also, one cannot relocate in any possible vantage point without being accountable for that movement. Vision is always a question of the power to 
+see -and perhaps of the violence implicit in our visualizing practices. With whose blood were my eyes crafted? These points also apply to testimony from the position of 'oneself'. We are not immediately present to ourselves. Self-knowledge requires a semiotic-material technology linking meanings and bodies. Self-identity is a bad visual system. Fusion is a bad strategy of positioning. The boys in the human sciences have called this doubt about self-presence the 'death of the subject', that single ordering point ofwill and consciousness. That judgement seems bizarre to me. I prefer to call this generative doubt the opening of non-isomorphic subjects, agents, and territories of stories unimaginable from the vantage point of the cyclopian, self-satiated eye of the master subject. The Western eye has fundamentally been a wandering eye, a travelling lens. These peregrinations have often 
+been violent and insistent on mirrors for a conquering self -but not always. 
+Western feminists also inherit some skill in learning to participate in revisualizing worlds turned upside down in earth-transforming challenges to the views of the masters. All is not to be done from scratch. 
+Situated Knowledges 193 
+The split and contradictory self is the one who can interrogate position­ings and be accountable, the one who can construct and join rational conversations and fantastic imaginings that change history.9 Splitting, not being, is the privileged image for feminist epistemolOgies of scientific knowledge. 'Splitting' in this context should be about heterogeneous multiplicities that are simultaneously necessary and incapable of being squashed into isomorphic slots or cumulative lists. This geometry pertains within and among subjects. The topography of subjectivity is multi­dimensional; so, therefore, is vision. The knowing self is partial in all its guises, never fmished, whole, simply there and original; it is always constructed and stitched together imperfectly, and tlzerefore able to join with another, to see together without claiming to be another. Here is the promise of objectivity: a scientific knower seeks the subject position not of identity, but of objectivity; that is, partial connection. There is no way to 'be' simultaneously in all, or wholly in any, of the privileged (subjugated) positions structured by gender, race, nation, and class. And that is a short list of critical positions. The search for such a 'full' and total position is the search for the fetishized perfect subject of oppositional history, sometimes appearing in feminist theory as the essentialized Third World Woman (Mohanty, 1984). Subjugation is not grounds for an ontology; it might be a visual clue. Vision requires instruments of vision; an optics is a politics of positioning. Instruments of vision mediate standpoints; there is no immedi­ate vision from the standpoints of the subjugated. Identity, including self-identity, does not produce science; critical positioning does, that is, objectivity. Only those occupying the positions of the dominators are 
+self-identical, unmarked, disembodied, unmediated, transcendent, born 
+again. It is unfortunately possible for the subjugated to lust for and even scramble into that subject position -and then disappear from view. Knowledge from the point of view of the unmarked is truly fantastic, distorted, and so irrational. The only position from which objectivity could not possibly be practised and honoured is the standpoint of the master, the Man, the One God, whose Eye produces, appropriates, and orders all difference. No one ever accused the God of monotheism of objectivity, only of indifference. The god-trick is self-identical, and we have mistaken that for creativity and knowledge, omniscience even. 
+Positioning is,therefore the key practice grounding knowledge organized 
+, , 
+around the imagery ofvision, as so much Western scientific and philosophic discourse is organized. Positioning implies responsibility for our enabling practices. It follows that politics and ethics ground struggles for the contests over what may count as rational knowledge. That is, admitted or not, politics and ethics ground struggles over knowledge projects in the exact, natural, social, and human sciences. Otherwise, rationality is simply impossible, an 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+250 Simians, Cyborgs, and Women 
+relations among the dimensions. The mediations might move through quite different 
+social axes oforganization ofboth symbols, practice, and identity, such as race. And vice 
+versa. I would suggest also that science, as well as gender or race, might usefully be 
+broken up into such a multi-pan scheme of symbolism, social practice, and subject 
+position. More than three dimensions suggest themselves when the parallels are drawn. 
+The different dimensions of, for example, gender, race, and science might mediate 
+relations among dimensions on a parallel chart. That is, racial divisions of labour might 
+mediate the patterns of connection between symbolic connections and fonnation of 
+individual subject positions on the science or gender chart. Or fonnations of gendered 
+or racial subjectivity might mediate the relations between scientific social division of 
+labour and scientific symbolic pattems. 
+The chart below begins an analysis by parallel dissections. In the chart (and in reality?), both gender and science are analytically asymmetrical; i.e., each tenn contains and obscures a structuring hierarchicalized binarism, sex/gender and nature/science. Each binarism orders the silent tenn by a logic ofappropriation, as resource to product, nature to culture, potential to actual. Both poles of the binarism are constructed and structure each other dialectically. Within each voiced or explicit tenn, further asymmet­rical splittings can be excavated, as from gender, masculine to feminine, and from science, hard sciences to soft sciences. This is a point about remembering how a particular analytical tool works, willy nilly, intended or not The chart reflects common ideological aspects ofdiscourse on science and gender and may help as an analytical tool to crack open mystified units like Science or Woman. 
+Gender Science 
+symbolic system symbolic system 
+social division oflabour social division oflabour (by sex, by race, etc.) (by craft, industrial, or post-industrial logics) 
+individual identity/subject position individual identity/SUbject position 
+(desiring/desired; (knowerlknoWD; 
+autonomous/relational) scientist/other) 
+
+material culture material culture 
+(gender paraphemalia and daily gender (laboratories: the narrow tracks on 
+technologies: the narrow tracks on which facts run) 
+which sexual difference runs) 
+
+dialectic ofconstruction and discovery dialectic ofconstruction and discovery 
+
+Evelyn Keller (1987) insists on the important possibilities opened up by the construction of the intersection of the distinction between sex and gender, on the one hand, and nature and science, on the other. She also insists on the need to hold to some non-discursive grounding in 'sex' and 'nature', perhaps what I am calling the 'body' and 
+'world'. 
+Notes 251 
+10 The Biopolitics ofPostmodem Bodies: Constitutions of Selfin Immune System Discourse Special thanks to Scott Gilbert, Rusten Hogness, Jaye Miller, Rayna Rapp, and Joan Scott. Research and writing for this project were supported by the Alpha Fund and the Institute for Advanced Study, Princeton, NJ; Academic Senate Faculty Research Grants of the University of California Santa Cruz; and the Silicon Valley Research Project, UCSC. Crystal Gray was an excellent research assistant. Benefiting from many people's comments, this paper was first presented at the Wenner Gren Foundation's Conference on Medical Anthropology, Lisbon, Portugal, 5-13 March 1988. :z Even without taking much account of questions of consciousness and culture, the extensive importance of immunological discourse and artefacts has many diagnostic signs: (I) The first Nobel Prize in medicine in 1901 was given for an originary development, namely, the use of diphtheria anti-toxin. With many intervening awards, the pace of Nobel awards in immunology since 1970 is stunning, covering work on the generation of antibody diversity, the histocompatibility system, monoclonal antibodies and hybridomas, the network hypothesis of immune regulation, and development ofthe radioimmunoassay system. (2) The products and processes of immunology enter into present and projected medical, pharmaceutical, and other industrial practices. This situation is exemplified by monoclonal antibodies, which can be used as extremely specific tools to identify, isolate, and manipulate components of production at a molecular scale and then gear up to an industrial scale with unheard-of specificity and purity, for a wide array of enterprises -from food flavouring technology, to design and manufacture of industrial chemicals, to delivery systems in chemotherapy {see figure on 'Applications of monoclonal antibodies in immunology and related disciplines', Nicho­las, 1985, p. 12}. The Rt:u(Jrch Briq,ngs for 1983 for the federal Office of Science and Technology Policy and various other federal departtnents and agencies identified immunology, along with artificial intelligence and cognitive science, solid earth sciences, computer design and manufacture, and regions of chemistry, as research areas 'that were likely to return the highest scientific dividends as a result of incremental federal invesnnent' (Committee on Science, Engineering, and Public Policy, 1983). The divi­dends in such fields are hardly expected to be simply 'scientific'. 'In these tenns the major money spinner undoubtedly is hybridoma technology, and its chief product the mono­clonal antibody' (Nicholas, 1985, Preface). {J} The field ofimmunology is itself an inter­ational growth industry. The First International Congress of Immunology was held in 1971 in Washington, DC, attended by most of the world's leading researchers in the field, abom 3500 people from 45 countries. Over 8000 people attended the Fourth Interational Congress in 1980 (Klein, 1982, p. 623). The number ofjoumals in the field has been expanding since 1970 from around twelve to over eighty by 1984. The total of books and monographs on the subject reached well over 1000 by 1980. The industrial-university collaborations characteristic of the new biotechnology pervade research arrangements in immunology, as in molecular biology, with which it cross­reacts extenSively, for example, the Basel Institute for Immunology, entirely financed by Hoffman-La Roche but featuring all the benefits of academic practice, including publishing freedoms. The International Union of Immunological Societies began in 1969 with ten national societies, increased to thirty~three by 1984 (Nicholas, 1985). Immunology will be at the heart of global biotechnological inequality and 'technology transfer' struggles. Its importance approaches that ofinformation teChnologies in global science politics. (4) Ways of writing about the immune system are also ways of detennining which diseases -and which interpretations of them -win prevail in courts, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+266 Simians, Cyborgs, and Women 
+Kummer, Hans (1968) Social Organi=tJlion of Homadryas Baboons. Chicago: University of Chicago Press. 
+L 
+Labica, Georges and Benussen, Gerard, eds (198S) Didionnaire Critique du Mor.rirm, 8 vols. Paris: Presses Universitaires de France. Lancaster, Jane (1967) 'Primate communication systems and the emergence of human 
+language', University of California at Berkeley, PhD thesis. 
+--(1968) 'On the evolution of tool using behavior', American Anthropologist 70: 56-66. 
+--(1971) 'Play mothering: the relations between juveniles and young infants among free-ranging vervet monkeys (Cercopithecus aethiops)', Folia PrimatoligiaJ IS: 161-82. 
+--(1973) 'In praise ofthe achieving female monkey', Psychology Today, September, pp. 30-6, 90 • 
+--(1975) Primate Behavior and Ihe Emergence o/Human Cultur~. New York: Holt, Rinehart & Winston. 
+--(1978) 'Carrying and sharing in human evolution', Human Nature, February, pp. 82-9. 
+--(1979) 'Sex and gender in evolutionary perspective', in H.A. Katchadourian, ed. Human 
+SexmJlity: A Comparative and Developmental Perspedive. Los Angeles: University ofCalifornia Press, pp. SI-80. --and Lee, Richard (196S) 'The annual reproductive cycle in monkeys and apes" in DeVore (1965), pp. 486-5'3. Lange, Bernd-Peter and Stuby, Anna Marie, eds (1984) 19&1. Berlin: Argument Sonderband lOS· Lasswell, H.D. and Kaplan, Abraham (1950) Power and Society. New Haven: Yale University Press. 
+Latour, Bruno (1984) Les microbes, gum"~ et pair, suivi des irreductions. Paris: Metailie. 
+--(1988) The Pasteurization 0/ France, /ollowed by ItTedudions: A Politjro-Scientific Essay. Cambridge, MA: Harvard University Press. --and Woolgar, Steve (1979) Lahoratory Lifo: The Social Conslrudion 0/ Scimtific Facts. Beverly Hills: Sage. Leacock, Eleanor (1972) 'Introduction', in Frederick Engels, Origin 0/ th~ Family, Private Property, and the State. New York: International. 
+Lem, Stanislav (1964) Summa technologiae. Cracow: Wydawnictwo Literackie. 
+Lerner, Gerda, ed. (1973) Black Women in White AmeriaJ: A Documentary History. New York: Vintage. Lettvin,J.Y., Maturana, H.R., McCulloch, W.S., and Pitts, W.H. (1959) 'What the frog's eye tells the frog's brain', Proceedings 0/the Institute ofRadio Enginem 47: 1940-5 I. 
+Levi-Strauss, Claude (1971) Tristes Tropique5, John Russell, trans. New York: Atheneum. 
+Lewontin, R.C, Rose, Steven, and Kamin, Leon J. (1984) Not in Our Genes: Biology,"ldaJlogy, and Human Nature. New York: Pantheon. Lilienfeld, Robert (1978) The Rue o/Systems Theory. New York: Wiley. Lindberg, Donald (1967) 'A field study of the reproductive behavior of the rhesus monkey', 
+University of California at Berkeley, PhD thesis. 
+Linden, Robin Ruth (1981) 'The social construction of gender: a methodological analysis ofthe gender identity paradigm', University of California at Santa Cruz, Sociology Board, Bachelor of Arts senior essay. 
+Linnaeus, Carl (1758) Systema naturae per regna In·a naturtu, secundum classes, ordines, genera, species, alm characteribus, differentiis, synorrymis, lllcis, lOth edn. Holmiae: Laurentii Salvi. 
+Bibliography 267 
+(1972) L 'iquilihre de la nature, Bernard Jasmin, trans., Camille Limoges, intro. and notes. Paris: Librairie Philosophique J. Urin. Lloyd, G.E.R. (lg68) Aristolle: The Growtlt ofHu Thought. Cambridge: Cambridge University Press. Locke, Steven E. and Hornig-Rohan, Mady (1983) Mind and Immunity: Be/tlIDjoraIImmunology, 
+An Annotated Bihliography, 1976-82. New York: Institute for the Advancement of Health. Lorde, Audre (1982) Zomi, a New Spelling o/My Name. Trumansberg, NY: Crossing, 1983. --(198.4) Suter Outsider. Trumansberg, NY: Crossing. Lovejoy, Owen (1981) 'The origin of man', Science 21I: 341-50. Lowe, Lisa (1986) 'French literary Orientalism: The representation of "others" in the texts of 
+Montesquieu, Flaubert, and Kristeva', University of California at Santa Cruz, PhD thesis. Lowe, Marian and Hubbard, Ruth, eds (1983) Woman sNature: Rationalizations 0/Inequality. New York: Pergamon. 
+M 
+MacAnhur, R.H. and Wilson, E.O. (1967) The Theory 0/ Island Biogeography. Princeton: Princeton University Press. McCaffrey, Anne (1969) The Ship Who Sang. New York: Ballantine. MacCormack, Carol (1977) 'Biological events and cultural control', Signs 3: 93-100. --and Strathern, Marilyn, eds (1980) Nature, Culture, Gender. Cambridge; Cambridge University Press. Mackey, Nathaniel (1984) 'Review', Sulfur 2: 200-S. MacKinnon, Catherine (1982) 'Feminism, marxism, method, and the state: an agenda for !heOl)", Signs 7{J): 5'5-44. --(1987) Feminism Unmodified: Discourses on Lifo and Law. Cambridge, MA: Harvard 
+University Press. McLellan, Vin (1988) 'Computer systems under siege', New York Times 3 I January, Sec. 3: 1,8. Malamud, Bernard (1982) Gods Groce. New York: Farrar Straus Giroux. 
+Malthus, Thomas Robert (1798) All Esst{}' on the Principle ofPopulation. New York: Norton, 1976. Mani, Lata (I987) 'The construction ofwomen as tradition in early nineteenth-century Bengal', 
+Cultural Critique 7: 119-56. Marry Voices, One Chant: Black Feminut Pmpedives (1984) Feminut Review 17, special issue. Marcuse, Herbert (1964) One-Dimensional Man: Studies in Ihe Ideology 0/Advanced Industrial 
+Society. Boston: Beacon. Markoff, John and Siegel, Lenny (1983) 'Military micros', paper presented at Silicon Valley Research Project conference, University of California at Santa Cruz. Marks, Elaine and de Courtivron, Isabelle, eds (1980) New French Feminisms. Amherst: 
+University of Massachusetts Press. Marrack, Philippa and Kappler, John (1987) 'The T cell receptor', Science 238: 1073-9. Marshall, Eliot (1986) 'Immune system theories on trial', Science 234: 1490-2. Marx, Eleanor and Aveling, E. (188S-6) nu Woman Question. London: Swann & Sonnen­
+schein. Marx, Karl (1964a) Capilal vol. I. New York: International. --(I964b) The Economic and Philosophic Manuscn'pls 0/18+1. New York: International. --(1972) The Ethnological Notehooks 0/Karl Man', Laurence Krader, trans. and ed. Assen: 
+Van Gorcum. 
+268 Simians, Cyborgs, and Women 
+--and Engels, Frederick (1970) The Germatt Ideology. London: Lawrence & Wishart. Marxist-Feminist Literature Collective (1978) 'Women's writing', Ideology and Consciousness 1 (J): 17-48. May, Mark A. and Doab, Leonard W. (1937) Competition and Cooperation. New York: Social 
+Science Research Council. Mayo, Elton (1933) The Human Problems 0/Industrial Civilization. New York: Macmillan. Mead, Margaret (1935) Sex and Temperammt in Thru Pn'mitive Societies. New York: Morrow. --(1937) Cooperation and Competition among Primitive Peoples. New York: McGraw-Hill. Merchant, Carolyn (1980) The Dellth 0/ Nature: Women, Ecology, and the Scientific RaJolulion. 
+New York: Harper & Row. Mesarovic, M.D., ed. (1968) Systems Theory and Biology. New York: Springer-Verlag. Microelectronics Group (1980) Microeledronics: Capitalut Technology and the Working Class. 
+London: CSE. Miles, C.c. and Terman, Lewis (1929) 'Sex difference in association ofideas',AmmCllnJoumal 
+o/Psychology .41: 165-206. Mitchell, Juliet (1966) 'Women: the longest revolution', New Left Rroiew 40: 11-37. --(1971) Women's Estate. New York: Pantheon. --and Oakley, Ann, eds (1986) What Is Feminum? A Re-examination. New York: Pantheon. Mohanty, Chandra Talpade (1984) 'Under western eyes: feminist scholarship and colonial 
+discourse', Boundary 2, 3 (l2lt3): 333-58. --(1988) 'Feminist encounters: locating the politics of experience', Copyright I: 30-44. Moi, Toril (1985) So:unl/Texlual Politics. New York: Methuen. Money, John and Ehrhardt, Anke (19TZ) Man and Woman, Boy and Girl. New York: New 
+American Library, 1974. Moraga, Cherne (1983) Loving in Ihe War Yean: 10 que nunro paso por sus labios. Boston: South End. --and Anzaldua, Gloria, eds (1981) Thu Bridge Ca/JedMy Back: Writings by Radical Women of Color. Watenown: Persephone. Morawski,J.G. (1987) 'The troubled quest for masculinity, femininity and androgyny', Rroiew 
+o/Personality and Social Psychology 7: 44~. Morgan, Elaine (1972) The Desmll o/Woman. New York: Stein & Day. Morgan, Robin, ed. (1984) Sisterhood Is Global. Garden City, NY: AnchorlDoubleday. Morris, C.W. (1938) Foundation o/the Theory 0/Signs. Chicago: University of Chicago Press. Moss, Cynthia (1975) Portrail.I in the Wild. Boston: Houghton Mimin. Mouffe, Chantal (1983) 'The sex-gender system and the discursive construction of women's 
+subordination', Retltillking Ideology. Berlin: Argument Sonderband 84. Murrell, K.F.H. (1965) Ergonomics: Man in His Working Environment. London: Chapman and Hall. 
+N 
+Nash, June and Fernandez-Kelly, Maria Paaicia, eds (1983) Women and Men and the International Divuion 0/Labor. AJbany: State University of New York Press. Nash, Roderick (1979) 'The exporting and importing of narure: narure-appreciation as a commodity, 1850-1980" Pmpediva in American History 3: 517-60. National Science Foundation (1988) Womro and Minorities in Science and Engineering. Washing­
+ton: NSF. 
+Nicholas, Robin (1985) Immunology: An Infonnation Profile. London: Mansell. 
+Nilsson, Lennart (1977) A Child Is Born. New York: Dell. 
+
+--(1987) Tlu Body Vidorious: Tile IIIus/rated Story 0/our Immune System and Other Dr/roses oj Ihe Human Body. New YQrk: Delacorte. Noble, David F. (1977)Ammca by Design: Saroce, Ttclmology and the Rueo/Corporate Capita/um. New York: Knopf. 
+Bibliography 
+o 
+O'Brien, Mary (1981) The Politics 0/Reproduction. New York: Routledge & Kegan Paul Odurn.., E.P. (1955, 1959, 1971) Fundnmentals o/Ecology, 3 edns. Philadelphia: Saunders. --(1977) 'The emergence of ecology as a new integrative discipline', Sciroce '95: 1289-93. Ogunyemi. Chickwenye Okonjo (1983) 'The shaping of a self: a study of Buchi Emecheta's 
+novels', Komparalutische Hefie 8: 65-77. 
+--(1985) 'Womanism: the dynamics of the contemporary Black female novel in English' Signs 1l(1): 63-80. ' 
+On 	Technology (1987) Ducourse 9, special issue on Cybernetics, Ecology and the Posbttodem Imagination. 
+Ong, Aihwa (1987) Spiril.I of Resistance and Capitalu/ Ducipline: Factory Worken in Mal'V'sia. AJbany: State University of New York Press. 
+--(1988) 'Colonialism and modernity: feminist representations of women in non-western societies', Inscriptions 314: 79-93. 
+Ong, Walter (1982) Orality and Literaq: The Technologizingo/the Word. New York: Methuen. Opmer, Stanford L., ed. (1973) Systems Analysis. Baltimore: Penguin. Ortner, Sherry B. (1974) 'Is female to male as narure is to culrure?', in Rosaldo and Lamphere (1974), pp. 67-87· 
+--and Wh~tehead, Harriet, eds (1981) Srxual Meanings: The Culwral Construction o/Gender and Sexuality. Cambridge: Cambridge University Press. 
+p 
+Park, Katherine and Daston, Lorraine J. (1981) 'Unnarural conceptions: the study of monsters in sixteenth-and sevemeenth-cenrury France and England', Past and Present 92: 20-54. Parsons, Talcott (1970) 'On building social !>),stem theory: a personal history', Daedalus 99(4): 826-81. 
+Perloff, Marjorie (1984) 'Dirty language and scramble systems', Sulfur 1I: 178-83. Petchesky, Rosalind Pollack (1981) 'Abortion, anti-feminism and the rise of the New Right' Feminist Studies 7(2): 206-46. ' 
+--(1987) 'Fetal images: the power ofvisual culrure in the politics of reproduction' Feminist Studies 13(2): 263-92. ' 
+Peterfreund, Emanuel and Schwartz, J.T, (1966) Infonnation, Systems, and Psychomtalysis. New York: McGraw-Hill. 
+Piercy, Marge (1976) Woman on the Edge o/Time. New York: Knopf. 
+Piven, Frances Fox and Coward, Richard (1982) The New Class War: Reaga,,'s Attack on tlte 
+
+Welfare State and Its Consequences. New York: Pantheon. Playfair, J.H.L. (1984) Immunology at a Glance, 3rd edn. Oxford: Blackwell. Porush, David (1985) Th~ Soft Machine: Cyberndic Fiction. New York: Methuen. --(1987) tReading in the servo-mechanical loop', Discours~ 9: 53-62. Potter, Van Rensselaer (1971) Bioethics, Bridge to the Future. Englewood Cliffs: Prentice-Hall. 
+Preston, Douglas (1984) 'Shooting in paradise', Natural History 93(12): 14-19. 
+Pugh, D.S., ed. (1971) Organization Thtory. New York: Penguin. 
+Pynchon, Thomas (1974) Gravity's Rainbow. New York: Bamam. 
+
+270 Simians, Cyborgs, and Women 
+R 
+Reagon, Bernice Johnson (1983) 'Coalition politics: turning the century', in Smith (1983) pp. 
+356-68. Redfield, Roben, ed. (1942) Levels o/Integration in BiologiCIJI and Sodal Systmu. Lancaster, PA: Cattell. Reed,James (1978) From Private Vice to Public Virtue: The Birth Control Movement andAmeriClJn Society sinu 1830. New York: Basic. Reiter, Rayna Rapp, cd. (1975) Toward an Anthropology oJWomm. New York: Monthly Review. Reskin, Barbara F. and Harnnann, Heidi, eds (1986) Women's Work, Mens Work. Washington: National Academy of Sciences. 
+Rich, Adrienne (1978) The Dream oJa Common Language. New York: Norton. 
+--(1980) 'Compulsory heterosexuality and lesbian existence', Signs 5(4): 631-60. 
+--(1986) 'Notes toward a politics of location', in Blood, Bmul, and Poetry: Selected Prou, 
+1979-/JS, pp. 210--31. New York: Norton. Ripley, Suzanne (1965) 'The ecology and social behavior of the Ceylon grey langur (Presbytis entellw thmiles)" University of California, Berkeley, PhD thesis. 
+--(1980) 'Infanticide in langurs and man: adaptive advantage or social pathology?" in M.N. Cohen, R.S. Malpass, and H.G. Klein, eds Biosocial Mechanisms oJPopulation Regulation. New Haven: Yale University Press, pp. 349-90. 
+Roberts, Leslie (1987a) 'Who owns the human genome?', Sdrnce 237: 358-61. 
+--(1987b) 'Human genome: questions of cost', Sdrna 237: 14lJ-I2. 
+--(I987C) 'New sequencers take on the genome', Sciena 238: 271-3. 
+Rosaldo, Michelle (1980) 'The use and abuse of anthropology', Signs 5: 389-417. 
+
+__ and Lamphere, Louise, eds (1974) Woman, Cullure, and Society. Palo Alto: Stanford 
+University Press. Rose, Hilary (1983) 'Hand, brain, and heart: a feminist epistemology for the natural sciences', S;gm 9(1)' 73"-<)0. __ (1986) 'Women's work: women's knowledge', in Juliet MitcheU and Ann Oiliey, eds, What Is Feminism? A Re-Examination. New York: Pantheon, pp. 161-83. Rose, Stephen (1986) TheAmmcan Profile Poster: Who Owns What, Who Makes How Much, Who Works Where, and Who Lives with Whom? New York: Pantheon. Rossiter, Margaret (1982) Women Scimtists in Ammca. Baltimore: Johns Hopkins University Press. Rothschild, Joan, ed. (1983) Machina ex Dea: Feminist Perspectives on Technology. New York: Pergamon. 
+Rowell, Thelma E. (1966a) 'Forest-living baboons in Uganda',Joumal oJZoology 149: 344-64· 
+__ (1966b) 'Hierarchy in the organization of a captive baboon group',AnimaJ BehtTViour 14: 
+430-43· __ (1970) 'Baboon menstrual cycles affected by socia] environment',Journal ofReproduction and Fertility 21: 133-41. 
+--(I972) Social BthtTViour ofMonkeys. Baltimore: Penguin. 
+__ (I974) 'The concept of social dominance', Behavioral Biology 11: 131-54. 
+Rubin, Gayle (1975) 'The traffic in women: notes on the political economy of sex', in Rayna Rapp Reiter (1975), pp. 157-210. __ (1984) 'Thinking sex: notes for a radical theory of the politics of sexuality', in Carol Vance, ed. Pleasure and Danger. Lond,?n: Routledge & Kegan Paul, pp. 267-319' Ruch, Theodore (1941) Bibliographia PrimatoJogica. Baltimore: Charles Thomas. Russ, Joanna (1983) How to Suppress Women's Writing. Austin: University of Texas Press. 
+Bibliography 271 
+S 
+Sachs, Carolyn (lg83) The Invisible Farmers: Womm in Agricultural Production. Totowa: Rowman 
+& Allenhe1d. Sahlins, Marshall (1976) The Use andAbuse ofBiology. Ann Arbor: University of Michigan Press. Said, Edward (I978) Orientalism. New York: Pamheon. Sandoval, Chela (1984) 'Dis-iUusionment and the poetry of the future: the making of oppositional consciousness', University of California at Santa Cruz, PhD qualifying essay. 
+--(n.d.) Youn in Struggle: Women Respond 10 Racism, a Report on Ihe National Womt71 j Studies Association. Oakland, CA: Center for Third World Organizing. Sargent, Lydia, ed. (1981) Women and RtvOlution. Boston: South End. Sayers, Janet (1982) Biological Politics: Feminist and Anti-Feminist Pmpectives. London: Tavi­
+stock. Schiebinger, Landa (1987) 'The history and philosophy of women in science: a review essay', S;gm 12(2)' 305-32. 
+Schipper, Mineke (1985) 'Women and literature in Africa', in Mineke Schipper, ed. Unheard Words: Women and Literature in Afiica, Ihe Arab World, Asia, the Caribbean and Latin AmmCIJ, Barhara Potter Fasting, trans. London: Allison & Busby, pp. 22-58. 
+Schielderup-Ebbe, Thorlief(1935) 'Social behavior of birds', in Carl Murchison, ed. Handbook oJSodal Psychology 2: 947-72. Worcester, MA: Clark University Press. Science Policy Research Unit (1982) Microdectro"ics and Women's Employment in Britain. University of Sussex. Scan. Joan Wallach (1988) Gender and the Politics ofHislory. New York: Columbia University Press. Seheok, T.A., ed. (1968) Animal Commu"irolion: Techniques ofStudy and Results oJ Restareh. Bloomington: Indiana University Press. Shirek~Ellefson, Judith (1967) 'Visual communication in Macaca inu', University of California at Berkeley, PhD thesis. Singh, Jagjit (1966) Great Ideas in I,,[ormation Theory, Longuage, and Cybtrnelics. New York: Dover. 
+Smith, Barbara (1977) 'Toward a Black feminist criticism', in Elaine Showalter, cd. The NnP Feminul Criticism: Essays on Womrn, Liltra/ure and Theory. New York: Pantheon, 1985, pp. 168-85. 
+--, ed. (1983) Home Girls: A Black FeminisIAnlh%gy. New York: Kitchen Table, Women of Color Press. Smith, Dorothy (1974) 'Women's perspective as a radical critique of sociology', Soci%girol Inquiry 44. --(1979)·'A sociology of women', in J. Shennan and E.T. Beck, eds The PriJm of Sa. Madison: University of Wisconsin Press. 
+Sochurek, Howard (1987) 'Medicine's new vision', National Geographic 171(1): 2-41. 
+Sofia, Zoe (also Zoe Sofoulis) (1984) 'Ext:enninating fetuses: abortion, disarmament, and the sexo~semiotics of extra-terresO'ialism', Diacritics 14(2): 47-59. Sofoulis, Zoe (1984) 'Jupiter Space', paper delivered at the American Studies Association, Pomona, CA. 
+--(1987) 'LackIein', University of California at Santa Cruz, unpublished essay. 
+--(1988) 'Through the lumen: Frankenstein and the optics of re-origination', University of California at Santa Cruz, PhD thesis. Somit, Alben, ed. (1976) Biology and Politics: Recent Explorations. Paris and The Hague: Mouton. Sontag, Susan (1977) On Photography. New York: Dell. 
+272 Simians, Cyborgs, and Women 
+Spillers, Hortense (1987) 'Mama's baby, papa's maybe: an American grammar book', Diacritics '7(2): 65-81. Spivak, Gayatri (1985) 'Three women's texts and a critique of imperialism', Critical Inquiry 12(1): 243-61. Stacey, Judith (1987) 'Sexism by a subder name? Postindustrial conditions and postfeminist consciousness', Socialist Rroiffl' 96: 7-28. Stallard, Karin, Ehrenreich, Barbara, and Sklar, Holly (1983) PovtTty in the American Dream. Boston: South End. 
+Stanley, Manfred (1978) The TechnolOgical Conscience. New York: Free Press. 
+Stoller, Robert (1964) 'A contribution to the study of gender identity', International Journal 0/ Psychoanalysis 45: 220-6. --(1968 and 1976) Sex and Gender, vol. 1, New York: Science House; vol. II, New York: Jason Aronson. Strathem, Marilyn (1987a) 'Out of context: the persuasive fictions of anthropology', Current Anthropology 28{J): 25.-81. 
+--(I987b) 'Partial connections', University of Edinburgh, Munro Lecture. 
+--(1988) 17" Gender ofthe Gift: Problems with Women and ProbltmS wilh Society in Melanesia. Berkeley: University of California Press. Sturgeon, Noel (1986) 'Feminism, anarchism, and non-violent direct action politics', University of California at Santa Cruz, PhD qualifying essay. Sugiyama, Yukimaru (1967) 'Social Organization ofHanuman langurs', in Altmann (1967), pp. 221-36. Sussman, Vic (1986) 'Personal tech. Technology lends a hand', The Washington Post Magazine, 9 November, pp. 45-56. 
+T 
+Taiwo, Oladele (1984) Female Nuvelirts 0/Modern Africa. New York: St Martin's. 
+Tanner, Nancy (1981) On Becoming Human. Cambridge: Cambridge University Press. 
+--and Zihlman, Adrienne (1976) 'Women in evolution. Part I: innovation and selection in human origins', Signs 1{]): 585-608. The Woman Question: Selected Writing! 0/ Marx, Engels, Lenin and Stalin (1951) New York: International. Thome, Barrie and Henley, Nancy, eds (1975) Langunge and Sa: Difference and Dominance. Rowley, MA: Newbury. Timmerman, Colonel Frederick W., Jr (1987, September) 'Future warriors', Military Review, 
+PP·44-55· Toulmin, Stephen (1982) The Retum o/Cosmology: Postmodern Science and the Theology o/Nature. Berkeley: University of California Press. Toumier, Michel (1967) Vetldredi. Paris: Gallimard. Traweek, Sharon (1988) Beamtimes and Lifetimes: The World o/High Energy Physics. Cambridge, MA: Harvard University Press. Treichler, Paula (1987) 'AIDS, homophobia, and biomedical discourse: an epidemic of signification', October 43: 31-7°. Trinh T. Minh-ha (1986-7) 'Introduction', and 'Difference: "a special third world women issue''', Discourse: Journal for Theoretical Studies in Media and Culture 8: 3-38. --, ed. ('986-7) She, Ihe inappropnaldd Olher, Discou", 8. __ (1988) 'Not youllike you: post-colonial women and the interlocking questions ofidentity and difference" Inscriptions 3/4: 71-6. 
+Bibliography 273 
+--(1989) Woman, Native, Other: Writing Postcoloniality and Feminism. Bloomington: Indiana 
+University Press. Trivers, R.L. (1971) 'The evolution ofreciprocal altruism', Quarterly Rroiffl' o/Biology 46: 35-']. --(1972) 'Parental investment and sexual selection', in Bernard Campbell, ed. Saua! 
+Seleaion and Ihe Descent o/Man. Chicago: Aldine, pp. 136-]9. 
+Turner, Bryan S. (1984) The Body and Society. New York: Blackwell. 
+
+Varley, John (1978) 'The persistence ofvision', in The Pmistenu o/Vision. New York: Dell, pp. 
+263-3.6. 
+--(1986) 'Blue champagne', in Blue Champagne. New York: Berkeley. pp. 17-79. 
+von Bertaianay, Ludwig (1968) General Systems Theory. New York: Braziller. 
+
+W 
+Waddington, C.H. (1957) 17ft Strategy o/the Gene. London: Allen & Unwin. 
+Walker, Alice (1983) I" Search qfOur Mothm' Gardetu. New York: Harcourt Brace Jovanovitch. 
+Ware, Celestine (1970) Woman Power. New York: Tower. 
+Washburn, Sherwood L. (1951a) 'The new physical anthropology', Transactions o/the New York 
+
+Academy o/Sciences, series 2,13(7): 298-304. --(195 Ib) 'The analysis ofprimate evolution with particular reference to man', Cold Spn'ng 
+Harbor Symposium a/Quantitative Biology 15: 67-78. --(1963) 'The study of race', American Anthropologist 65: 521-32. --(1978) 'Human behavior and the behavior of other animals', Amen'can Psychologist 33: 
+40 5-.8. 
+--and Avis, Virginia (1958) 'The evolution of human behavior', in Anne Roe and George Gaylord Simpson, eds Behavior and Evolution. New Haven: Yale University Press, pp. 42 '-36. 
+--and DeVore, Irven (1961) 'Social behavior ofbaboons and early man'. in S.L. Washburn, cd. Social Lift 0/ Early Man, New York: Viking Fund Publications in Anthropology, pp. 91-1°5. 
+--and Hamburg, David (1965) 'The implications of primate research', in DeVore (1965), PP· 607-22. --(1968) 'Aggressive behavior in Old World monkeys and apes', in Dolhinow (1972), pp. 276-<)6. --and Lancaster, e.S. (1968) 'The evolution of hunting', in Richard Lee and Irven 
+DeVore, eds Man the Hunler. Chicago: Aldine, pp. 293-303. Watson, J.D. (1976) The Molecular Biology o/the Gene, 3rd edn. Menlo Park: Benjamin. Weaver, Warren (1948) 'Science and Complexity', American Samlist 36: 536-44. Wechsler, Rob (1987, February) 'A new prescription: mind over malady', Discover: 5J-6r. Weill, Jean-Claude and Reynaud, Claude-Agnes (1987) 'The chicken B cell compartment', 
+Science 238: 1094-8. Weiner, Norbert (1954) The Human Use o/Human Being!. New York: Avon, 1967. Weinrich, James D. (1977) 'Human sociobiology: pair-bonding and resource predictability 
+(effects of social class and race)', Behavioral Ecology and Sociobiology 2: 91-116. Weizenbaum, Joseph (1976) Compuler Power and Human Reason. San Francisco: Freeman. Welford, John Noble (I July, 1986) 'Pilot's helmet helps interpret high speed world', New York 
+Times, pp. ZI, 24. 
+274 Simians, Cyborgs, and Women 
+West. Candance and Zimmermann, D.H. (1987) 'Doing gender', Gentkr and Society 1(2): 125-51. Westinghouse Broadcasting Corporation (1987) 'The fighting edge', a television programme in the series, 'Life Quest'. Wheeler, WM. (1939) Essays in Philosophical Biology. Cambridge, MA: Harvard University Press. White, Hayden (1987) Tilt Contenl oflhe Fom: Narrative DisCQune and Historical Represenlation. Baltimore: Johns Hopkins University Press. Wilfred, Denis (1982) 'Capital and agriculture, a review of Marxian problematics', Sludies in Political Economy 7: 127-54' Wilson, E.O. (1962) 'Chemical communication among workers of the fire ant, Solemopsis saevissima (Fr. Smith)', Animal Behaviour 10(1-2): 134-64. 
+--(1963) 'The social biology of ants', Annual Rroiew o/Enlamology 8: 345-68. 
+--(1968) 'The ergonomics of caste in social insects', American Naluralist J02: 41-66. 
+--(1971) Insect Societies. Cambridge, MA: Harvard University Press. 
+--(1975) Sociobiology: The New Synlhesis. Cambridge, MA: Harvard University Press. 
+--(1978) On Human Nalure. Cambridge, MA: Harvard University Press. 
+--, Eisner, T., Briggs, W.R., Dickerson, R.E., Metzenberg, R.L., O'Brien, R.D., Sussman, 
+M. and Boggs, W.E. (1978) Lift on Earth, 2nd edn. Sunderland, MA: Sinauer. Winner, Langdon (1977) Autonomous T«hnology; Technics out o/Conlrolas-a Theme in Political 
+Thought. Cambridge, MA: MIT Press. 
+--(1980) 'Do artifacts have politics?', DaedtJlus 109(1): 121-36. 
+--(1986) 'The Whale and the Reactor. Chicago: University of Chicago Press. 
+Winograd, Terry (forthcoming) 'Computers and rationality: the myths and realities', in Paul N. Edwards and Richard Gordon, eds, Strategic Camputing: Dt/ensi Rtsearch and High Technology. --and Flores, Fernando (1986) Untkt'ltanding Computas andCognilion:A New Foundationfor Design. Norwood, Nlj Ablex. Wittig, Monique (1973) The Lesbian Body, David LeVay, trans. New York: Avon, 1975 (Le rorps /"M",. (973). 
+--(1981) 'One is not born a woman', Feminist Issues 2: 47-54. 
+Women and Poverty, special issue (1984) Signs IO(2}. 
+Woodward, KathJeen (1983) 'Cybernetic modeling in recent American writing', North Dakota 
+QuaneriY 51: 57-73­--ed. (1980) The Myths o/Informalion: Technology and Post-Industrial Culture. London: Roudedge & Kegan Paul. Wright, Susan (1982, July/August) 'Recombinant DNA: the status of hazards and controls', Environment 24(6): 12-10, 51-53. __ (1986) 'Recombinant DNA technology and its social transfonnation, 1972-82" Osiru, 2nd series, 2: 303-60. Wynne-Edwards, V.c. (1962) Animal Dispersion in Relalion to Social Behaviour. Edinburgh: Oliver & Boyd. 
+y 
+Yerkes, R.M. (1900) 'Reaction of Enlomostraca to stimulation by light,' Part II, 'Reactions of Daphnia and Cypris',AmtriClmJournai a/Physiology 4: 4°5-22. --(1907) The Dancing Mouse. New York: Macmillan. __ (1913) 'Comparative psychology in relation to medicine', BasIon Medical Surgery Journal 169: 77!r1h. 
+Bibliography 275 
+--(1919) 'The measurement and utilization of brain power in the anny', Science 44: 221-6, 25 1-(}_ --(1920) 'What psychology contributed to the war', in The New World o/Science. New York: Century. 
+--(1921) 'The relations of psychology to medicine', Science 53: 106-11. 
+--(1922) 'What is personnel research?',Journal Personnel Reuarch I: 56-63. 
+--(I92.7a) 'A program of anthropoid research',AmericanJournal o/Psychology 39: 181-(}9' 
+--(1927b) 'The mind of a gorilla', Parts I, II, Gmetic Psychology Monographs 2: 1-193, 375-551. --(1928) 'The mind of a gorilla', Part III, Comparalive Psychology Monographs 5: 1-(}2. --(1932) 'Yale Laboratories of Comparative Psychobiology', Comparative Psychology Mono­graphs 8: 1-33. --(1935-6) 'The significance of chimpanzee culture for biological research', Harvey Ledures 31: 57-"73· --(1939) 'Social dominance and sexual status in the chimpanzee',Quarta1y Review o/Biology 14(2): "5-36. 
+--(1943) Chimpanzees, A Laboratory Colony. New Haven: Yale University Press. 
+--and Yerkes, A.W. (1929) The GreatApes. New Haven: Yale University Press. 
+--, Bridges, J.W., and Hardwick, R.S. (1915) A Point Scale for Meas-un'ng MenIal Ability. Baltimore: Warwick & York. Young, Iris (1981) 'Beyond the unhappy marriage: a critique of the dual systems theory', in Sargent (1981). pp. 44-69. Young, Robert M. (I969) 'Malthus and the evolutionists: the common conte~t of biological and social theory', Pas-t and Present 43: 109-41. --(1973) 'The historiographic and ideological contexts afthe nineteenth-century debate on man's place in nature', in Young (1985), pp. 164-248. 
+--(1977) 'Science is social relations', Radical SdenceJournals: 65-129' 
+--(1979, March) 'Interpreting the production of science', New Scim/isl 29: 1026-8. 
+--(1985) DatTPin s Melaphor: Nature's Place in Victorian Culture. London: Cambridge University Press. --and Levidow, Les, eds (1981, 1985) Sciente, Technology and the Labour Process, 2. vols. London: CSE and Free Association Books. Yoxen, Edward (1983) The Gene Business. New York: Harper & Row. 
+z 
+Zacharias, Kristin (1980) 'The construction of a primate order: taxonomy and comparative anatomy in establishing the human place in nature. 1735-1916', Johns Hopkins University, PhD thesis. 
+Zaki, Hoda M. (1988) 'Fantasies of difference', Women's Review o/Books V(4): 13-14. Zihlman, Adrienne (1967) 'Human locomotion: a reappraisal of functional and anatomical evidence', University of California, Berkeley, PhD thesis. --(1978a) 'Women in evolution, part II: subsistence and social organization among early hominids', Signs 4(1): 4-20. 
+--(1978b) 'Motherhood in transition: from ape to human', in W. Miller and Lucille Newman, eds First Child andFamily Formalion. North Carolina: Carolina Population Center Publications. 
+--(I978c) 'Gathering and the hominid adaptation', in Lionel Tiger and Heather Fowler, eds FmJale Hierarchies. Chicago: Beresford. 
+276 Simians, Cyborgs, and Women 
+Zimmerman, Jan, ed. (1983) Th~ Technological Woman: Inlnfodng with Tomorrow. New York: Praeger. Zuckerman, Solly (1932) TIl( Social Lift ofMonkeys and Apes. New York: Har~oun Brace: 
+__ (1933) Functional Affinilies ofMan, Monkey!", and Apa: A Study oflhe B~annf) ofPhysIology and &havior all lh~ Ta.ronomy and Phylogmcy ofLdnurs, Monk.rys, Apes and Mm. New York: Harcourt Brace. 
+__ (1972) Beyond Ih~ /t'Oty Tow": Tlu Fronlim of Public and Private Science. New York: Tl·lninger. __ (197~) From Apes to Warlords: Th~Autobiography ofSolly Zuckerman. New York: Harper & 
+Row. 
+
+
+Index 
+
+A 
+abundance 68 accountability 109, II J Achebe, Chinua 116 adaptations 37 gathering 39,4°-1,102 hunting 25,27,29-3°,34,38-9,86,88, gO-I,98 tool-using 22,25,30,36,37,40,.P 'adaptivity' 48-9, 64 adrenal-stimulating hormones 33 agency,conceptofI35-6,198-g aggression 34-7, 39, 64 competitive 18 AIDS 164, 203-4, 224, 251-2 alienation 158, 159 A1per.Joseph 76 'alpha males' 16, 18 Althusser, L. 196 aJtruism 47,59-60 American Anthropological Association (AM) 9°,91 American Association ofPhysicai Anthropology 89 American Society ofPrimatologists 89 Angeli,James Rowland 50 animal rights movement 152 animal so~iology 11-12 and aggression 34-5 and dominance 13-14, 16-18,25-6, 52-3.95 and gender differences 54 an,d infanticide 97-8, 99, 101-3, 104-5 and intelligence 48-<) and mother/infant groups 40,41, 95-7 and sexuality 13-14, 21-2, 23-4, 28-9, 52, 107-8 and stress 31-3, 104-5 se~ also primateslprimatology anthropology 41,143 physical 37 
+see abo human evolution apes se~ primateslprimatology appropriation, sexualI37-B, 159 Ardrey, Raben 37 Aristotle BI, 197,220 
+Auslralopitltet:us 37 
+authoritarian personality 17-18 auto-immune disease 223 autonomy, reproductive ga, 146 Avis, Virginia 3B 
+B 
+B cells 1I7-IB baboons 27-B, 38, 40,88, 91, 94-5, 96, 237 Bacon, Francis 81 'bad science' 77-B, 134 Barash, David 72-4,75, 234-5 Beach, Frank 75 Beauvoir, Simone de 131, 133,231 Bebel, August 132 behaviour and sociobiology 62-3 animal see animal sociology as tracking device 62-3 evolution ofsee human evolution plasticity in 102 Berger, Stewan 225 Berghe, Pierre L. van den 75 biobehaviouraVbiosocial science B, 10, I I, 19, 42; seea/so primateslprimatology; sociobiology biological determinism 10,30,72,74,134, 136,152,197,199,238 biomedical language 203-4 biotechnology 163-5 companies 206 bipedal behaviour 40 black women see 'women ofcolour' Blad~Runn" (Scott) J 78 Blalock, Edwin 252 
+278 Simians, Cyborgs and Women 
+blasphemy 149 Bleier, Ruth 235 Blumberg, Rae Lessor 168 bodily production, apparatus of 200, 208-12 body as agent v. resource 199-200 as coded text 206, 211 as strategic system 211 'marked' 210 relation with language 185 body politic concept of7, 8, 9 socialist-feminist theory oflO Bogess,jane 85, 88, 93, 94,104-5,108 bonds, social 95 boundaries 200-1 between human and animal151-z, 200 between organism and machine 152-3 between physical and non-physical 153 bodily 169. 253 ofindividuals 212 brain 62 Bravennan, Harry 23 I Brewer, Maria Minich 226 Bride Price, Tlte (Emechetn) 117 Brown, Norman O. 9-10 'bush ofwomen's consciousness' I I 1-13 Buss, Leo 219, 220 Butler,ludith 135 Butler, Octavia 121, 179,225-30 
+c 
+calmness v. sensitivity 33 canine teeth 36, 41 capitalism 45, 56, 58, 59, 139 advancedllate 160, 162, 172, 174, 245 Carby, Hazel 145, 241 Carpenter, Clarence Ray 12-13,14-18,36, 23 I Carroll, Lewis 7 J Cayo Santiago 12, 16 Chevalier, Suzanne 91 Chicanas 175 chimpanzees 13-1.1-,40-1,46,47,50,52-5, 237 Chodorow, Nancy 142, 143 Chomsl..)" N. 253 Christian, Barbara 117, 119-21 
+Christian creationism 152 class, sodall29, 130, 139 C/<!), sA.. (Buder) 226 Clifford, james 221 coding, world as problem in 164 cognition 2 I 3 collective experience 113 Collins, Patricia Hill 140 coloniaVanti-colonial discourse 110, III, 113,156,223 'command-control-communiclltion­intelligence' (CJI) 164, 1'75 Committee for Research on Problems ofSex (CRPS) '4. 49-50. 53 Committee on Scientific Aspects ofHuman Migration (CSAHM) 49. 50 communication, and power 164 communications technologies 58, 163-5, 166, 168 communications theory 63-4, 65, 68 and sociobiology 63-4 community, limits of 180 competition 28, 29, 34, 59 aggressive 18 sexual 60-1 computer software 252 connection,conceptof21 9 consciousness, theory of I 59 consciousness-rnising, feminist 240 consumption work, women's 170 control strategies 162-3 co-operntion 18, 19, 28, 41, 48, 52, 84 core identity 135 Coyote myth 199, 20 I, 209 culrure v. nature 8-9, 10, I I, 26, 30, 133-4, 151 cybernetic systems 45, 59, 62, 164 L")'borgs 149-5', 152, 153, 163, 173, 180-1, 212, 21 3 writing on 175-80 
+D daily life, sustaining of 180 Darwin, Charles 7, 28, 59, 73, 77 Das Argument 127 Dawkins, Richard 43, 60,62, 216-217, 220 Dawn (Butler) 179, 226-30 deconstruction 185, 186 
+Delany, Samuel R. 178 delayed response 52 Delphy, Christine 243 depression 84 deskilling 166 determinism see biological determinism DeVore, Irven 37, 38, 39, 88, 90, 94. 95, 96-7,99,100 dialectics 173 diasporn, African 115, 118,120,122 dichotomieslbinaries II 1,136,163,194, Ig8 ofmodern v. pOstmodern societies J61-2, 209-10 difference, politics of 109, 12g. '38---9. 147, 162,211 Dillard, Annie 67 Dinnerstein, Dorothy 25 disability" 178. 249 disease 203-4, 212, 223 extraterrestria1226 dispersion, issue of I 70-2 diversification, biological 61 division oflabour in family 53 international 165 seAlIal 131, 132, 136, 137. 139, 140, 142, 158,171,249 Dobzhansky, Theodosius 88 Dolhinow, Phyllis seeJaylDolhinow, Phyllis dominance/domination 7-20,236 and gender differences 53-5 and hunting hypothesis 91 and 'leadership' 53, 55 and sexuality 13-14, 16,21-2, 25-6, z8, 29-30,52-3 and social order 16, 18,95 and SOciobiology 64-5, 66-7, 74 as excuse for sexism 16, 25-6, 28, 29-30, 38.39 'gradients' of 17 hierarchies of 17-19, 38, 40, 52, 91, 95-7.99 informatics of 161-5. 170-z justification of, through animal sociology 11-12,13-14,17-19,21-2,23 justification of, through biobehaviournl sciences 8, 9, 10 'latent' 17,32 male9 I,95.97, 105 
+Index 279 
+ofnature 9-10, 47, 234 shakiness ofhypotbeses on 32, 33, 96, 97 Double Yoke, Tne (Emechetn) 117, IIg, 121-3 Douglas, Mary 173 drive expression 53, 54 dualism 152, 154, 177; see also dichotomies! binaries 
+E 
+Eco, Umberto 185 ecofeminists 199 Ehrhardt. Anke 133 electronics 166; see also machinery, modem embodiment 195,196,199 Emecheta, Buchi I 15-24 endocrinology 25 
+Engels, Friedrich 131-2, 136, 139 
+epistemolOgies 157, 195 
+anarchism in 79-80 
+see also knowledge 
+'equality', as 'narural' social position 56 
+ergonomics 45, 64-5 
+Escoffier,jeffrey 141 
+
+evolutionary theory 7, 24-5,34.36,37-9,41, 21 <)-20; see also human evolution experience, politics of 109, 110, I '3, 142, 149,159 extraterrestrials 227-9 eyes 190, 192; see also vision 
+F 
+family forms of 167 right-wing ideolOgies on 168 women-headed 167 fatherhood 135 FemaleMan, The(Russ) 178 females 
+as leaders ofhuman evolution 40-1 constant sexual 'receptivity' of 22,28,30, 4' control ofinfanticide 102 
+groupings of, as central social units 40, 4' .95-7 in current behavioural accounts 199-200 seAl.Ialchoice by 41,107-8 
+280 Simians, Cyborgs and Women 
+feminism American 239 and andtropology 143 and gender 131,134-6,137-48 and nature 134-5 and 'objectivity' 183-8, 189-96, 197-201 and sexuality 141 and subjectivity 147 as myth 82 cyborg 157 'feminist empiricism' 186-7 in science fiction 178-80 Marxist 140,242 materialist 243 perspectives in science 19, 23, 25, 31, 39-42,68,71-2,77-80,81-2, 105-8.186-96 radical15S--60, 174 repudiation of, under guise of'womanism' 118-19,120 socialist 10, 42, 45, 68,157-60,163,169, 172,173,186,242 taxonomies of 156-60 feminization ofworklpoverty 166,167, 168, 171 fiction, reading I 13-23 fighting anatomy 36, 41 Firestone, ShuJamidt 9,10 First World War 49 Flores, Fernando 213-14, 219 food production 168 Ford Foundation 88 Foucault, Michel 133, 142, 150,236,245, 253 Freud, Sigmund 9, 10,26,27 Frisch,john 90 Fulton,john 50 functionalism 15-16, 24, 33, 42 evolutionary 38,39 in equilibrium social models 18 social 15,38 systems 32 
+G 
+Galileo 77 
+game parks, African 223 
+gathering adapll1tion 39, 40-1, 102 
+gay movements 141,210 
+gender and language 127-30 concept of J 27-48 cyborg 180 differences 53-5, 76-7, 13 1 'genderidentity' 133-5, 142 'sexlgendersystem' 128-9,13°, 137-47, 198,199-200 symbolism of249 generalists, species as 102, 103 Generator ofDiversity (G.O.D.) 206-7 genes 60, 62, 73, 74 genetic fitness maximization strategies lOS new genotypes 61 genetics, as linguistic science 46 genomes 215-216, 218 German Social Democratic Party 132 Gershon, Richard K. 205-6 gibbons 15 Gilbert, Sandra 72 Gilbert, Scott 252 Gilligan, Carol 143 Gilman, Charlotte Perkins 81 'god-tricks' 189, 191, 193, 195 Golub, Edward S. 203, 205-6, 218,219, 222 Goodall,lane 24 Gordon, Richard 166 Green Revolution technologies 168 Gregory, Michael 74 Grene, Marjorie 75 Griffin, Susan 174 Grossman, Rachel J65 Gubar, Susan 72 
+H 
+Haeckel, Ernst 75 Hamburg, David 33, 34-6, 39, 40, 88 Hamilton, W.O. 73 handicapped people stedisability Haraway, Donna). 141 Hardin, Garrett 76 Harding, Sandra 80,140,187,188,192,194, 236,249 Harlow, Harry 88 Hartmann, Heidi 139 Hartsock, Nancy 80, 140, 142, 186 Hayles, Katherine 207 
+healdt care 171-2 Henderson, LJ. 32 Henry, AJice 238 'hero-scientist' 205 heterosexuality as 'natural' 13 I compulsory 137-8, 229 hierarchies 29, 32-3,38, 40, 52, 91, 95, 96, 97.99 Hillis, W. Daniel 252-3 Hinde, Robert 24 historical materialism IO-I If 139. 140 Hobbes, Thomas 28, 83, 98 holism ISO-I, 175-7 Holton, Gerald 75 'homework economy' 166-7, 169. 171 homosexuality 14, 16 hooks, bell 148, 239 Hooton, E.A. 236 households ste family howler monkeys IS Hrdy, Sarah BiafTer6 1,85,88,94,98-101, 103,104,1°7.108,238 Hubbard, Rudt 76, 78-g, 80, 235 Hull, David 75. 78 human engineering I 1,13,22,45,47,48,56, 
+23 1 
+human evolution 25, 29-30, 35-6, 37, 38­42,79,86 humanism 74, 75, 78, 79,198,199 feminist 234 ~ancistlo, 140,186 human evolution 25, 29-30,35-6, 37, 38-42.79. 86 Hurston, Zora Neale 120 Hurtado, Aida 145 Huxley,Julian 216 
+identification 156 identity 135, 192, 193 fractured 155-6 Set also gender, 'gender identity' ideology ofscience 8, 22-3,42,78 illusion 158 'imaging'/'visualization' self-help therapies 
+>25 
+immune systemlimmunology 204-7, 20g, 
+Index 28, 
+211-12,214-15,217-21,222-6,251-2, 
+253,154 In the Dilch (Emecheta) I J 7 'inclusive fitness' 60, 220 individuality and women 253 dangers to 223 problem OhIl, 216 industrial revolution 7 infanticide 83, 97-8, 99.101-3,104-5 human 102, 103 infants, primate 96 information and body systems 206, 207 genes as 62 nature of164 ste also communications theory innocence/non-innocence lSI, 157, 191 innovation, genetic 61 insects, social 61, 63-4 instrumental power 164 intelligence 13 -as problem-solving behaviour 48-9 tests for 13, 49 International Primarological Society 89 interpretation 195, 213-14 investment strategies, dangerous 61 invulnerability/immunity 224, 225 Irigaray, Luce 174 irony 149 'irrationalities' 48 
+J 
+Jameson, Fredric 244 jllylDolhinow, Phyllis 85, 87, 88, 90, 91, 93-8,99,IOO,IOl, 104, I05,108,23i jerne, Niels K. 218-19, 253 Joys ofMotherhood, The (Emechell1) I 16, J 19, 120 
+K 
+Kaplan, Caren 240 Keller, Evelyn 143, 187,250 King, Katie 114, J56, 178,200 Kinsey studies i 4 kinship 22, 6o, 144-5 Klein, Hilary 151 
+282 Simians, Cyborgs and Women 
+Klein,Jan 223-4 knowledge irresponsible claims to J 9 J local J94 objects of 197-201, 20B 'situated' I I I, IBB, 198 social constructionist interpretation of ,84, ,85 Koertge, Noretta 235 Kohlberg, Lawrence 142-3 KoUontai, Alexandra 132 Kristeva,Julia 160 
+L 
+labour as category 158 migration 120 process 10,22,39,140 see also division oflabour Lacan,Jacques 137, 142 Lancaster,Jane 91,108,235,238 language and interpretation 214 and reality 71-2, 78, 81 biomedical 203-4, 207-8 difficulties with 127-30 phallic 234 phylogeny of 52 politics of 175 relationship with bodies 185 langurs 83, 92,93, 95-101,104,236,237 Latour, Bruno 235, 248 Laurentis, Teresa de 142,249 Leacock, Eleanor 25 'leadership' 53, 55 learning 48 Leibowitz, Lila 235 lesbianism 120, 137, 138-9 Levi-Strauss, Claude 137 liberal ideology 8, 30 Lindberg, Donald 107-8 Linnaeus, Carolus 81 literacy 174-5 Loeb,Jacques 75 Lorde, Audre 114,138-9,142,174 Lovejoy, Owen 238 Lowe, Marian 76, 235 Lucretius 75 
+'lumpy discourses' 203-8 lymphocytes 20'6, 217 
+M 
+machinery, modem 152, 153-4, 178 McCaffrey, Anne 178 Mcintyre, Vonda 180 MacKinnon, Catherine 141, 145, 15B-9 MacroGene Workstation 215 'male social instability', concept of 104, 105 males see dominance/domination; hunting hypothesis; sexism/misogyny Malinche 175, 176 Malinowski, Bronislaw 15, 26, 27, 30, 32 Malthus, Thomas 7, 59 management sciences I I, 48, 50 Mani, Lata 114 man-the-hunter hypothesis see hunting hypothesis market, concept of59 marriage and gender antagonisms 138 images of 118-19 Marx, Karl 9. 45, 59, 68,128,13 1-2,136, 139, 163 Marxism 10, 12,37,80. 130, 131-2, 137, 140, lSI, 158, 172, 186 masculinity/femininity 54, 55; see also gender mathematics, genetic differences in 136 matrilineal rradition 119 Mayo, Elton 19 Mayr, Ernst 88 medicalization ofmoraVpoliticai issues 235 ofsexual 'deviance' 14 Melanesians 135 menstrual cycle 21-2, 23-4, 28, 107 Merchant, Carolyn 234 Meridian (Walker) Il9, 120 metaphor 185, 195 militarism 154, 168,205,211,254 Miller, G.S. 27 Milton,John 72, 73 Minh-hat Trinh T. 239-40 miniaturization 153 misogyny see sexism/misogyny Mitchell,Juliet 139 molecular biology 106, 207 
+Money,John 77,133 monogamy, 'overt' 29-30 mononuclear phagocyte system 21B monotheism 193 monsters lBo, 226 Moraga, Cherne 175-6 motherhoodlmothering85, 119-20, 135, '42 Movement pour la Liberation des Femmes (MLF) '37-8 multinational companies 166 
+N 
+National Geographic Society 189, 222, 224, 225 National Research Council (NRC) 49 National Science Foundation 88 'naturalization' 210-11 nature as communications/control machine 61-4 as fetish 9-10 as passive objectv. active subject 198-201 as series ofcybernetic systems 59 definitions of I52-3 domination/control of9-10,47,234 in feminist debate 134-5 v. culture 8-9, 10, 11,26,30, 133-4, 151 network theory 218-19 networking 170 Newton, Isaac 75 Nigeria 1I6-17, 1I9 Nilsson, Lennart 222 nineteenth-century medical advice literature 
+210 
+o 
+object relations theory 143. 186,246 objectification 138, 141, 159 'obiecth.·;ty' 78,183-8,189-96,197-201, 208,248 OffOur Backs 238 Ogunyemi, Chikwenye Okonjo 117, 118-19, 120 Dog, Aihwa 122, 177.240 oppression ofwomen 144 and Marxism 131, 132 and obligatory heterosexuality J 37-8 
+ue also sexism/misogyny 
+optimization 46, 64-5 
+orangutans 49 
+organic form 4S 
+organisms, as constructs 208 
+Ortner, Sherry B. 143, 231 
+'outer space'l'inner space' 221-3 
+ownership ofone's body 98, 146 
+
+p 
+Paln, Achola I J8 parental investment 60, 61, 234 Parsons, Frank 43 Parsons, Talcott 32 part/whole reJation 220 particularism 3 I 'passionate detachment' 192 pathology, conceptualization of214.220 patriarchy 139. 142,146, 159 and domination 9, 10,68 and repression 9-10 racist 145-6 sociobiology as 74 patrilines in science 85-'7, 88-93 'pecking orders' 18 Peirce, Charles 142 'personality differences' 54-5 personnel research 56, 57 perspective,partial 190,191-2 Petchesky, Ros 16B phaJIogocentrism 148. 175, 176, 196 phenotypes 2 J 7 pheromones 63-4 photography 190, 221-2 Piercy, Marge 7.19-20,73 Pius XII. Pope 73 planets, photographs of 22 1-2 Plato 245 Playfair,J.H.L. 203 pleasure calculus 34 poetry 200 political aspects ofscience 83-5, 98 political unity 157 polygamy lIB, Il9 polymorphism ofgenotypes 103 population and SOciobiology 62 control of45 
+284 Simians, Cyborgs and Women 
+dilemmas about 102, 103 pornography 141 positioning 191,192-6 postmodernism 152, 185, 186, 188,207-8, 220,244-5,248 pregnancy 253 primateslprimatology 13-18, 21-41, 46-50, 52-5,82-108, 199,236-8; see /lho animal sociology; baboons; chimpanzees; langurs 'privatization' 168 production 21, 22, 59 profit and competitive struggles 59 genetic 60, 61,62, 101 propagules 217 property system, sexual 137 proslhesis 249 psychoanalysis 151, 186,246 psychobiology 45-'7 psychoses, in monkeys 84 'public' v. 'private' domains 168, 170 
+R 
+race 129, 160, 162, 241-2 racism 49, 67, 87,134,137,145-6,162,236 Ramus, Peter II 1 Riithzel, Nora 127 rationality 192, 193, 194, 196 Raymond,Janice 235 reading offiction 113-23 Reaganism 183 rebirth, metaphors oflBI recognition, selfv. non-self224 reductionism 187-8 bioiogicallo,42 sexual 14­regeneration 18I relativism 191 religion, tendencies in 172 Renaissance I I I replicators 2 I 6; see aho genes representation doctrine ohl3 photographic 190, 221-2 process of52 repression 9-10 reproduction, sexuaVsocial 10,21-2,23-4, 25-6,27-31,33-4,59,60,159-60,238 
+ideologies of212 strategies of98,99, 100-1, 102-3, 162 women's rights in 98, 146 'resourcing' Ig8 rhesus monkeys 12, I6~18 Rich, Adrienne 137, 174 right-wing family ideologies 168 Ripley, Suzanne 85, 91, 93,101-4,108 robotics 167 Rockefeller Foundation 50, 58 Rosaldo, Michelle 143 Rose, Wendy 1 13, 115 Rossi, Alice 235 Rowell, Thelma 24, 30-4 Rubin, Gayk ! 28, 137, 139, 140, 142 Russ,joanna 178 
+S 
+Salzman, Freda 235 Sandoval, Chela 155-6, 174 scarcity 59, 68 Schipper, Mineke 116 Schjelderup-Ebbe, Thorlief18 schools, tendencies in 171 science and further human evolution 55-7 and gender 143 and knowledge/power 43 as heroic quest 205 as justification for political authoritarianism 19 as justification for sexist attitudes to sexuality 16, 22, 28, 29-30, 61,107, 
+23B 
+as liberntingv. oppressive force 8,19-20 'badscience'77-8,134 changes in 44-7, 51, 57-9 definition of 'equality' as 'natural' social position 56 exclusion ofwomen from 8-9 feminist perspectives in 19, 23, 25, 31, 39-42,68,71-2,77-80,81-2, ,0S-B, .B6-96 ideology of8, 22-3, 42, 78 medicalization ofsexual 'deviance' 14 patrilines in 85-7, 88-93 political aspects of83-5, 98 research on gender differences 76-7 
+sexist bias in 25, 29-30, 39,.54, 96, 234 social constructionist argument for 184-8 standards of92 science fiction 178-80, 226-30, 249 Science-Humanities Convergence Program (NEXA)74 'scientific method', doctrine of184-5 Scott, joan 242 Second Glass Citizen (Emecheta) I 17 Second World War 58 selection, natural 37, 41, 59-60,65 self and vision 192-3 definition of 223-4 identity of 192, 193i see also gender, 'gender identity' ownershipof98, 135, 146 self-expression, ideology of57 semiology/semiosis 142, 185 sensory physiology 48 serial monogamy, heterosexual 166 sex see gender; sexuality sexism/misogyny dominance as excuse for 25-6, 28, 29-30,38,39 in science 25, 29-30, 39, 54, 96, 234 in 'scientific' accounts ofsexuality 16, 22, 28,29-30,61,107,238 SOciobiology as 39, 42, 61,67 see also oppression ofwomen sexuality and conSlant female 'receptivity' 22, 28, 30 ,41 and domimmce/domination 13-14, 21-2, 28,29-30,5 2-3 and female sexual choice 41,107-8 and feminism 14 I and menstrual cycle 21-2, 23-4. 28, 107 controlofg, 22, 30 periodicity/seasonality in 28, 52 research on 14, 49-50 'science' as justification ofsexist attitudes to 16, 22, 28, 29-30, 61, 107,238 Shannon, Claude 207 Silip Who Sang, The (McCaffrey) 178 Shirek,judith 91 
+Signs: Journal o/Women in Culture and Society 
+JIB 
+silicon chip 153 
+Index 285 
+Silicon Valley 166, 169 Simpson, George Gaylord 88 SisterOutsider(Lorde) 174, 175 'situated knowledges' ttl, 188, 198 Slave Girl, The (Emecheta) 117 slavery 145-6 Smith, Adam 7 sociability, development of41 social constructionism 134, 184-8, Ig7 social control 35, 54 social order and aggression 34-5 and dominance/domination 16. 18, 95 and stress 3 1-3 breakdown of95 see 0'10 troop organization social revolution movements 194 socialism 10, 158; see also feminism, socialist sociobiology 46, 57-67 and behaviour 62-3 and capimlism 58. 59 and communications theory 63-4 and dominance/domination 64-5. 66-7. 74 and evolutionary theory 219-20 and new technologies 168-9 and optimization 64-5 and reproductive strategies 99,100-1, 102-3 as science ofgroups 59-60 inflated rhetoric of73-6 non-sexist interpretations of39-41 sexist tendencies of39,42,61,67 sociology ofknowledge 184. 18S Sofoulis, Zoe ISO, 163, 179-80, J89, 198, 24B-9 space exploration 221-2 'special interest groups' 183 Spillers, Hortense 145 'splitting' 192-3 Stanford Center for Advanced Study in the Behavioral Sciences 34 Star, Susan Leigh 76-'7, 235 SlarTrekseries 180, 205 state, tendencies in 171 status, hunger for 53 Steward,Julian 236 Stoller, Robert 133 Strathern, Marilyn 135-6, 248 
+286 Simians, Cyborgs and Women 
+Slress 31-3. 95. 97-8, 101-4. 164 subjectivity, sociall47j s~e also agency, concept of 'subjugated' standpoints 190-1, 193 subordination hierarchies 32-3 Sugiyama, Yukimaru 97 Superluminai (Mcintyre) '79-80 superorganisms 60 symbolic communication 41 systems design 64 systems theory 31-2, 45. 58-9 
+T 
+T cells 206-'7. 217-18, 220, 222 Tales ofNtVirjon (Delany) 178 Tanner, Nancy 24. 2S, 39-'P. 42, 91 taxonomies offeminism 156-60 Taylorite scientific management 45, 64. ISO territoriality 64 testing ofpeople, scientific 49. 56 therapeutic action 2. I 5 Time magazine 224 Tinbergen, Niko 24 Tiptree,lames,}r 178 tool-using adaptation 22, 25. 30, 36, 37. 40, 4' totalization 191 'tourism ofthe soul' 113. 115 tracking systems 62-3 translation, as feminist science 195. 196 Treichler, Paula 203-4 Trivers, Robert 39.73,99. 100,234 troop organization 40. 95, 96. 97.104,105 Truth. Sojourner 148 
+U 
+unemployment 166,167-8 
+University ofCalabar, Nigeria 122 
+Unviversity ofCalifornia at Los Angeles (UCLA) '33 
+University ofCalifornia at Santa Cruz (UCSC) 110, '43-4 
+University of Hawaii 110 
+upright stance 79 
+v 
+'value-free truth' 8; see also 'objectivity' Varley,John '78-9, '49 victimization 177 video games 168 Vietnam war 84 virginity, obsession with 122-3 'virus' computer programs 252 vision 188-96 visualization, technologies of 169. 188-9 vocational counseUing 56 Voyag" spaceships 221-2 
+W 
+Wald. George 76 Walker, Alice uB, 119, 120 Washburn, Sherwood IS, 24. 25, 30, 33. 34-9.75,85-91,94. 235,236,237 Weaver, Warren 58 webs 194, 228 Weisstein, Naomi 78 welfare state, dismantling of 167, 171 Western culture ISO-I. 157. lbo, 163, 176, 177. 192,197,198,223 wholeness see holism Wilson, Edward O. +h 45, 57, 58, 60,62-5. 67.75.77,98,99,100, 21 9,235 Winograd, Terry 2I3-J.t, 219 Wittig, Monique 137-8, 174, 243 'womanism' Il8-19, 120 women and reproductive autonomy 98 and sexual property system 137 as a historical group 160 as heads ofhouseholds 167 as leaders in social evolution 40-1 as Third World labour force 166, 167, 
+'74 category of 145-6, ISS, 156, 157i sttalso gender exclusion from science 8-9 experience of 109. 110, Ill, II3, 149, 
+'4° 
+household labour of 158 in integrated circuit 169-73 individuality of 253 oppression ofStt oppression ofwomen; sexism!misogyny 
+Index 287 
+Stt also females; feminism; sexism! misogyny; sexuality 'women ofcolour' 114-15. 144, 145-7, 155-6, 167,174-5. 176 Women's Movement 87. 110. 131; see also feminism 
+women's studies 109-23 
+Woolgar, Steve 235 
+workplace, tendencies in 171 
+world, as object ofknowledge 198-9, 201 
+y 
+Yale Laboratories ofPrimate Biology 50, 5I Yerkes, Robert Mearns 13. 15.44,45-57,64, 65, B4, 106.231.232 Young, Iris 139-40 
+Z 
+Zed Press 240 
+Zetkin, Clara 132 
+Zihlman, Adrienne 24. 25,37,39-'P, 42, 91, 101,107,238 Zuckennan, SirSoUy 23-4. 25-31, 83,106. 107,232 
+
+
