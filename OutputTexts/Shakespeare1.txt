@@ -1,0 +1,1909 @@
+our wit makes wise things, to be dead
+And fad of passion of bitter,
+Thou must and banish me of time.
+
+LEONATO:
+Keep you to your favought:
+Ay,--
+Whose shots is born. I am good ground:
+Now, your drink-searried stotion most night of kits;--Fineral, bite
+By the wisd of letter and his every special devil; point a forvition
+Hath forgot his fire: no boust See, who, I'll bus at my great,
+I might show his eyes should reside
+The ned-leaping doth send with such elder deceits,
+With him valiant, with serpent he were
+incessant'd and in some smiles:
+And find we whom at your love,
+And is a spite of the thunderbaron's deserts
+Must wea
+-- Test with temperature of 0.5 --
+our wit makes wise things all before,
+And and we have been to a morrow of the next of the tongue
+That hat the man of the seas of will endearest
+No life to your fool, with a humour with him to mine eyes.
+
+DUKE OF YORK:
+Look, that the shee God never would see the leave of his will to me what he did the duke of thine ears, then we will be forsworn: but the great receive is banish'd with thee with me to my lord,
+I have not the base of each of the sea
+To most pursue his end, and the shoulder is an armour to a thousand honour of the tall of our pride stoop and vow to come for words:
+But what may not be the greatness of the
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 214380  | total loss: 1.29553 | time: 1944.054s
+| Adam | epoch: 020 | loss: 1.29553 | val_loss: 1.25046 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ience wash'd
+As pure as shame of the proof!
+
+OLIVER:
+That you most smawness can see?
+
+MISTRESS FORD:
+What, more, whom cotless dangerous the pault of shapes; in tongue?
+
+HORATIO:
+Yes, I ere he wadlike frove from this chamber,
+And clear and shape it wrong it
+It were my nawree to twain;
+Anon; thou art burial and it is on the bounty!
+Such and Llint feasts? sir, to thetely grow the late valiant
+tomard at you; then, it is confession.
+
+PISANIO:
+O, I will know at the souch of the strength shall be close: oravier keeping:
+King of this opposture, like a cryitor of our soil.
+
+DUKE SENIOR:
+O, I am an angry bee doubo hang with a m
+-- Test with temperature of 0.5 --
+ience wash'd
+As pure as soon be manners.
+
+CHARLES:
+What a will I wile hold to be such to which the hearts of the country's heart
+And make the tree of the man of a heart and say the streets of woman and all her life
+Hath so full of sweet mandian.
+
+ROSALIND:
+And he was but perf the prince and the seat.
+
+MARK ANTONY:
+I have made what hat born and his pretty and rich and friends have plays that a good constant than the sight,
+The special shepherd that comes to be more now, and then we have a love of my prayer may be a thousand brains to his court,
+And you will not shall be to consent them on the prince of the country time
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 225099  | total loss: 1.33175 | time: 1944.204s
+| Adam | epoch: 021 | loss: 1.33175 | val_loss: 1.23892 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ke those laugh whose
+lungs and the water will repent you with me:
+Wherein it sends him to die.
+Claid me, by frane, said.
+
+EDGAR:
+What lamentate is up: forsooth madcan: yet his prays 'tis,
+And even the dear north to know
+Nothing in thy floweriness? know
+him a falls of youth; the heights of her durst an orrartical wream.
+
+MIRANDA:
+Tish thine honeson again so good.
+Whose intends I will fearon seek to what back
+The ill-oper'd town: on why
+lay not great us say he hath heard such a amminity.
+Come, upon your wits do some disturb: O Johar.
+And have thou gownless, beloved, with gain blasts?
+
+SUFFOLK:
+The grace provincesg hath
+-- Test with temperature of 0.5 --
+ke those laugh whose
+lungs are come and done to me to my brother!
+
+CORIOLANUS:
+What the streatind half home and the prosperous brother that would not make the man to see the gentleman.
+
+ESCALUS:
+I am for a spirit.
+
+HAMLET:
+I am the lady and dangerous fair hand and band
+So strange in a part of expectation
+And go to theme and send of my body makes me on the poor disease.
+
+Second Lord:
+And this sorrow and the beards and contracts to the ranks,
+The name of the time and the article
+The beauty of the world to the little war,
+That sees the thing to make him a soldier.
+
+OLIVIA:
+I have some safet and so some throne,
+And such a
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 235818  | total loss: 1.31072 | time: 1943.914s
+| Adam | epoch: 022 | loss: 1.31072 | val_loss: 1.24119 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+smoke of war:
+A bawbling extravised than the war
+Should crown were put my own manners,
+Ignorant monstasters to Glass, when he is done af my face, Camillo,
+Let's fast as scarn! what would you live, Hercules, pursuit,
+To mak the dull purmised and sleep:
+If not out of my inwurl'd resolved neighbour did bad
+lady, but aps the atcremant
+Of the Tom harder: his ey jupied modest feed:
+Good morrow.
+
+QUEEN MARGA'E:
+O, we true. Whent your Members of tho far.
+Now o the dangerous poor state.
+
+ANTIPHOLUS OF EPHESUS:
+Most luphs the hame to far nor brings the tays.
+
+EMILIA:
+Your grace that mackerly freen old their country captive now,
+-- Test with temperature of 0.5 --
+smoke of war:
+A bawbling stroke mean his bad and most souls and all the world.
+
+ANTIPHOLUS OF EPHESUS:
+O chan there let some spe contemptions
+In a form and came in men,
+That he was to wash the wars, and let the more to the man of person, and go not to the wind and seem to hold the common souls of the scars of heaven countenance;
+And there to the mine of the matter from the name.
+
+KING HENRY V:
+And made thee the common days in shoes and parted eyes
+And face upon the country and strange bears here,
+Which you would catch your seeming that there is a true father.
+
+ANTIPHOLUS OF EPHESUS:
+No, my mind thou holtest his such a
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 246537  | total loss: 1.31308 | time: 1944.610s
+| Adam | epoch: 023 | loss: 1.31308 | val_loss: 1.23232 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ wit, return again to Venown: look you; before us,
+Turn increasee at ever cooled and husband to this brother-acs nature more sin.
+
+THAISA:
+Be praised not likgedly to something back of Murders.
+
+MONTAGUE:
+O, when it is: Art at she more old:
+In untilled letter, tried out
+unto Marking Jich is on law be fear?
+
+STRIAN:
+He will pray him,
+Shall affair you think I having ill with wit, I shall,
+While I had spoke as a water with fault,
+beong'd in his lords bane retired
+The sweeting. My revel-both now I spoke I at no jest.
+
+HAMLET:
+Give me precious naoli, dhowling from the hurly Hust
+Stow? Hath the land, and that I could appear'
+-- Test with temperature of 0.5 --
+ wit, return again to Venice with me; and he may see the will to die,
+That I would not be sad to know them, and that the which is the lords that have a treachery of my deserts,
+Which he might not at the marking all the bear of our devil.
+
+KING HENRY VI:
+You shall not barre two as a sore crowns with men you are at a heart to come to the secrets of his tongue of him.
+
+GLOUCESTER:
+Most sounds a thing the blood of one of him.
+
+OLIVIA:
+Who was the sense to the spirit.
+
+KING HENRY VI:
+What do you meal when for the commend is to prevent his right,
+That he were like two maiden precious grace,
+With this noble good and that tho
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 257256  | total loss: 1.33200 | time: 1944.138s
+| Adam | epoch: 024 | loss: 1.33200 | val_loss: 1.23747 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+,
+For that it made my impir,
+That when news, rivers of thee too. I to kiss him, my son, in heart
+The imot and respect transmiss.
+
+CHARMIAN:
+The dogs from wheed and ground, to debule a ring:
+And obes: visited and and
+used him from no, still the like heavy sea,
+I hope for rest good steed; well, we do like in drunkard in his provery any defence;
+And let's give a merry spot,
+Or best blue o'er. Damnedness is methought 'His prisoner,
+what! so sand'd the art is king
+Mine art sometimes at a female grow
+Of vice and falseies liked,
+'Bowine this Thickets must speak till he bear him.
+
+BEATRICE:
+There is your uncle, I will attend
+-- Test with temperature of 0.5 --
+,
+For that it made my imper the day,
+The beggar in this head and rest the shoulder of the horsemen to his place to me.
+
+GRUMIO:
+I know it is a narror both to have her to the part:
+The prince didst thou any head;
+Though thou liest his cause,
+And answer the king and soft than that she comes not and make thee the people and my wife is much angry to a kind of sea not for him.
+
+LAFEU:
+That come and pres a shame of his heart, and thou shalt such a hand to be seen in the true hours
+A look for a whore of fire and of the last boy,
+The heavens leave of it and see the promise that she had her heart such
+she can see her then to s
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 267975  | total loss: 1.34117 | time: 1944.311s
+| Adam | epoch: 025 | loss: 1.34117 | val_loss: 1.22763 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ght,
+Convey'd himself as great the time o' the thing--
+I were in, a child and at present puruous tedious.
+
+Painter:
+To-morrow, she aspect the control is hathes:
+We be so was a foyling
+Right on been his sport.
+
+NORTHUMBERLAND:
+I thank your haft neglect he had leagues
+Takes to by that corporal rite; use them from your hundred tedious in,
+And take this: bring with whot mercy;
+Which we jewels back of at him, and they had alone for thy wife was spur there the emperor's hooo.
+
+Mustinces:
+How comes fauls? come, drunk and sing, my patience in take
+But dost thou where that she cannot put
+into impertinerable, swell men in her s
+-- Test with temperature of 0.5 --
+ght,
+Convey'd himself as he will go and much to be thrive this to be not to extend him,
+And that he she bears to see the thoughts of peace.
+
+PETRUCHIO:
+I will then she show the world.
+
+DUKE OF YORK:
+Marry, the dear thos the countenance of the hour we are seen,
+Or that the air is bear the duke to the well in the lady
+I to death and but the necessity,
+In all the world of the death of the constable of the country and their duty,
+And say the hand and assured we shall have them sanctify their love here of the most princes can speak to him.
+
+KING HENRY VI:
+I will be in and will teach your honour with them too hard
+To come o
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 278694  | total loss: 1.29290 | time: 1944.216s
+| Adam | epoch: 026 | loss: 1.29290 | val_loss: 1.22105 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+First Keeper:
+That cannotter yet I gave 's got, sir, sleep with nothing?
+Fhas, be on else ename my mandles.
+
+QUEEN MARGARET:
+Will you say thou yon.
+
+OCTAVIUS CAESAR:
+He shall! will you do, foe, good necessifice, darkins in the music nequests defrailts.
+'Tis Beward like more poverty
+Make haunt you mean, and, put in there are thou crack'd. Or well, Aot
+That a figur. I was despised
+All the base trial better so grace's envenount was could; mecheriass sweep up,
+to alley him by thy secure?
+
+POINS:
+I'll in maciet, them mistake you?
+
+ANTIPHOLUS OF SYRACUSE:
+Good,
+' I busdes: I have
+wasted just of any subjects
+satal's valled s
+-- Test with temperature of 0.5 --
+First Keeper:
+That cannot perdition of the ring,
+I cannot thou show me person,
+That she had horse than both with your table of the taste,
+The head of his face, the hour the king,
+As thou sad and wine, or have forgot
+No secret all he comes on the death.
+
+ANTIPHOLUS OF EPHESUS:
+What hect fall of, good morrow,
+Our bonds are like the pushion of the seal of the sound,
+And you are of this better fellow than his fire,
+Than with him shall strange.
+
+CASSIUS:
+And he would fled the world unto the first,
+That whom I will do as the thing of a very time and words
+For as but one shrews are's a pale that in the eyes of the strange st
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 289413  | total loss: 1.37879 | time: 1944.174s
+| Adam | epoch: 027 | loss: 1.37879 | val_loss: 1.21869 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+other! Here, in the sands,
+Next, my joy, and or after
+Brought thee, Antony
+Hath perused my sister.
+
+HOLLANDO:
+At never forehe? sreath the arrester,
+My noble brought and see,--
+
+First Out a match,
+And doth tele a whoo gazn, and cross'd thee.
+
+BENVOLIO:
+Why, that's certain acdnowledge
+Of hay an you the big of Calorato.
+
+AGAMEMNON:
+Tut.
+
+URSULA:
+Cithod'r.
+
+LADY ANNE:
+What is that jyalar.
+
+Fire:
+Now!
+
+CLAUDIO:
+
+MARULLUS:
+I am in car you shourd as much
+with git which made the deed.
+
+LENNOX:
+O my lord, ungot noned.
+
+GLOUCESTER:
+Do owe you ther fortune.
+
+PAROLLES:
+How first minut wic-heart, to one of cortul hath chericuse, s
+-- Test with temperature of 0.5 --
+other! Here, in the sands that they have a man a man an honest and stark, in the lost
+And carry the fair love of him, for my father's end
+That I am as brother for the world,
+So show him when they are would not still come to the prince that the end thou hast good the law,
+Nor she shall make my sight.
+
+PROSPERO:
+There is a course of honest man; they shall be strength,
+Which is the prince, and thou march,
+So will I wear my person, and my love hath got a prince's common prince.
+
+GREMIO:
+And he hath not this sad that they proclaim them but a heart with wit to like the deed
+When the sword we will to the thing, my lord, it i
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 300132  | total loss: 1.26282 | time: 1944.023s
+| Adam | epoch: 028 | loss: 1.26282 | val_loss: 1.21112 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+our father,
+Which I did speak too, worthy full that
+king-wonced Clarence knaves, which not abate, we part instinch of the sum
+Remember the gull.
+
+POMPEY:
+All his's a periall there. My Trories lackers the flat;
+And this wreath Suffolk I have tears her into mercy to deep,
+Though I love the misery, that would the fashion that
+open his weed of you?
+
+CLEOPATRA:
+In some sightneve now use out the feeding view'st
+And contris men and evidence,
+Or of this dams o' fear, for
+gods of your sake.
+
+VALENTINE:
+He would not
+be the hands would but yet you shall touch thee there is it a thank ale thinking up
+with Blouting now, Signior Gr
+-- Test with temperature of 0.5 --
+our father,
+Which I did shame the roos of the door of the heart of thy life,
+When he thought a good proper hate of a service with a sea the good that thou stand'st,
+Old Bolingbroke is a fair control to complain it to you.
+
+KING HENRY VI:
+Here is the pool were and returned the hand,
+Thou art not honest to be the base cares and with the devil we shall say and take your father to the love and me to him that meant the poor person that I have the great charge of service and heart to see the state of his love,
+I will perform the city of the pangs of any man's father
+And let me be forgot the head of all fair way
+So have the
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 310851  | total loss: 1.30555 | time: 1943.871s
+| Adam | epoch: 029 | loss: 1.30555 | val_loss: 1.21247 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ll weep no more. In such a favour from hearted pees.
+But remembers for spies with your ear!
+How now, niece's son as would give
+your time friends:
+Who are thy honesty under some change,
+And but 'pestain'd worids; thou'rt with me gone, honour drawn yours,
+Then, by love crash, part upon the papers,
+An encounter is of it will make them power by our dice. By your trees I'll appear too,--
+
+ROSALIND:
+If I should have sack here without your selling monsieurs.
+
+Servant:
+The witness
+A bachelor can to go deliver.
+
+HOTSPUR:
+I have made her silely sirs
+And bear it thee!--sir, must do him with him
+Stood and sleep something.
+
+Clown:
+-- Test with temperature of 0.5 --
+ll weep no more. In such a fire is being fall'n to thee:
+I speak a bare thanks to come before thee then,
+And let me see me chance him so.
+
+KING HENRY VI:
+What have the bear and digestion of the other law that 'twere born the painted sense.
+
+CASSIUS:
+The day is come to me on thee.
+
+CARDINAL WOLSEY:
+I am not ready and here and have the strangeness of the balm of my care of his father's burthen
+As the grass that thou wilt stay of his princely birds
+That but the sore shall have me stand a cap to see her to the prince
+I am the salt and brother and the world
+That he hath crown'd thee so doth for
+the truth, I could not hold
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 321570  | total loss: 1.29734 | time: 1944.238s
+| Adam | epoch: 030 | loss: 1.29734 | val_loss: 1.20959 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+your close patience.
+
+ISABELLA:
+Are you not?
+
+STEPHADCE:
+Guilty! yes, thou diseaseless
+put a better than twist too poor, as thou deceivest thou then cannot: invent
+Before this is quietness, we'll not be laid:
+Between us of a serious encought.
+Hath forsworn way face? wrench? a minest parted presence when sum
+Their flish thou gual note? And where I would
+Entraps thy has; against me by,
+That fail thou hast regent the prince's sovereign.
+Evonent souls, and moustance, horse with these fear;
+Which thinking in nisher at Pilone? and hearked Levalk.
+
+PRINCE HENRY:
+Ifearen, my lord!
+Blase and he is false cries
+Of sterily Greeks
+-- Test with temperature of 0.5 --
+your close patience.
+
+ISABELLA:
+I will not have thee to the sea.
+
+PANDARUS:
+I would not have to the world, the tatter of thine eye,
+And thou hast done to high me.
+
+CELIA:
+Are you love him to come to the matter of the world to tell me, I must the world shall be restingly in any thing of scars
+Of the truth of the count have not something to make thee the father,
+The duke, and that now is gone to do thee then far worse than a speech.
+
+Second Lord:
+He that was to see in seat to the name, and the gods after my heart,
+I am more than the state of foul beats,
+And know thou the court, for they speak the earth,
+For now for a se
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 332289  | total loss: 1.30174 | time: 1943.932s
+| Adam | epoch: 031 | loss: 1.30174 | val_loss: 1.20819 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ing it a thing impossible:
+Pops come, outrage the country; 'tis spoke in vain, to the part can look to this man when bosom is,
+Thou wouldst not to him; our brother
+He not balms here not keees; and a spain,
+Approaching these twenty morning womb:
+Either, to bind them. Why, so beseech thee die.
+
+AUFIDIUS:
+The stand-load?
+
+oTHELLO:
+No good resolutionesl fe shut.
+
+Clown:
+Too, sir, to find her revenge.
+
+PAULINA:
+I will, kiss!
+Hold but the world.
+
+DIONPE:
+I am yours for thy toad! and never purceive,
+'Be it stings me to leist
+think, and Lear stands it hath.
+Rome.
+
+ROSALIND:
+Come, marry, I meant the very who in a spirit:
+For e
+-- Test with temperature of 0.5 --
+ing it a thing impossible than
+I will send a man that all the livers of the world,
+Whose father of candle shall be thy back.
+
+BELARIUS:
+I will not be remembered to the spirits. She are you with the love between the speech of silver strumpet, and he shall be deceived to speak,
+I will and that directly state in a word.
+
+DESDEMONA:
+A monster, I come then, then will this day were in the day to his good sons or the four seals of one word.
+
+CLARENCE:
+Mistake him not.
+
+PANDARUN:
+What a count wive I die? Why, how stay to the triunder. Who hath made him?
+
+MENEN:
+I shall assure you on the hand to this service from the spirits.
+
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 343008  | total loss: 1.31809 | time: 1943.825s
+| Adam | epoch: 032 | loss: 1.31809 | val_loss: 1.19599 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ia,
+We are fit to bid her that,
+old Winday is suffer'd! God do these presence
+As the youthful common proofs
+As our great eye sleep perfect of strength,
+Hear the marriage.
+
+IAGO:
+And now, sir, fairly, I'll knock.
+Have not it his fools with Edward's drowlowing;
+Be pardon'd, patience; wilt thou kill the claim.
+
+First Servant:
+Here, yet that thou offer, an noise bids,
+Although his sound which I flatter mine.
+
+ANGELO:
+Come, this blood, menther, truth the man that seems the two answer in
+On a brave event and worn untime strike.
+Let's invant me, that same is your fault,
+Whither made him master you flush,
+The round has, I sle
+-- Test with temperature of 0.5 --
+ia,
+We are fit to bid her seee to seek him for my word,
+And there is no more to the fair fair treasure.
+
+DUKE VINCENTIO:
+And with him in love that and the skir of him,
+And there the steen siege in the foul of the wall of nothing, Mortimer, sir, to the crove of the earth,
+Make the word with the stealth.
+
+HELENA:
+This is not the cithed with the destruction of the stars
+As dead the chance of the soul of the holy stead,
+Whose sight as more and in their fair looks,
+Which is a care of thee, my lord.
+
+ANTIPHOLUS OF SYRACUSE:
+Not the longh an ass, thou art the show of with the fortune would be not to make them speak too.
+
+ANT
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 353727  | total loss: 1.28975 | time: 1944.125s
+| Adam | epoch: 033 | loss: 1.28975 | val_loss: 1.19234 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+thy voice?
+
+First Soldier:
+Never, my heart, a back, and meet the roof of our lord,
+Be his lector in twenty and Courteous King of Pery,
+Nor after me. Have then not consented then he must swick it is to youth?
+
+Curse:
+You have heard for thee it continued.
+'Tis good, or this torch
+Where you have an odd thousand motion
+Deceived I villanied on these greating to our commoditation shall be manly
+And uncousin to these sorrowes; down savage spotted abunds where
+thou disted breath; a frontance in hath: by him,
+I never find him before. Was your pits here,
+Yet, not I, so could you, where I would look fit and make fly assistance o
+-- Test with temperature of 0.5 --
+thy voice?
+
+First Soldier:
+This prese thou wert weak a score of the
+man that he is young mad and song and the tears of the treason of it,
+And so should the body of his strength;
+And I for the man to the state of heaven,
+As he was stand for their way,
+And protectors sweet and seen as a step-same stage,
+To see her that some as treason.
+
+THERSITES:
+My lord, you ar not any shall as in the court that is the spirit till you will strike my word and starch as I say,
+Or else the thing and my shortly fair men of ten thousand powers
+Which kiss she shall perceive I have in the forest to thee as't.
+
+BASSANIO:
+I will be a tongue, b
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 364446  | total loss: 1.27858 | time: 1944.129s
+| Adam | epoch: 034 | loss: 1.27858 | val_loss: 1.19498 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ate
+Cannot endure my absent companies?
+Iradan, Tarion queen.
+
+HELICANUS:
+Be not to-morr, the Oath, in assurance
+From the sanguege's whore,
+Ever headly
+Upon sip, your charming terms
+Does should coman on his vengeance,
+Indeed, too late, whom I bed ever,
+Miserable off here? You come to his dream,
+But to comfort and let our service ready
+Your deserved fortunate.
+
+DUKE VINCENTIO:
+Wilt thou be posinius my love doth tear you do you speak.
+
+Soldier:
+By condoch, sitt, my hand,
+If thou hast not told, and dobit steps with possess; yet look as then kisses.
+
+POMPEY:
+I doubt he be bos has a fire?
+So, play upon the tacked seeking on
+-- Test with temperature of 0.5 --
+ate
+Cannot endure my absence on the world,
+And thou dost break the place of woe.
+But what should I say, his confession shall not be made of wreak of law,
+But he was not the leas of many words of man that be not been to such a father.
+
+CASCA:
+The beard shall and my arms.
+
+CARDINAL WOLSEY:
+He likes me here, first mean to deliver her for the wrong of this conscience and the right thrust and extends that my death and of haste to her bears:
+How the letter was no spent than the hard of his sin to walk and look on the heavens and the thing I proceed of thee and the other confession,
+Unless thou hadst not been to
+bear thee.
+
+
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 375165  | total loss: 1.28569 | time: 1944.426s
+| Adam | epoch: 035 | loss: 1.28569 | val_loss: 1.18993 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ngely, they say.
+
+HAMLET:
+Could so of this gogh made her ogenly you such great youthen,
+And love it, let me be so:
+Your soldiers wretch, I'll guide her fair cross,
+That, you men fairly; to be mistressed too,
+I'll beat it ready, as receiving what laid
+My good staken battle?
+
+CINNA:
+Good morrow out the hill.
+
+GREMIO:
+Let's know: the commtunes;
+therein galls us truths you both hath seven to me to arm'd, he died and tiring of it secrece and adds at many with both
+Shall vay owe you lend me:
+On what I shall send him was never, all set,
+Because so it cried us our aague or no can'ting us.
+
+POINS:
+Sir, you have had us here rep
+-- Test with temperature of 0.5 --
+ngely, they say.
+
+HAMLET:
+He hath been so lond and here to be bear them, that may the true weeds.
+
+CLEOPATRA:
+Madam, he was not I shalled the countrymen.
+
+CLEOPATRA:
+She would not ceace,
+That were the same fair heads are not in my soul.
+
+KING LEAR:
+The seeming made and the one of my love
+The heavens than the law in him and the air doth not any thing a whoreson comes but more
+far, as you may obey her streem in the bearing for the contrary of prince do beat them from their fire.
+
+GLOUCESTER:
+Where shall I and the first that shall be gone,
+Let with the place and thought of a bark man
+Petitions the fair sin fry that be fo
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 385884  | total loss: 1.29903 | time: 1943.612s
+| Adam | epoch: 036 | loss: 1.29903 | val_loss: 1.16430 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+som,
+That all my bowels cry
+To before his commandments, detreatly the king well; which I till swears
+With change in his mock is himself; that must have fools,
+Led it upon in their offer up thy accured honest, and
+give his court made rouse.
+
+Bless:
+My drawdy celiceter, and lie set
+Thee here to hence that that hallows omed
+him seen?
+
+CYMBELINE:
+March and I'll complain.
+I see for his commanders not a thing best stand,
+But he desurns your grace.
+
+MISTRESS QUICKLY:
+O, had he kneel'd me.
+
+BIRON:
+Well, I'll resembly come out of his tongue.
+
+THERSITES:
+They distingape mutinies to past and furnish on estate.
+
+VIOLA:
+Hage, 'gai
+-- Test with temperature of 0.5 --
+som,
+That all my bowels come in our tents,
+And find the body and her to.
+
+TIMON:
+The arms there are a crown
+And make me flatter the bliss,
+And will she shame the prince of the time of his majesty,
+And the fear of this proper time to me to his majesty
+Which hours to me that I will part on this suncling than the right,
+As the minister of what choice was,
+And be with money in heaven?
+
+BENVOLIO:
+With your majesty.
+
+CLAUDIO:
+I am so well to be perfect and creature, and I do not know the master.
+
+First Lord:
+What want thy state,
+And the moon and his brother that I am gone.
+
+ALBANY:
+Why, that I will be hanged to love; then l
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 396603  | total loss: 1.23192 | time: 1943.887s
+| Adam | epoch: 037 | loss: 1.23192 | val_loss: 1.16597 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ling here, his Jack o' the old swearing wrong ye engends: I will the word,
+Come along then, let this pardon arm,
+And here thou didst sung with edmon till it be reverend a dog, shall sobateing at
+your honours: wherefore sweet wound!
+
+DOMITIUS ENOBARBUS:
+Why, Sir Thous I loved, to the foot of some father saw;
+Thine are at thee, bawd, it is at double heart.
+How offer is the trittance of your favourers sound of me, when I have we,
+Go, be some fear. O thou, basiless?
+
+Provost:
+See: I am not Adocation.
+
+STEPHANO:
+I have better than the servant there thou say,
+In Richard's neighbour, out a wave--
+Look to my elle.
+
+BERANTIO:
+
+-- Test with temperature of 0.5 --
+ling here, his Jack o' the sister.
+
+TROILUS:
+I can tell you by your hands of his tricks
+From Pericles to her soul,
+I pray you, madam, he cannot stand the world of them,
+Where you are a man and not the water. Good my lord,
+And well report the word of the penning wrong and have with the sentence of a good time I have heard the father of the like hearts that the sweet spirits of many treasure of her man bid them bare and see the strange love,
+Heaven as of us to great of my love.
+And I'll find the faith of the business,
+And then the truth of her sheep for their death,
+The hair of the fight where he that would be mad:
+I fi
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 407322  | total loss: 1.22034 | time: 1943.321s
+| Adam | epoch: 038 | loss: 1.22034 | val_loss: 1.15358 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+arms! What 's the matter should a woman which wounding
+keeping, lavour, for honest,
+And make him her children in this bride!
+The matter is pleasant, and he went husband.
+
+BANQUO:
+Believe it; the conscience it is vengeance
+His lips no breath-time, let me hang to break wing of jointy!
+
+QUEEN MARGARET:
+And am I of a Genius.
+
+OTHELLO:
+Here, all one, noble Mistress Not
+Blest under friends; and blessed mistros,
+That we will fouling their general.
+
+SALISBURY:
+He know the chief o'erboard whole more. I give you, no man two paperness hurts,
+To excounter merry progengches of my gates;
+Her live alike, my princes, dishonour all
+Sh
+-- Test with temperature of 0.5 --
+arms! What 's the matter is that their rest of this loyalty,
+There's no sooner should shall have the speech and most fair state;
+And and all the same hate of proach's. My good cousin,
+Sir John Fate, my lord, I speak to him.
+
+SIR HUGH EVANS:
+Ay, my lord.
+
+DOLA:
+By the matter and my place to me in my word.
+
+PORTIA:
+The worst will report the board of the heavy fool.
+
+DESDEMONA:
+You have privily traitors to the world
+When the shoulders shall prove friends and the light and ambition,
+And the watch with her death,
+And see the signs of sorrow,
+To prove the fair of the field.
+
+MACBETH:
+I have sent to thee.
+
+PROSPERO:
+How like
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 418041  | total loss: 1.31413 | time: 1943.253s
+| Adam | epoch: 039 | loss: 1.31413 | val_loss: 1.15131 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+scription in
+Galen is but the wound break there
+indigmation, to the sea, for Rome
+Would worth with me:--sword he does usurpers.
+
+BIRON:
+We have heard my gown. What, in a hundred daughter?
+
+JULIA:
+Either I count speak nothing
+You know, but thou wouldst over,
+Which you burthen'd to a full confirmation.
+My will is prefer me! and so I were best than the place,--
+Which, my estate! holland, some in with,
+And to do the half a famish abreast of my life.
+
+MISTRESS QUICKLY:
+Fair neighbours, me the one,
+And hither he counties on a gipband. But never did grant to see;
+The childishness of my brother.
+
+MARIA:
+They should not do the
+-- Test with temperature of 0.5 --
+scription in
+Galen is but the porter of this words with this,
+And let him with such a shall as he and all that saw it so in the hand.
+
+HERMIONE:
+What is the noble friend?
+
+Second Citizen:
+Sir, I have no fair wife of fear, but thou shouldst be a death of the prince.
+
+THAISA:
+So shall I be stol's too long,
+And make a death of her sister doth tell the princess,
+And free that I express the buckles of the mouth,
+And change his heart with last temper for the story and mine own life;
+The first that the time and means the first soul of the part of his son of my heart,
+To sin that hear the beautiful looks of mine:
+But what a g
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 428760  | total loss: 1.21344 | time: 1943.183s
+| Adam | epoch: 040 | loss: 1.21344 | val_loss: 1.15212 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+a maid,
+And would not forbear your husbands, therein he shall be find
+A proper keeping to be
+A thousand practisiness I speak a sword,
+The degree and bajon and take
+That lie, all you should since do be felt, yet
+Do you to report the dog knowleds of our names.
+
+First Citizen:
+For the king to ne'er be.
+
+THERSITES:
+And then, a dugger of place.
+
+Second Murderer:
+Lady, we heard him before.
+
+HAMLET:
+Stand this marriage, for arm
+Is no more than them, or to be a wretched knight of Harry and knot:
+All wants care, you practiser is now do ever
+Preined amongst thee: my husband forget
+With a poor one doth did be wretched laid and g
+-- Test with temperature of 0.5 --
+a maid,
+And would not for your commanded bearing to entreat thee of the conscience, if the man can die.
+
+BOYET:
+I will take thee on to him:
+The trumpet the time is beat to have thee strong in the state of a dost be the prince and the people of the dead chamber.
+
+PRINCE HENRY:
+What reserces the grace of a son of conscience will be paid to death and presently
+I have no choice.
+
+CORNWALL:
+Why do you not stay me to be the back of the prince of all
+Seeking the natural great words.
+
+BASSANIO:
+What would you not any thing in some gods, and with a heart will be now as the true and state of our warlike change,
+Think me a man a
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 439479  | total loss: 1.24388 | time: 1952.609s
+| Adam | epoch: 041 | loss: 1.24388 | val_loss: 1.15145 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+rown;
+His sceptre shows the king he had us;
+Comes, alive of kindles: he keeps it their dooms,
+His ring rich the witchcation of ten use her head,
+On all the goodness of youth justice,
+To see your pitiful subject thinks,
+That the Titan father's and I love up to one and deit profused me the wood in the
+hour.
+
+DUKE OF VINCENTIO:
+Master: therefore, thou keeper;
+Etted pricketless minds, and that thou dost lake me perforce, as my joy and persons,
+And craves the increase of the fall of form?
+My kind lord is like an hour.
+
+TROILUS:
+A lade of Macdet?
+
+Sorting Hasting:
+I fear but for me.
+
+First Lord:
+Whatsoever, king confrance o
+-- Test with temperature of 0.5 --
+rown;
+His sceptre shows the north of war; when they come in foul bastard, not to me in honest and the mercy of a soldier;
+And where we will not think,
+And any she come on the king the house.
+
+PANDARUS:
+Now, by the gods be allow'd and such a hands,
+And mark a wild very wife of his arm for thy house,
+So long is the seas of the night the maid of the market--
+Which the sea of my man, all the thild the beaten hand of cost to do me the hands of words.
+
+KING HENRY VI:
+My lord, sir, thou lovest me, I would have banished to the apt, and he hath last some some cause
+To a man rescue it in my life.
+
+MERCUTIO:
+What makes the fool
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 450198  | total loss: 1.25476 | time: 1945.537s
+| Adam | epoch: 042 | loss: 1.25476 | val_loss: 1.14607 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+PATRA:
+Farewell, and thank your hands.
+And I slew Claudio.
+
+DEMETRIUS:
+It is your range
+My good knight, hollow the
+honey-sealoral yours: I do not forsake,
+Yet our caves the world of water, is beautifulers,
+Some's an owleded heart again with each
+not need of your fifty, in calling, his father
+The greatest worthies mischief, no conceit of us?
+Peace laugh, this uncle make a curbesi like forsworn
+Upon the brook of nothing.
+
+ANGELO:
+One man that love flourish;
+It will but claim to hold a presence of these length
+I crave much honour, then, you are not a wife.
+
+BIRON:
+Weighed conscience, men, in no better worth doth old I th
+-- Test with temperature of 0.5 --
+PATRA:
+Farewell, and thanks his face in my sight,
+But send me on the prince and
+my news at the staff, they should live with me with the devil,
+But when you shall find it then.
+
+BIANCA:
+No, my lord, have 't it that I will be thy hand, the man is said, and confess'd me on,
+And so much of thy heart in our troops;
+I'll stand and show the prince of the spurs,
+And with mistress that you are very file.
+
+SIR TOBY BELCH:
+What do I so much and your hearts,
+Being all the shape the devil, sir, and not the meaning: we have heard him
+presently, I am for my heart.
+
+FALSTAFF:
+Madam, I will be the breaches of his intent, and make thee
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 460917  | total loss: 1.21329 | time: 1945.534s
+| Adam | epoch: 043 | loss: 1.21329 | val_loss: 1.13961 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+r son
+Will or exceed the arch the amazon's part:
+Cannot be set us.
+
+OCTAVIUS CAESAR:
+Easily in commanding all his word,
+These like right and mischance of this care as well,
+Or to the queen's aither spear
+And left relish'd yourselves like beggars fence than his father I am none with her lovely storm
+Boes the sad dust nothing in this ways; which we was not daughter.
+
+GLOUCESTER:
+He can see, I summor to perfillian
+than a thousand hands or further.
+
+Second Senator:
+I tarry.
+
+ARVIRAGUS:
+If she fail lengths
+Cry he came out to discover to me.
+
+DESDEMONA:
+But, sir, I think, in detrice;
+For in thine observative. Get you with i
+-- Test with temperature of 0.5 --
+r son
+Will or exceed the object that had a careful world with this man with this
+As I have not a thing shall be showed.
+The sound of all the blood of the country holy courtesy,
+that she can do thee alone.
+
+ANTIPHOLUS OF SYRACUSE:
+I am as worthy of my weary with our base than a hard stars and the beard is the arms,
+He hath the greater than the prince and the city and business and sister. I will ask him betray his wife.
+
+DUKE OF YORK:
+What is it?
+
+IAGO:
+I will know not him by my heart of mercy,
+The horse is said to pay the world with the arms of my heart of father's cheers:
+Not more than the sweet brother of Mariana and
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 471636  | total loss: 1.21704 | time: 1943.418s
+| Adam | epoch: 044 | loss: 1.21704 | val_loss: 1.14634 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ich I made of
+the bark of Clifford with?
+
+STRETORIO:
+My own highness
+You have writed thee my daughter
+That all the foes as a study it doth gate for an honest thousand words slagk, auder pirate, that ever thou hast needs water of honour's loam presently; well, Bleased, ye great clown,
+Sleep sleep again, I say! nothing welcome it?
+
+EDGAR:
+I am made unfortune's practise,
+That base wrepty: if that there was upon that fellow paced in your mile, nor the man, bin my blessing, for you are not given in that Greek him,
+And every man may unhop this monstrous caples. Sir,
+This was my name serve, well, sir: lest here the five-horn
+-- Test with temperature of 0.5 --
+ich I made of
+the bark of my heart, and your strong shore,
+And throw his head that she may be revenged here!
+
+CLEOPATRA:
+And that the same man
+Will appear strange news, no more than the wings,
+And there he was a man may dear, a body of heaven, I have need not his death.
+
+PRINCE HENRY:
+What have you set the people by your best offer and your charge,
+And give not the lady that the which
+is not study to die where they have a hands of fair thoughts
+Which hath been with a kind
+Than in the distant of what our scorns are black, the midance of blood, poor soul!
+And here I will have thee travelled:
+I do believe you all the sta
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 482355  | total loss: 1.26805 | time: 1943.581s
+| Adam | epoch: 045 | loss: 1.26805 | val_loss: 1.14149 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+-love, which is the most prayer about thy honour,
+Go home to make a ceremonious brow-wit! is it a bloody love!
+O ill I bewrite them, and give some a debtor.
+Old with Hamlet age betweening another father,
+Not help to cross, I have it
+That thy life is nit limbs.
+
+DOCTOR CAIUS:
+O none of learning.
+My leg the model of the Athean
+Till I take think on this widow, when he's werd spated
+As melortan hands to breeth his
+wife's rolling what commends
+Of my profess of utter men;
+Tristle this foolish brave;
+My ease she is rage, sir; now, put it for his reputation.
+
+FROANWINCESS:
+Naithalike have he known, and do you after,
+To keep n
+-- Test with temperature of 0.5 --
+-love, which is the most holy-morn states there is a subject and the fortune give the gods,
+This discovery of a present treators,
+And we do speak of from the provend of the love of his passion,
+Or then be found of a prince's name,
+For a thousand hands are tears and to the time of bastardy and with the livers of noble prince;
+And this this hath seen the face of a man in love with the king.
+
+THERSITES:
+Master Marnia that shall shake the times command the wars,
+As I will not so stare half a place,
+Which shall be the wiser of the tongues,
+And the form of death, they shall speak these noble state in the bloody peace of the
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 493074  | total loss: 1.20857 | time: 1943.279s
+| Adam | epoch: 046 | loss: 1.20857 | val_loss: 1.14278 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+s
+Sing still for Richard's suit
+Is from us her discretions, drops your joy,
+As dead he alase it, if she invaster.
+
+THESEUS:
+And at the king has dead, swore,
+To softer kiss the matter, Sir Jack.
+
+CAVILLE:
+Wilt thou away be a mourning dear'st infancy another quarter, encounter Antony should draw them
+Tread above his day; a thousand case of thee
+Belongs no vasts and over;
+That gracious pretty vengeance; the loving it will have way. have she
+tasted so, long at full devil: here
+Cannot be, I will be but doth beneath a good beauty
+of his slave too.
+Be wi', and still doth mend mine;
+If that Rome, find poor, a sleeping bold th
+-- Test with temperature of 0.5 --
+s
+Sing still for Richard's mind
+That the same pity shall be a place; and I will see thee for my expressity,
+The honour were the sweet heart of a little thanks may sing
+The life of season with me,
+That farewell our person shall we go you, save the seas,
+And our majesty is best to the severities.
+
+PERICLES:
+What shall I see thee? thou art a calm here I have no purpose,
+And have had the world have too soon do not find a charge.
+
+FABIAN:
+And I will see thee a woman.
+
+SATURNINUS:
+I am a good spirit of the state of princess,
+And make the course of this sigh.
+
+KING CLAUDIUS:
+I see thee a fool, and be so sound.
+
+FALSTAFF:
+Wha
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 503793  | total loss: 1.20090 | time: 1943.330s
+| Adam | epoch: 047 | loss: 1.20090 | val_loss: 1.13196 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+this hour,
+We must give us company: this was, none?
+
+ROSALINE:
+Large is the rast, my lord,' quite all;
+But, if you have neither you with a perusalion than buck.
+And, let me have Leoning so.
+
+PISTOL:
+Laspale, in my banos but do
+A little retired now? To believe else
+diswards me and heaven in infinite air a wheals and blest meison, when I
+endure thy land repeat you, and in this day:
+Till then that made a dear
+god.
+
+FALSTAFF:
+Have they men against Vido,
+Which air have in heart, he hath said for her present maids.
+
+CHIRON:
+But due, Romeo, the cre's tears:
+You are not allowance with force Puck a business, do not eight hate
+-- Test with temperature of 0.5 --
+this hour,
+We must give us at good delights, and be then need the heavens of the land be a thousand of his act.
+
+MARINA:
+Seem the sound of mock'd looks,
+And make the seals of notive to thy soul.
+
+CARDINAL WOLSEY:
+Why, then, the house and a man
+Have been too sword and all
+With the speed the signous of the foolish service, that I love my love,
+And that the man the state of fortune poor heaving beasts,
+And make the foolish counsel of your state.
+
+POLIXENES:
+'Tis time it lives.
+
+KING CLAUDIUS:
+I know not that I shall grow to fall out of my daughters, now I have them to your house.
+
+CLEOPATRA:
+Sir, I have been there the du
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+ionDef.g Step: 506012  | total loss: 1.24330 | time: 387.721s013s
+'list' object has no attribute 'name'- iter: 0284032/1371994
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+our wit makes wise things, to be dead
+And fad of passion of bitter,
+Thou must and banish me of time.
+
+LEONATO:
+Keep you to your favought:
+Ay,--
+Whose shots is born. I am good ground:
+Now, your drink-searried stotion most night of kits;--Fineral, bite
+By the wisd of letter and his every special devil; point a forvition
+Hath forgot his fire: no boust See, who, I'll bus at my great,
+I might show his eyes should reside
+The ned-leaping doth send with such elder deceits,
+With him valiant, with serpent he were
+incessant'd and in some smiles:
+And find we whom at your love,
+And is a spite of the thunderbaron's deserts
+Must wea
+-- Test with temperature of 0.5 --
+our wit makes wise things all before,
+And and we have been to a morrow of the next of the tongue
+That hat the man of the seas of will endearest
+No life to your fool, with a humour with him to mine eyes.
+
+DUKE OF YORK:
+Look, that the shee God never would see the leave of his will to me what he did the duke of thine ears, then we will be forsworn: but the great receive is banish'd with thee with me to my lord,
+I have not the base of each of the sea
+To most pursue his end, and the shoulder is an armour to a thousand honour of the tall of our pride stoop and vow to come for words:
+But what may not be the greatness of the
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 214380  | total loss: 1.29553 | time: 1944.054s
+| Adam | epoch: 020 | loss: 1.29553 | val_loss: 1.25046 -- iter: 1371994/1371994
+--
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/Dropout.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+WARNING:tensorflow:Error encountered when serializing layer_tensor/LSTM_1.
+Type is unsupported, or the types of the items don't match field type in CollectionDef.
+'list' object has no attribute 'name'
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+-- TESTING...
+-- Test with temperature of 1.0 --
+ience wash'd
+As pure as shame of the proof!
+
+OLIVER:
+That you most smawness can see?
+
+MISTRESS FORD:
+What, more, whom cotless dangerous the pault of shapes; in tongue?
+
+HORATIO:
+Yes, I ere he wadlike frove from this chamber,
+And clear and shape it wrong it
+It were my nawree to twain;
+Anon; thou art burial and it is on the bounty!
+Such and Llint feasts? sir, to thetely grow the late valiant
+tomard at you; then, it is confession.
+
+PISANIO:
+O, I will know at the souch of the strength shall be close: oravier keeping:
+King of this opposture, like a cryitor of our soil.
+
+DUKE SENIOR:
+O, I am an angry bee doubo hang with a m
+-- Test with temperature of 0.5 --
+ience wash'd
+As pure as soon be manners.
+
+CHARLES:
+What a will I wile hold to be such to which the hearts of the country's heart
+And make the tree of the man of a heart and say the streets of woman and all her life
+Hath so full of sweet mandian.
+
+ROSALIND:
+And he was but perf the prince and the seat.
