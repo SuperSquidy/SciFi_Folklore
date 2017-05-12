@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/SciFi_Folklore/TFLearn_LSTM_Full/model_scififolklore-103037"
+all_model_checkpoint_paths: "/home/ubuntu/SciFi_Folklore/TFLearn_LSTM_Full/model_scififolklore-103037"
